@@ -1,0 +1,63 @@
+Exotic Rug - Grp B - 1,820/430 - Exotic Series
+x Lovely Carpet - Grp A - 1,980/495 - Lovely Series
+x Classic Carpet - Grp B - 2,300/575 - Classic Series
+x Ranch Flooring - Grp A - 1,750/437 - Ranch Series
+x Cabana Flooring - Grp C - 1,680/420 - Cabana Series
+x Blue Flooring - Grp B - 1,580/395 - Blue Series
+x Modern Tile - Grp B - 1,540/385 - Modern Series
+x Regal Carpet - Grp C - 2,850/712 - Regal Series
+x Green Rug - Grp A - 1,540/385 - Green Series
+Cabin Rug - Grp A - 1,540/385 - Cabin Series
+x Kiddie Carpet - Grp B - 1,630/407 - Kiddie Series
+x Robo-Floor - Grp A - 2,400/600 - Robo Series
+Snowman Carpet* - Snowman - none/8,888 - Snowman Series
+Forest Floor* - Cornimer - none/420 - Mushroom Series
+Western Desert* - Saharah - none/1,700 - Western Theme
+Lunar Surface* - Saharah - none/2,000 - Space Theme
+x Closed Road* - Saharah - none/1,625 - Construction Theme
+Boxing Ring Mat* - Saharah - none/2,500 - Boxing Theme
+x Backyard Lawn - Grp B - 880/220 - Backyard Theme
+x Playroom Rug - Grp C - 1,360/340 - Nursery Theme
+Ship Deck* - Pascal - none/1,000 - Pirate Theme
+x Lab Floor - Grp B - 1,280/320 - Mad Scientist Theme
+x Pastel Dot Rug - Grp B - 1,300/325
+x Checkered Tile - Grp C - 1,680/420
+Ceramic Tile - Grp A - 1,390/347
+x Diner Tile - Grp B - 1,300/325
+x Red Tile - Grp B - 1,680/420
+Mosaic Tile - Grp B - 2,300/575
+Plaza Tile - Grp A - 2,180/545
+x Palace Tile - Grp A - 3,200/800
+x Imperial Tile - Grp A - 2,980/745
+x Kitchen Tile - Grp B - 1,890/472
+x Stone Tile - Grp C - 2,750/687
+x Charcoal Tile - Grp B - 800/200
+Tatami Floor* - Saharah - none/2,125
+x Slate Flooring - Grp C - 1,380/345
+x Concrete Floor* - Saharah - none/1,800
+x Parquet Floor - Grp C - 2,350/587
+Music Room Floor* - Saharah - none/1,800
+x Opulent Rug - Grp B - 1,230/307
+x Plush Carpet - Grp A - 2,160/540
+x Ornate Rug - Grp C - 2,100/525
+x Fancy Carpet - Grp B - 2,980/745
+x Exquisite Rug - Grp C - 1,960/490
+Persian Rug - Grp A - 1,280/320
+x Tartan Rug - Grp C - 1,820/455
+x Round Carpet - Grp C - 1,080/270
+x Citrus Carpet - Grp C - 1,330/332
+x Cowhide Rug - Grp C - 1,540/385
+x Birch Flooring - Grp C - 800/200
+Old Flooring - Grp A - 800/200
+Bamboo Flooring - Grp A - 1,360/340
+Steel Flooring - Grp A - 1,480/370
+x Shanty Mat - Grp C - 720/180
+x Ancient Tile* - Saharah - none/2,400
+x Fairy Tale Floor - Grp B - 2,400/600
+x Illusion Floor - Grp C - 1,600/400
+Daisy Meadow* - Saharah - none/1,800
+Tropical Floor* - Saharah - none/2,050
+x Saharah's Desert* - Saharah - none/1,800
+x Sandlot* - Saharah - none/1,700
+x Cloud Flooring - Grp A - 1,480/370
+x Common Floor - Grp A - 1,280/320

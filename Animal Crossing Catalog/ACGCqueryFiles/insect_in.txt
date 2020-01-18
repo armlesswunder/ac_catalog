@@ -1,0 +1,80 @@
+[Common Butterfly] Monshirochou - 80 - in air - March, 8am to 4pm - April through August, 8am to 5pm (best time is April through June, 8am to 4pm) - September through October, 8am to 4pm
+
+[Yellow Butterfly] Monkichou - 80 - in air - March, 8am to 4pm - April through August, 8am to 5pm (best time is April through June, 8am to 4pm) - September through October, 8am to 4pm
+
+[Tiger Butterfly] Agehachou - 200 - in air - April, 8am to 4pm - May through August, 8am to 5pm (best time is May through June, 8am to 4pm) - September, 8am to 4pm
+
+[Purple Butterfly] Oomurasaki - 2,000 - in air - June through August, 8am to 5pm
+
+[Brown Cicada] Aburazemi - 130 - on trees - July through August, 8am to 5pm (best time is 8am to 4pm)
+
+[Robust Cicada] Minminzemi - 200 - on trees - July through August, 8am to 4pm
+
+[Walker Cicada] Tsukutsukuboushi - 200 - on trees - July through September, 8am to 4pm
+
+[Evening Cicada] Higurashi - 850 - on trees - July through August, 4am to 8am and 4pm to 7pm (best time is 5pm to 7pm)
+
+[Red Dragonfly] Akiakane - 80 - in air - September through October, 8am to 7pm (best time is 4pm to 5pm)
+
+[Common Dragonfly] Shiokaratonbo - 130 - in air - May through July, 8am to 5pm (best time is May through June)
+
+[Darner Dragonfly] Ginyanma - 200 - in air - June through August, 8am to 5pm
+
+[Banded Dragonfly] Oniyanma - 4,500 - in air - July through August, 8am to 5pm
+
+[Cricket] Koorogi - 130 - on ground - September through November, 5pm to 8am (best time is September, 7pm to 4am)
+
+[Grasshopper] Kirigirisu - 130 - on ground - August through September, 8am to 5pm (best time is September, 8am to 4pm)
+
+[Pine Cricket] Matsumushi - 100 - on ground - September through October, 5pm to 8am (best time is 7pm to 4am)
+
+[Bell Cricket] Suzumushi - 430 - on ground - September through October, 5pm to 8am (best time is September, 7pm to 4am)
+
+[Ladybug] Tentoumushi - 130 - on flowers - March through July and October, 8am to 5pm (best time is March through May, 8am to 4pm)
+
+[Spotted Ladybug] Nanahoshitentou - 200 - on flowers - March through July and October, 8am to 5pm (best time is March through May, 8am to 4pm)
+
+[Mantis] Kamakiri - 430 - on flowers - August through October, 8am to 5pm (best time is September, 8am to 4pm)
+
+[Long Locust] Shouryoubatta - 200 - on ground - August through October, 8am to 7pm (best time is September through October, 8am to 4pm) - November, 8am to 5pm
+
+[Migratory Locust] Tonosamabatta - 1,350 - on ground - September through October, 8am to 7pm (best time is 8am to 4pm) - November, 8am to 5pm
+
+[Cockroach] Gokiburi - 1 - on trees, flowers, or rotten turnips - March through November, all day
+
+[Bee] Hachi - 4,500 - in trees - all year, all day
+
+[Firefly] Genjibotaru - 250 - near freshwater - June, 7pm to 4am (best time is 7pm to 11pm)
+
+[Drone Beetle] Kanabun - 80 - on trees - July through August, all day
+
+[Longhorn Beetle] Gomadarakamikiri - 200 - on trees - June through August, 8am to 5pm (best time is June through July)
+
+[Jewel Beetle] Tamamushi - 3,000 - on trees - July through August, 8am to 4pm
+
+[Dynastid Beetle] Kabutomushi - 1,350 - on trees - July through August, 7pm to 8am
+
+[Flat Stag Beetle] Hiratakuwagata - 2,000 - on trees - June through August, 7pm to 8am (best time is July through August)
+
+[Saw Stag Beetle] Nokogirikuwagata - 2,000 - on trees - July through August, 7pm to 8am
+
+[Mountain Beetle] Miyamakuwagata - 2,000 - on trees - July through August, 7pm to 8am
+
+[Giant Beetle] Ookuwagata - 10,000 - on trees - July through August, 11pm to 8am
+
+[Pondskater] Amenbo - 130 - on large and holding ponds - June through September, 8am to 7pm
+
+[Ant] Ari - 80 - on candy or rotten turnips - all year, all day
+
+[Pillbug] Dangomushi - 250 - under rocks - all year, all day
+
+[Mosquito] Ka - 130 - in air - May through September, 5pm to 11pm (best time is July through August)
+
+[Mole Cricket] Okera - 200 - underground - November through May, all day (best time is December through April)
+
+[Spider] Kumo - 300 - in trees - April through September, all day
+
+[Snail] Dendenmushi - 250 - on flowers, usually during rain - April through September, all day
+
+[Bagworm] Minomushi - 250 - in trees - October through March, all day
+eof

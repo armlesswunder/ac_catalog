@@ -1,0 +1,19 @@
+C:\Users\000ab\Desktop\ListWizard\ListWizard\bin\Release\ListWizard.exe.config
+C:\Users\000ab\Desktop\ListWizard\ListWizard\bin\Release\ListWizard.exe
+C:\Users\000ab\Desktop\ListWizard\ListWizard\bin\Release\ListWizard.pdb
+C:\Users\000ab\Desktop\ListWizard\ListWizard\obj\Release\ListWizard.csprojAssemblyReference.cache
+C:\Users\000ab\Desktop\ListWizard\ListWizard\obj\Release\ListWizard.The_Wyzzrd.resources
+C:\Users\000ab\Desktop\ListWizard\ListWizard\obj\Release\ListWizard.Properties.Resources.resources
+C:\Users\000ab\Desktop\ListWizard\ListWizard\obj\Release\ListWizard.csproj.GenerateResource.cache
+C:\Users\000ab\Desktop\ListWizard\ListWizard\obj\Release\ListWizard.exe
+C:\Users\000ab\Desktop\ListWizard\ListWizard\obj\Release\ListWizard.pdb
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\ListWizard.exe.config
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\ListWizard.exe
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\ListWizard.pdb
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.csprojAssemblyReference.cache
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.The_Wyzzrd.resources
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.Properties.Resources.resources
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.csproj.GenerateResource.cache
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.exe
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.pdb
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.SerenaQuestions.resources

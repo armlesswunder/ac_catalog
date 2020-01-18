@@ -1,0 +1,322 @@
+[Mini Gargloid] Chibi ugai haniwa - ground - none/828 - makes sound
+
+[Gargloid] Nami ugai haniwa - ground - none/828 - makes sound
+
+[Tall Gargloid] Noppo ugai haniwa - ground - none/828 - makes sound
+
+[Mini Warbloid] Chibi ugaiko haniwa - ground - none/828 - makes sound
+
+[Warbloid] Nami ugaiko haniwa - ground - none/828 - makes sound
+
+[Tall Warbloid] Noppo ugaiko haniwa - ground - none/828 - makes sound
+
+[Mini Freakoid] Chibi uwa haniwa or Mini Upper Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mega Freakoid] Deka uwa haniwa or Mega Upper Gyroid - ground - none/828
+                                                     - makes sound
+
+[Mini Echoid] Chibi eko haniwa - ground - none/828 - makes sound
+
+[Mega Echoid] Deka eko haniwa - ground - none/828 - makes sound
+
+[Tall Echoid] Noppo eko haniwa - ground - none/828 - makes sound
+
+[Mini Gongoid] Chibi kakukaku haniwa or Mini Brilliant Gyroid - ground
+                                                              - none/828
+                                                              - makes sound
+
+[Mega Gongoid] Deka kakukaku haniwa or Mega Brilliant Gyroid - ground
+                                                             - none/828 - makes
+                                                               sound
+
+[Gongoid] Nami kakukaku haniwa or Brilliant Gyroid - ground - none/828 - makes
+                                                     sound
+
+[Tall Gongoid] Noppo kakukaku haniwa or Tall Brilliant Gyroid - ground
+                                                              - none/828
+                                                              - makes sound
+
+[Mini Poltergoid] Chibi karakara haniwa or Mini Parched Gyroid - ground
+                                                               - none/828
+                                                               - makes sound
+
+[Mega Poltergoid] Deka karakara haniwa or Mega Parched Gyroid - ground
+                                                              - none/828
+                                                              - makes sound
+
+[Poltergoid] Nami karakara haniwa or Parched Gyroid - ground - none/828
+                                                    - makes sound
+
+[Tall Poltergoid] Noppo karakara haniwa or Tall Parched Gyroid - ground
+                                                               - none/828
+                                                               - makes sound
+
+[Mini Lamentoid] Chibi garagoro haniwa or Mini Gargoyle Gyroid - ground
+                                                               - none/828
+                                                               - makes sound
+
+[Mega Lamentoid] Deka garagoro haniwa or Mega Gargoyle Gyroid - ground
+                                                              - none/828
+                                                              - makes sound
+
+[Lamentoid] Nami garagoro haniwa or Gargoyle Gyroid - ground - none/828 - makes
+                                                      sound
+
+[Tall Lamentoid] Noppo garagoro haniwa or Tall Gargoyle Gyroid - ground
+                                                               - none/828
+                                                               - makes sound
+
+[Mini Metatoid] Chibi karara haniwa - ground - none/828 - makes sound
+
+[Metatoid] Nami karara haniwa - ground - none/828 - makes sound
+
+[Mini Squelchoid] Chibi gyuu haniwa - ground - none/828 - makes sound
+
+[Mega Squelchoid] Deka gyuu haniwa - ground - none/828 - makes sound
+
+[Squelchoid] Nami gyuu haniwa - ground - none/828 - makes sound
+
+[Mini Fizzoid] Chibi giro haniwa or Mini Gyro Gyroid - ground - none/828
+                                                     - makes sound
+
+[Mega Fizzoid] Deka giro haniwa or Mega Gyro Gyroid - ground - none/828 - makes
+                                                      sound
+
+[Mini Plinkoid] Chibi kurikku haniwa or Mini Click Gyroid - ground - none/828
+                                                          - makes sound
+
+[Mega Plinkoid] Deka kurikku haniwa or Mega Click Gyroid - ground - none/828
+                                                         - makes sound
+
+[Plinkoid] Nami kurikku haniwa or Click Gyroid - ground - none/828 - makes
+                                                 sound
+
+[Mini Croakoid] Chibi gero haniwa or Mini Spew Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mega Croakoid] Deka gero haniwa or Mega Spew Gyroid - ground - none/828
+                                                     - makes sound
+
+[Croakoid] Nami gero haniwa or Spew Gyroid - ground - none/828 - makes sound
+
+[Tall Croakoid] Noppo gero haniwa or Tall Spew Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mini Strumboid] Chibi gen haniwa or Mini String Gyroid - ground - none/828
+                                                        - makes sound
+
+[Mega Strumboid] Deka gen haniwa or Mega String Gyroid - ground - none/828
+                                                       - makes sound
+
+[Strumboid] Nami gen haniwa or String Gyroid - ground - none/828 - makes sound
+
+[Tall Strumboid] Noppo gen haniwa or Tall String Gyroid - ground - none/828
+                                                        - makes sound
+
+[Mini Rustoid] Chibi jan haniwa - ground - none/828 - makes sound
+
+[Mega Rustoid] Deka jan haniwa - ground - none/828 - makes sound
+
+[Rustoid] Nami jan haniwa - ground - none/828 - makes sound
+
+[Mini Buzzoid] Chibi dija haniwa - ground - none/828 - makes sound
+
+[Mega Buzzoid] Deka dija haniwa - ground - none/828 - makes sound
+
+[Buzzoid] Nami dija haniwa - ground - none/828 - makes sound
+
+[Tall Buzzoid] Noppo dija haniwa - ground - none/828 - makes sound
+
+[Mini Timpanoid] Chibi tinpa haniwa - ground - none/828 - makes sound
+
+[Mega Timpanoid] Deka tinpa haniwa - ground - none/828 - makes sound
+
+[Timpanoid] Nami tinpa haniwa - ground - none/828 - makes sound
+
+[Tall Timpanoid] Noppo tinpa haniwa - ground - none/828 - makes sound
+
+[Mini Dekkoid] Chibi deka haniwa - ground - none/828 - makes sound
+
+[Mega Dekkoid] Deka deka haniwa - ground - none/828 - makes sound
+
+[Dekkoid] Nami deka haniwa - ground - none/828 - makes sound
+
+[Mini Drilloid] Chibi doriru haniwa - ground - none/828 - makes sound
+
+[Mega Drilloid] Deka doriru haniwa - ground - none/828 - makes sound
+
+[Drilloid] Nami doriru haniwa - ground - none/828 - makes sound
+
+[Mega Oboid] Deka pa haniwa - ground - none/828 - makes sound
+
+[Oboid] Nami pa haniwa - ground - none/828 - makes sound
+
+[Tall Oboid] Noppo pa haniwa - ground - none/828 - makes sound
+
+[Mini Clankoid] Chibi bachin haniwa - ground - none/828 - makes sound
+
+[Mega Clankoid] Deka bachin haniwa - ground - none/828 - makes sound
+
+[Clankoid] Nami bachin haniwa - ground - none/828 - makes sound
+
+[Tall Clankoid] Noppo bachin haniwa - ground - none/828 - makes sound
+
+[Mini Alloid] Chibi pan haniwa - ground - none/828 - makes sound
+
+[Mega Alloid] Deka pan haniwa - ground - none/828 - makes sound
+
+[Tall Alloid] Noppo pan haniwa - ground - none/828 - makes sound
+
+[Mini Dinkoid] Chibi pipopa haniwa - ground - none/828 - makes sound
+
+[Mega Dinkoid] Deka pipopa haniwa - ground - none/828 - makes sound
+
+[Tall Droploid] Noppo pyon haniwa - ground - none/828 - makes sound
+
+[Mini Harmonoid] Chibi piro haniwa or Mini Pyro Gyroid - ground - none/828
+                                                       - makes sound
+
+[Mega Harmonoid] Deka piro haniwa or Mega Pyro Gyroid - ground - none/828
+                                                      - makes sound
+
+[Harmonoid] Nami piro haniwa or Pyro Gyroid - ground - none/828 - makes sound
+
+[Tall Harmonoid] Noppo piro haniwa or Tall Pyro Gyroid - ground - none/828
+                                                       - makes sound
+
+[Mini Tootoid] Chibi bu haniwa - ground - none/828 - makes sound
+
+[Mega Tootoid] Deka bu haniwa - ground - none/828 - makes sound
+
+[Tootoid] Nami bu haniwa - ground - none/828 - makes sound
+
+[Mini Howloid] Chibi funya haniwa - ground - none/828 - makes sound
+
+[Mega Howloid] Deka funya haniwa - ground - none/828 - makes sound
+
+[Howloid] Nami funya haniwa - ground - none/828 - makes sound
+
+[Mini Bowtoid] Chibi buraza haniwa or Mini Brass Gyroid - ground - none/828
+                                                        - makes sound
+
+[Mega Bowtoid] Deka buraza haniwa or Mega Brass Gyroid - ground - none/828
+                                                       - makes sound
+
+[Bowtoid] Nami buraza haniwa or Brass Gyroid - ground - none/828 - makes sound
+
+[Tall Bowtoid] Noppo buraza haniwa or Tall Brass Gyroid - ground - none/828
+                                                        - makes sound
+
+[Mini Nebuloid] Chibi fuwafuwa haniwa or Mini Light Gyroid - ground - none/828
+                                                           - makes sound
+
+[Mega Nebuloid] Deka fuwafuwa haniwa or Mega Light Gyroid - ground - none/828
+                                                          - makes sound
+
+[Squat Nebuloid] Debu fuwafuwa haniwa or Chubby Light Gyroid - ground
+                                                             - none/828 - makes
+                                                               sound
+
+[Nebuloid] Nami fuwafuwa haniwa or Light Gyroid - ground - none/828 - makes
+                                                  sound
+
+[Tall Nebuloid] Noppo fuwafuwa haniwa or Tall Light Gyroid - ground - none/828
+                                                           - makes sound
+
+[Slim Nebuloid] Yase fuwafuwa haniwa or Slim Light Gyroid - ground - none/828
+                                                          - makes sound
+
+[Wee Dingloid] Puchi beru haniwa or Small Bell Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mini Dingloid] Chibi beru haniwa or Mini Bell Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mega Dingloid] Deka beru haniwa or Mega Bell Gyroid - ground - none/828
+                                                     - makes sound
+
+[Squat Dingloid] Debu beru haniwa or Chubby Bell Gyroid - ground - none/828
+                                                        - makes sound
+
+[Dingloid] Nami beru haniwa or Bell Gyroid - ground - none/828 - makes sound
+
+[Tall Dingloid] Noppo beru haniwa or Tall Bell Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mini Puffoid] Chibi bo haniwa - ground - none/828 - makes sound
+
+[Mega Puffoid] Deka bo haniwa - ground - none/828 - makes sound
+
+[Tall Puffoid] Noppo bo haniwa - ground - none/828 - makes sound
+
+[Mini Lullaboid] Chibi pon haniwa or Mini Pop Gyroid - ground - none/828
+                                                     - makes sound
+
+[Mega Lullaboid] Deka pon haniwa or Mega Pop Gyroid - ground - none/828
+                                                    - makes sound
+
+[Lullaboid] Nami pon haniwa or Pop Gyroid - ground - none/828 - makes sound
+
+[Tall Lullaboid] Noppo pon haniwa or Tall Pop Gyroid - ground - none/828
+                                                     - makes sound
+
+[Mega Percoloid] Deka boku haniwa - ground - none/828 - makes sound
+
+[Tall Percoloid] Noppo boku haniwa - ground - none/828 - makes sound
+
+[Mini Sproid] Chibi boyoyon haniwa or Mini Boyoing Gyroid - ground - none/828
+                                                          - makes sound
+
+[Mega Sproid] Deka boyoyon haniwa or Mega Boyoing Gyroid - ground - none/828
+                                                         - makes sound
+
+[Sproid] Nami boyoyon haniwa or Boyoing Gyroid - ground - none/828 - makes
+                                                 sound
+
+[Tall Sproid] Noppo boyoyon haniwa or Tall Boyoing Gyroid - ground - none/828
+                                                          - makes sound
+
+[Mini Rhythmoid] Chibi bon haniwa - ground - none/828 - makes sound
+
+[Rhythmoid] Nami bon haniwa - ground - none/828 - makes sound
+
+[Mini Oombloid] Chibi bonbon haniwa - ground - none/828 - makes sound
+
+[Mega Oombloid] Deka bonbon haniwa - ground - none/828 - makes sound
+
+[Oombloid] Nami bonbon haniwa - ground - none/828 - makes sound
+
+[Tall Oombloid] Noppo bonbon haniwa - ground - none/828 - makes sound
+
+[Mega Bovoid] Deka mo haniwa or Mega Moo Gyroid - ground - none/828 - makes
+                                                  sound
+
+[Tall Bovoid] Noppo mo haniwa or Tall Moo Gyroid - ground - none/828 - makes
+                                                   sound
+
+[Mini Sputnoid] Chibi robo haniwa or Mini Robo Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mega Sputnoid] Deka robo haniwa or Mega Robo Gyroid - ground - none/828
+                                                     - makes sound
+
+[Sputnoid] Nami robo haniwa or Robo Gyroid - ground - none/828 - makes sound
+
+[Tall Sputnoid] Noppo robo haniwa or Tall Robo Gyroid - ground - none/828
+                                                      - makes sound
+
+[Mini Quazoid] Chibi wapu haniwa or Mini Warp Gyroid - ground - none/828
+                                                     - makes sound
+
+[Mega Quazoid] Deka wapu haniwa or Mega Warp Gyroid - ground - none/828 - makes
+                                                      sound
+
+[Quazoid] Nami wapu haniwa or Warp Gyroid - ground - none/828 - makes sound
+
+[Tall Quazoid] Noppo wapu haniwa or Tall Warp Gyroid - ground - none/828
+                                                     - makes sound
+
+[Slim Quazoid] Yase wapu haniwa or Slim Warp Gyroid - ground - none/828
+                                                    - makes sound
+eof

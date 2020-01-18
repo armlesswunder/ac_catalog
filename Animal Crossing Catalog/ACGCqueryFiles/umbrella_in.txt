@@ -1,0 +1,141 @@
+[Gelato Umbrella] Tori kororuna kasa or Tri-Color Umbrella - store - 220/55
+                                                           - can spin
+
+[Daffodil Parasol] Suisen no kasa - store - 480/120 - can spin
+
+[Berry Umbrella] Ichigo moyou no kasa or Strawberry Umbrella - store - 360/90
+                                                             - can spin
+
+[Orange Umbrella] Mikan moyou no kasa or Mandarin Umbrella - store - 320/80
+                                                           - can spin
+
+[Mod Umbrella] Poppu no kasa or Pop Umbrella - store - 290/72 - can spin
+
+[Petal Parasol] Magaretto no kasa or Margaret Umbrella - store - 490/122
+                                                       - can spin
+
+[Ribbon Umbrella] Ribon no kasa - store - 330/82 - can spin
+
+[Gingham Parasol] Pinku chekku no kasa or Pink Check Umbrella - store - 290/72
+                                                              - can spin
+
+[Plaid Parasol] Shian chekku no kasa or Cyan Check Umbrella - store - 290/72
+                                                            - can spin
+
+[Lacy Parasol] Resu no kasa - store - 420/105 - can spin
+
+[Elegant Umbrella] Gojasuna kasa or Gorgeous Umbrella - store - 380/95
+                                                      - can spin
+
+[Dainty Parasol] Meruhenna kasa or Fairy Tale Umbrella - store - 380/95
+                                                       - can spin
+
+[Classic Umbrella] Shikkuna kasa or Chic Umbrella - store - 340/85 - can spin
+
+[Nintendo Parasol] Nintendou no kasa - store - 64/16 - can spin
+
+[Bumbershoot] Dandina kasa or Dandy Umbrella - store - 420/105 - can spin
+
+[Sunny Parasol] Himawari no kasa or Sunflower Umbrella - store - 380/95
+                                                       - can spin
+
+[Batbrella] Koumorigasa or Umbrella - store - 190/47 - can spin
+
+[Checked Umbrella] Modanna kasa or Modern Umbrella - store - 230/57 - can spin
+
+[Yellow Umbrella] Tsuugakuyou no kasa or School Commute Umbrella - store
+                                                                 - 240/60
+                                                                 - can spin
+
+[Leaf Umbrella] Happa no kasa - store - 88/22 - can spin
+
+[Lotus Parasol] Hasu no hana no kasa - store - 480/120 - can spin
+
+[Paper Parasol] Bangasa - store - 350/87 - can spin
+
+[Polka Parasol] Akai mizutama no kasa or Red Polkadot Umbrella - store - 340/85
+                                                               - can spin
+
+[Sharp Umbrella] Igeta moyou kasa or Well Lining Umbrella - store - 250/62
+                                                          - can spin
+
+[Twig Parasol] Yagasa - store - 120/30 - can spin
+
+[Noodle Parasol] Chuukana kasa or China Umbrella - store - 490/122 - can spin
+
+[Hypno Parasol] Kabukina kasa or Kabuki Umbrella - store - 490/122 - can spin
+
+[Pastel Parasol] Hanagara no kasa or Flower Umbrella - store - 380/95
+                                                     - can spin
+
+[Retro Umbrella] Aban gyarudona kasa or Avant Guard Umbrella - store - 360/90
+                                                             - can spin 
+
+[Icy Umbrella] Koori no kasa - store - 480/120 - can spin
+
+[Blue Umbrella] Muji no aoi kasa - store - 100/25 - can spin
+
+[Flame Umbrella] Faiana kasa or Fire Umbrella - store - 290/72 - can spin
+
+[Bluebell Fan] Asagao no uchiwa - August Fireworks - 600/150 - can use
+
+[Plum Fan] Ume no hana no uchiwa or Plum Flower Fan - August Fireworks
+                                                    - 600/150 - can use
+
+[Bamboo Fan] Chikurin no uchiwa - August Fireworks - 600/150 - can use
+
+[Cloud Fan] Shirakumo no uchiwa - August Fireworks - 600/150 - can use
+
+[Maple Fan] Momiji no uchiwa - August Fireworks - 600/150 - can use
+
+[Fan Fan] Ouen no sensu or Aid Fan - August Fireworks - 800/200 - can use
+
+[Flower Fan] Tengu no uchiwa or Goblin Fan - August Fireworks - 1,000/250
+                                           - can use
+
+[Leaf Fan] Happa no uchiwa - August Fireworks - 520/130 - can use
+
+[Yellow Pinwheel] Kiiroi kazaguruma - August Fireworks or Grab Bag - 480/120
+                                    - can spin
+
+[Red Pinwheel] Akai kazaguruma - August Fireworks or Grab Bag - 480/120
+                               - can spin
+
+[Tiger Pinwheel] Toratora kazaguruma - August Fireworks or Grab Bag - 480/120
+                                     - can spin
+
+[Green Pinwheel] Midori no kazaguruma - August Fireworks or Grab Bag - 480/120
+                                      - can spin
+
+[Pink Pinwheel] Pinku no kazaguruma - August Fireworks or Grab Bag - 480/120
+                                    - can spin
+
+[Striped Pinwheel] Kouhaku no kazaguruma or Yellow White Pinwheel - August
+                                    Fireworks or Grab Bag - 480/120 - can spin
+
+[Flower Pinwheel] Hana kazari kazaguruma - August Fireworks or Grab Bag
+                                         - 800/200 - can spin
+
+[Fancy Pinwheel] Kazari tsuki kazaguruma - August Fireworks or Grab Bag
+                                         - 800/200 - can spin
+
+[Red Balloon] Akai fuusen - August Fireworks or Sale - 40/10
+
+[Yellow Balloon] Kiiroi fuusen - August Fireworks - 40/10
+
+[Blue Balloon] Aoi fuusen - August Fireworks or Sale - 40/10
+
+[Green Balloon] Midori no fuusen - August Fireworks - 40/10
+
+[Purple Balloon] Murasaki no fuusen - August Fireworks - 40/10
+
+[Bunny P. Balloon] Momo usa fuusen or Peach Rabbit Balloon - August Fireworks
+                                                           - 80/20
+
+[Bunny B. Balloon] Aoi usagi fuusen or Blue Rabbit Balloon - August Fireworks
+                                                           - 80/20
+
+[Bunny O. Balloon] Orenji usa fuusen or Orange Rabbit Balloon - August
+                                                                Fireworks
+                                                              - 80/20
+eof

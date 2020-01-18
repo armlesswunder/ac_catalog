@@ -1,0 +1,82 @@
+// inputValidate.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <sstream>
+using namespace std;
+
+std::vector<std::string> split(const std::string &text, char sep) {
+	std::vector<std::string> tokens;
+	std::size_t start = 0, end = 0;
+	while ((end = text.find(sep, start)) != std::string::npos) {
+		tokens.push_back(text.substr(start, end - start));
+		start = end + 1;
+	}
+	tokens.push_back(text.substr(start));
+	return tokens;
+}
+
+string processName(vector<string> arr, int index) {
+	string name = "";
+	for (int i = index; arr[i] != "-"; i++) {
+		name += arr[i];
+		if (arr[i + 1] != "-") {
+			name += " ";
+		}
+		else { 
+			if (arr[i + 2] == "Crazy") {
+				name += "', 'Crazy Redd'";
+			}
+			else if (arr[i + 2] == "Spotlight") {
+				name += "', 'Spotlight'";
+			}
+			else {
+				if (name.back() == '*') {
+					name.pop_back();
+					name += "', 'Unorderable'";
+				}
+				else {
+					name += "', 'Normal'";
+				}
+			}
+			
+		}
+	}
+	
+	return name;
+}
+
+int main()
+{
+	ifstream file("C:\\Users\\c8070440\\Desktop\\queryFiles\\furniture_in.txt");
+	ofstream outputFile("C:\\Users\\c8070440\\Desktop\\queryFiles\\furniture_out.txt");
+	string lhs = "insert into furniture values(";
+	string rhs = ")";
+	string str;
+	int count = 1;
+	while (getline(file, str)) {
+		string selected = "0";
+		string name = "";
+		if (str == "" || str.front() == ' ' || str.front() == '-' || str.back() == ':' || str.front() == '\t' || str.front() == '\n')
+			continue;
+
+		vector<string> arr = split(str, ' ');
+		if (arr[0] == "x") {
+			selected = "1";
+			name = name = processName(arr, 1);
+		}
+		else {
+			name = processName(arr, 0);
+		}
+
+		outputFile << lhs << count << ", " << selected << ", " << "'" << name << rhs << endl;
+		count++;
+	}
+	outputFile.close();
+	file.close();
+}
+

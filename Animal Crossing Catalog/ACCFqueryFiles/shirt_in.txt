@@ -1,0 +1,315 @@
+Work Uniform* - Tom Nook - All - none/0 - green/green - Refined
+One-Ball Shirt - Ables - All - 340/85 - yellow/yellow - Funky
+Two-Ball Shirt - Ables - All - 340/85 - blue/blue - Funky
+Three-Ball Shirt - Ables - All - 340/85 - red/red - Funky
+Four-Ball Shirt - Ables - All - 340/85 - purple/purple - Funky
+Five-Ball Shirt - Ables - All - 340/85 - orange/orange - Funky
+Six-Ball Shirt - Ables - All - 340/85 - green/green - Funky
+Seven-Ball Shirt - Ables - All - 340/85 - brown/brown - Funky
+Eight-Ball Shirt - Ables - All - 340/85 - black/black - Funky
+Nine-Ball Shirt - Ables - All - 340/85 - yellow/white - Funky
+Paw Shirt - Ables - All - 360/90 - yellow/yellow - Funky
+Daisy Shirt - Ables - Spring - 380/95 - pink/pink - Cute
+Tulip Shirt - Ables - Spring - 280/70 - yellow/red - Cute
+Cherry Shirt - Ables - Fall - 360/90 - yellow/pink - Cute
+Skull Shirt - Ables - All - 320/80 - black/white - Cool
+U R Here Shirt - Ables - All - 350/82 - red/white - Cool
+Lightning Shirt - Ables - Summer - 380/95 - blue/white - Striking
+MVP Shirt - Ables - All - 370/92 - white/white - Cool
+BB Shirt - Ables - All - 350/87 - black/white - Cool
+Fish-Bone Shirt - Ables - All - 380/95 - yellow/black - Funky
+Frog Shirt - Ables - Summer - 340/85 - green/beige - Cute
+Bear Shirt - Ables - All - 390/97 - green/brown - Cute
+Bunny Shirt - Ables - All - 360/90 - aqua/white - Cute
+Elephant Shirt - Ables - All - 260/65 - aqua/blue - Cute
+Spade Shirt - Ables - All - 340/85 - aqua/blue - Fresh
+Diamond Shirt - Ables - All - 380/95 - red/white - Cool
+Club Shirt - Ables - All - 360/90 - yellow/green - Subtle
+Heart Shirt - Ables - All - 360/90 - red/pink - Cute
+Big Star Shirt - Ables - All - 400/100 - yellow/purple - Funky
+Bright Shirt - Ables - Spring - 320/80 - yellow/green - Gaudy
+A Shirt - Ables - All - 370/92 - blue/white - Funky
+No. 1 Shirt - Ables - All - 250/62 - red/aqua - Cool
+No. 2 Shirt - Ables - All - 250/62 - blue/white - Funky
+No. 3 Shirt - Ables - All - 250/62 - green/orange - Funky
+No. 4 Shirt - Ables - All - 250/62 - red/pink - Cute
+No. 5 Shirt - Ables - All - 250/62 - yellow/purple - Funky
+No. 23 Shirt - Ables - All - 250/62 - aqua/orange - Funky
+No. 67 Shirt - Ables - All - 250/62 - aqua/orange - Funky
+Big Bro's Shirt - Ables - Fall - 320/80 - red/white - Funky
+Li'l Bro's Shirt - Ables - Summer - 320/80 - green/white - Refined
+Cloudy Shirt - Ables - Spring - 320/80 - aqua/white - Fresh
+Fresh Shirt - Ables - All - 380/95 - green/white - Fresh
+Dawn Shirt - Ables - Summer - 380/95 - blue/pink - Subtle
+Misty Shirt - Ables - All - 380/95 - green/white - Refined
+Sunset Top - Ables - All - 290/72 - yellow/orange - Fresh
+Deep Blue Tee - Ables - All - 380/95 - aqua/blue - Fresh
+Peachy Shirt - Ables - Spring - 390/97 - yellow/pink - Fresh
+Rainbow Shirt - Ables - Summer - 777/194 - colorful/colorful - Gaudy
+Snowcone Shirt - Ables - Summer - 420/105 - red/white - Cute
+Orange Tie-Dye - Ables - All - 380/95 - orange/white - Fresh
+Purple Tie-Dye - Ables - All - 380/95 - purple/white - Fresh
+Green Tie-Dye - Ables - All - 380/95 - green/white - Fresh
+Blue Tie-Dye - Ables - Summer - 380/95 - aqua/white - Fresh
+Red Tie-Dye - Ables - All - 380/95 - red/white - Fresh
+Bold Check Shirt - Ables - All - 360/90 - yellow/red - Gaudy
+Cafe Shirt - Ables - Winter - 420/105 - red/white - Cool
+Checkered Shirt - Ables - All - 390/97 - black/white - Cool
+Blue Check Shirt - Ables - All - 380/95 - blue/white - Cute
+Red Check Shirt - Ables - Spring - 330/82 - red/white - Cute
+Houndstooth Knit - Ables - Winter - 370/92 - gray/black - Refined
+Houndstooth Tee - Ables - All - 350/87 - brown/brown - Subtle
+Rugby Shirt - Ables - All - 360/90 - yellow/blue - Funky
+Green Bar Shirt - Ables - Summer - 320/80 - green/white - Fresh
+Yellow Bar Shirt - Ables - All - 320/80 - yellow/white - Subtle
+Grape Stripe Tee - Ables - All - 320/80 - purple/purple - Fancy
+Beatnik Shirt - Ables - Spring - 360/90 - red/black - Funky
+Red Bar Shirt - Ables - All - 360/90 - red/white - Fresh
+Blue Stripe Knit - Ables - Summer - 340/85 - blue/white - Fresh
+Gelato Shirt - Ables - All - 330/82 - red/green - Cute
+Chain-Gang Shirt - Ables - All - 260/65 - blue/white - Refined
+Speedway Shirt - Ables - Summer - 290/72 - white/white - Fresh
+Yellow Tartan - Ables - Spring - 430/107 - yellow/gray - Subtle
+Fall Plaid Shirt - Ables - Fall - 370/92 - yellow/brown - Refined
+Blue Tartan - Ables - Summer - 390/97 - aqua/white - Fresh
+Dapper Shirt - Ables - Winter - 350/87 - yellow/green - Funky
+Natty Shirt - Ables - Summer - 380/95 - blue/pink - Funky
+Blue Grid Shirt - Ables - Summer - 340/85 - aqua/beige - Fresh
+Red Grid Shirt - Ables - All - 360/90 - beige/brown - Subtle
+Dazed Shirt - Ables - Summer - 350/87 - pink/purple - Cute
+Checkerboard Tee - Ables - All - 340/85 - red/black - Cool
+Toad Shirt - Ables - Winter - 340/85 - red/white - Funky
+Dark Polka Shirt - Ables - Winter - 350/87 - black/colorful - Fancy
+Lite Polka Shirt - Ables - All - 380/95 - colorful/white - Funky
+Bubble Gum Shirt - Ables - Fall - 380/95 - pink/white - Cute
+Funky Dot Shirt - Ables - All - 430/107 - pink/purple - Funky
+Gumdrop Shirt - Ables - Spring - 390/97 - green/pink - Fresh
+Big Dot Shirt - Ables - All - 340/85 - yellow/white - Funky
+Aqua Polka Shirt - Ables - Fall - 360/90 - aqua/white - Fresh
+Blue Pinstripe - Ables - Fall - 380/95 - green/blue - Refined
+Yellow Pinstripe - Ables - Winter - 360/90 - orange/gray - Refined
+Orange Pinstripe* - GracieGrace - Spring - 5,000/1,250 - green/brown - Strange
+Vegetarian Shirt - Ables - All - 280/70 - green/orange - Subtle
+Racer Shirt - Ables - All - 380/95 - blue/white - Cool
+American Shirt - Ables - All - 360/90 - colorful/white - Cute
+Rally Shirt - Ables - All - 380/95 - colorful/white - Cool
+Racer 6 Shirt - Ables - All - 380/95 - yellow/black - Cool
+Vertigo Shirt - Ables - All - 380/95 - blue/white - Refined
+Barber Shirt - Ables - All - 640/160 - red/blue - Striking
+Jade Check Print - Ables - All - 360/90 - green/red - Subtle
+Blue Check Print - Ables - Fall - 360/90 - aqua/blue - Subtle
+Mint Gingham Top - Ables - All - 330/82 - green/brown - Subtle
+Picnic Shirt - Ables - Fall - 330/82 - pink/purple - Refined
+Candy Gingham - Ables - Spring - 320/80 - pink/white - Cute
+Lemon Gingham - Ables - Spring - 340/85 - yellow/white - Funky
+Melon Gingham - Ables - Spring - 340/85 - green/white - Fresh
+Bad Plaid Shirt - Ables - All - 420/105 - yellow/purple - Fancy
+Pink Tartan - Ables - Spring - 420/105 - pink/white - Cute
+Waffle Shirt - Ables - Fall - 430/107 - red/green - Refined
+Gray Tartan - Ables - All - 420/105 - gray/white - Refined
+Red Argyle Top* - GracieGrace - Fall - 5,800/1,450 - red/red - Funky
+Blue Argyle Top* - GracieGrace - Winter - 4,800/1,200 - blue/gray - Subtle
+Pink Argyle Top* - GracieGrace - Spring - 5,800/1,450 - pink/gray - Cute
+Cyan Argyle Top* - GracieGrace - Summer - 5,400/1,350 - aqua/gray - Fresh
+Chevron Shirt - Ables - All - 320/80 - green/beige - Subtle
+Icy Shirt - Ables - Summer - 390/97 - aqua/white - Fresh
+Aurora Knit - Ables - Winter - 380/95 - colorful/white - Fresh
+Winter Sweater - Ables - Winter - 290/72 - beige/gray - Cute
+Folk Shirt - Ables - Winter - 380/95 - red/beige - Subtle
+Argyle Knit - Ables - Spring - 460/115 - green/colorful - Refined
+Uncommon Shirt - Ables - Winter - 360/90 - red/brown - Strange
+Comfy Sweater - Ables - Winter - 360/90 - orange/brown - Refined
+Beige Knit - Ables - Winter - 320/80 - beige/beige - Subtle
+Earthy Knit - Ables - Winter - 390/97 - beige/brown - Refined
+Spring Shirt - Ables - Spring - 320/80 - blue/beige - Cute
+Spunky Knit - Ables - Winter - 360/90 - green/beige - Cute
+Deer Shirt - Ables - Winter - 380/95 - beige/white - Subtle
+Monkey Shirt - Ables - Winter - 380/95 - yellow/green - Funky
+Vogue Top - Ables - Spring - 380/95 - pink/white - Cute
+Citrus Gingham - Ables - Spring - 360/90 - yellow/orange - Cute
+Floral Knit - Ables - Spring - 420/105 - purple/white - Fancy
+Dreamy Shirt - Ables - Spring - 400/100 - aqua/pink - Cute
+Flowery Shirt - Ables - Summer - 400/100 - yellow/orange - Funky
+Silk Bloom Shirt - Ables - Spring - 480/120 - green/colorful - Cute
+Pop Bloom Shirt - Ables - All - 360/90 - red/green - Strange
+Blossom Shirt - Ables - Spring - 370/92 - pink/pink - Cute
+Loud Bloom Shirt - Ables - Summer - 360/90 - green/purple - Gaudy
+Rose Shirt - Ables - All - 480/120 - red/white - Gaudy
+Rose Sky Shirt - Ables - All - 320/80 - red/aqua - Fancy
+Lotus Shirt - Ables - Summer - 400/100 - aqua/pink - Fresh
+Chocomint Shirt - Ables - Winter - 340/85 - aqua/brown - Funky
+Fern Shirt - Ables - All - 300/75 - green/green - Fresh
+Blue Retro Shirt - Ables - All - 380/95 - aqua/white - Fresh
+Orange Check Tee - Ables - All - 280/70 - orange/beige - Funky
+Leaf Shirt - Ables - All - 260/65 - green/brown - Refined
+Fall Leaf Shirt - Ables - Fall - 280/70 - yellow/brown - Refined
+Straw Shirt - Ables - Fall - 380/90 - orange/beige - Refined
+Grass Shirt - Ables - All - 580/145 - green/green - Fresh
+Snow Shirt - Ables - All - 680/170 - white/white - Fresh
+Lovely Shirt - Ables - Spring - 400/100 - pink/pink - Cute
+Bubble Shirt - Ables - Summer - 410/102 - aqua/blue - Fresh
+Chichi Print - Ables - All - 180/45 - green/white - Refined
+Coral Shirt* - GracieGrace - Summer - 6,200/1,550 - yellow/blue - Strange
+Groovy Shirt* - GracieGrace - Summer - 6,400/1,600 - yellow/pink - Striking
+Cool Shirt* - GracieGrace - Summer - 6,400/1,600 - orange/beige - Fancy
+Swell Shirt - Ables - All - 400/100 - yellow/brown - Fancy
+Blue Diamond Top - Ables - Winter - 370/92 - purple/black - Fancy
+Prism Shirt - Ables - All - 370/92 - colorful/white - Gaudy
+Go-Go Shirt - Ables - Fall - 360/90 - aqua/orange - Fancy
+Flame Shirt - Ables - All - 360/90 - red/black - Cool
+Danger Shirt - Ables - All - 340/85 - orange/black - Striking
+Gracie's Top* - GracieGrace - Summer - 6,200/1,550 - blue/colorful - Striking
+Future Shirt - Ables - All - 390/97 - yellow/purple - Striking
+Optical Shirt - Ables - All - 430/107 - aqua/pink - Strange
+Twinkle Shirt - Ables - Summer - 480/120 - blue/white - Gaudy
+Star Shirt - Ables - All - 370/92 - beige/colorful - Gaudy
+Night Sky Tee - Ables - All - 420/105 - blue/black - Fancy
+Amethyst Shirt - Ables - Fall - 360/90 - blue/pink - Strange
+Nebula Shirt - Ables - All - 390/97 - purple/white - Strange
+Dice Shirt - Ables - All - 340/85 - black/white - Striking
+Kiddie Shirt - Ables - All - 340/85 - colorful/colorful - Funky
+Airy Shirt - Ables - All - 420/105 - pink/pink - Fancy
+Polar Fleece - Ables - All - 360/90 - yellow/blue - Fancy
+Crossing Shirt - Ables - All - 420/105 - green/brown - Strange
+Splendid Shirt - Ables - All - 420/105 - orange/purple - Strange
+Jagged Shirt - Ables - All - 360/90 - yellow/aqua - Gaudy
+Subdued Print - Ables - Fall - 320/80 - orange/brown - Refined
+Sharp Outfit - Ables - Winter - 280/70 - purple/white - Refined
+Painter's Smock - Ables - Fall - 360/90 - purple/white - Refined
+Blossoming Shirt - Ables - Spring - 390/97 - green/orange - Refined
+Jungle Camo - Ables - All - 320/80 - green/brown - Cool - Combat Look
+Arctic Camo - Ables - All - 320/80 - gray/white - Cool
+Desert Camo - Ables - All - 320/80 - beige/brown - Cool
+Shirt Circuit* - GracieGrace - Fall - 5,120/1,280 - yellow/green - Striking
+Pulse Shirt* - GracieGrace - Fall - 6,000/1,500 - yellow/green - Striking
+Zebra Shirt* - GracieGrace - Winter - 6,400/1,600 - black/white - Gaudy
+Tiger Shirt* - GracieGrace - Winter - 6,400/1,600 - yellow/black - Gaudy
+Cow Shirt* - GracieGrace - Winter - 6,400/1,600 - black/white - Gaudy
+Leopard Shirt - Ables - All - 320/80 - yellow/brown - Gaudy
+Giraffe Shirt* - GracieGrace - Winter - 6,200/1,550 - yellow/brown - Gaudy
+Ladybug Shirt* - GracieGrace - Spring - 5,400/1,350 - red/black - Striking
+Butterfly Shirt* - GracieGrace - Spring - 7,200/1,800 - colorful/black
+                 - Striking
+Spiderweb Shirt - Ables - Summer - 320/80 - black/white - Striking
+Caterpillar Tee* - GracieGrace - Spring - 6,800/1,700 - yellow/green - Striking
+Fiendish Shirt - Ables - All - 680/170 - red/black - Striking
+Citrus Shirt - Ables - All - 640/160 - orange/beige - Fresh - Tangerine Look
+Kiwi Shirt - Ables - All - 640/160 - yellow/green - Funky - Kiwi Look
+Watermelon Shirt - Ables - All - 640/160 - red/green - Funky - Watermelon Look
+Strawberry Shirt - Ables - All - 640/160 - red/green - Cute - Strawberry Look
+Grape Shirt - Ables - All - 640/160 - green/purple - Fancy - Grape Look
+Melon Shirt - Ables - All - 640/160 - green/green - Fresh - Melon Look
+Pink Wave Shirt - Ables - All - 420/105 - pink/pink - Gaudy
+Flan Shirt* - GracieGrace - Fall - 5,200/1,300 - beige/brown - Strange
+Hot Dog Shirt* - GracieGrace - Fall - 6,000/1,500 - colorful/brown - Striking
+Sandwich Shirt* - GracieGrace - Fall - 6,400/1,600 - colorful/white - Striking
+Noodle Shirt - Ables - Fall - 380/95 - colorful/white - Striking
+Ugly Shirt - Ables - Summer - 420/105 - green/brown - Striking
+Dragon Suit - Ables - Summer - 340/85 - orange/black - Cool
+Asian Shirt - Ables - All - 380/95 - blue/purple - Subtle
+Hot Spring Shirt - Ables - Spring - 520/130 - pink/beige - Cute
+New Spring Shirt - Ables - Spring - 520/130 - blue/purple - Cute
+Crewel Shirt - Ables - Winter - 380/95 - green/gray - Fancy
+Tropical Shirt - Ables - Summer - 370/92 - red/purple - Fancy
+Ribbon Shirt - Ables - Spring - 370/92 - colorful/white - Cute
+Bodice - Ables - All - 400/100 - black/brown - Fancy
+Laced Shirt - Ables - Winter - 370/92 - pink/purple - Fancy
+Circus Shirt - Ables - All - 370/92 - orange/white - Subtle
+Green Vest - Ables - Summer - 380/95 - green/beige - Subtle
+Yellow Bolero - Ables - All - 430/107 - green/white - Cute
+Noble Shirt - Ables - All - 380/95 - purple/beige - Fancy
+Turnip Top - Ables - All - 350/87 - green/white - Cute
+Yodel Shirt - Ables - All - 350/87 - aqua/orange - Cute
+Classic Top - Ables - Fall - 350/87 - pink/purple - Fancy
+Gaudy Sweater - Ables - Spring - 330/82 - colorful/colorful - Gaudy
+Red Aloha Shirt - Ables - Summer - 420/105 - red/red - Fancy
+Blue Aloha Shirt - Ables - Summer - 420/105 - blue/blue - Fancy
+Western Shirt - Ables - Winter - 350/87 - brown/brown - Cool - Western Look
+Red Riding Hoody - Ables - Fall - 350/87 - red/white - Cute
+Royal Shirt - Ables - All - 380/95 - yellow/red - Cool - Regal Look
+Witch Shirt* - GracieGrace - Fall - 7,200/1,800 - purple/black - Fancy
+             - Witch Look
+Firefighter Tee - Ables - All - 320/80 - yellow/black - Cool - Firefighter Look
+Graduation Gown - Ables - All - 320/80 - white/brown - Subtle - Graduate Look
+Sky Shirt - Ables - All - 360/90 - aqua/white - Subtle
+Captain's Shirt - Ables - All - 340/85 - yellow/blue - Cool - Captain Look
+Burglar's Shirt - Ables - All - 420/105 - blue/black - Cool - Ninja Look
+Jester Shirt - Ables - Spring - 420/105 - yellow/purple - Striking
+             - Jester Look
+Doctor's Coat - Ables - All - 300/75 - white/white - Subtle - Doctor Look
+Bone Shirt - Ables - All - 280/70 - black/white - Striking
+Zipper Shirt - Ables - All - 320/80 - black/white - Cool
+Mummy Shirt - Ables - All - 180/45 - white/white - Strange - Mummy Look
+Military Uniform - Ables - All - 380/95 - yellow/green - Cool
+Sailor's Uniform - Ables - All - 320/80 - blue/white - Cute - Sailor Look
+Reggae Shirt - Ables - All - 240/60 - red/green - Gaudy
+Camel Shirt - Ables - All - 280/70 - brown/brown - Refined
+Molecule Tee - Ables - All - 360/90 - green/white - Subtle - Alpine Look
+Concierge Shirt - Ables - Fall - 350/87 - black/white - Cool
+Kimono - Ables - All - 520/130 - red/aqua - Gaudy - Zen Look
+Tuxedo* - GracieGrace - Winter - 7,600/1,900 - black/black - Cool
+        - Masquerade Look
+Explorer Shirt - Ables - All - 400/100 - beige/gray - Cool - Explorer Look
+Dutch Shirt - Ables - All - 280/70 - pink/white - Cute - Nordic Look
+Toga - Ables - All - 280/70 - white/white - Striking
+Cake Shirt* - GracieGrace - Spring - 6,000/1,500 - white/white - Cute
+            - Bridal Look
+Waitress Shirt - Ables - All - 320/80 - pink/pink - Cute
+Princess Shirt - Ables - All - 480/120 - yellow/aqua - Fancy
+Fairy Tale Shirt - Ables - All - 320/80 - red/aqua - Cute
+Spanish Shirt - Ables - All - 360/90 - pink/black - Gaudy
+Latin Uniform - Ables - All - 320/80 - yellow/green - Funky
+Red Down Vest - Ables - Winter - 380/95 - red/white - Cool
+Blue Puffy Vest - Ables - Winter - 380/95 - blue/blue - Striking
+One-Way Tee - Ables - All - 420/105 - yellow/blue - Cool - Cavalier Look
+Beaded Shirt - Ables - All - 420/105 - purple/black - Fancy
+Nile Shirt - Ables - All - 400/100 - yellow/white - Striking
+Wrap Shirt - Ables - All - 320/80 - beige/white - Cool
+Wrestler Shirt - Ables - All - 280/70 - yellow/red - Cool - Wrestler Look
+Security Shirt - Ables - All - 420/105 - aqua/black - Cool - Police Look
+Poncho - Ables - All - 320/80 - orange/brown - Refined - Reggae Look
+Fluffy Shirt - Ables - All - 400/100 - pink/white - Cute - Bunny Look
+Cat Top - Ables - All - 640/160 - blue/blue - Cute - Cat Look
+Bear Top - Ables - All - 640/160 - blue/brown - Funky - Bear Look
+Frog Top - Ables - All - 640/160 - green/green - Strange - Frog Look
+Kappa Suit - Ables - All - 320/80 - green/green - Striking - Kapp'n Look
+Chinese Shirt - Ables - All - 320/80 - red/black - Subtle - Ornate Look
+Pep Squad Shirt - Ables - All - 280/70 - red/white - Funky
+Racing Shirt - Ables - All - 460/115 - red/colorful - Cool - Racer Look
+Orange Jumpsuit - Ables - All - 200/50 - orange/orange - Refined - Laborer Look
+Tin Shirt - Ables - All - 400/100 - gray/gray - Refined
+Scale Armor Suit - Ables - All - 480/120 - aqua/blue - Cool - Viking Look
+Armor Suit - Ables - All - 400/100 - gray/gray - Cool - Knight Look
+Gold Armor Suit - Ables - All - 540/135 - yellow/yellow - Cool - Warrior Look
+Striking Outfit - Ables - Winter - 460/115 - yellow/blue - Striking
+Red Warmup Suit - Ables - Winter - 260/65 - red/red - Funky
+Baseball Shirt - Ables - All - 320/80 - red/white - Funky
+Red Sweatsuit - Ables - Summer - 420/105 - red/white - Fresh
+Blue Sweatsuit - Ables - Summer - 420/105 - blue/white - Fresh
+Leather Jerkin - Ables - Winter - 380/95 - red/white - Fancy
+Frock Coat - Ables - Summer - 290/72 - yellow/purple - Fancy
+Jingle Shirt - Ables - Winter - 420/105 - red/white - Fancy
+Space Suit - Ables - All - 360/90 - blue/gray - Cool - Astronaut Look
+Caveman Tunic - Ables - All - 380/95 - yellow/brown - Strange
+Casual Outfit - Ables - Summer - 360/90 - blue/blue - Refined
+Kung-Fu Gi - Ables - Fall - 360/90 - black/black - Cool
+Pleather Vest* - GracieGrace - Summer - 6,200/1,550 - black/black - Cool
+Maid Dress* - GracieGrace - Spring - 7,200/1,800 - black/white - Cute
+Trenchcoat* - GracieGrace - Winter - 5,200/1,300 - beige/beige - Refined
+Detective Outfit - Ables - Winter - 480/120 - brown/brown - Refined - Detective Look
+Cycling Outfit - Ables - Summer - 640/160 - blue/black - Fresh - Cyclist Look
+Chef's Outfit - Ables - All - 640/160 - white/white - Subtle - Chef Look
+Pirate's Coat - Ables - Winter - 640/160 - red/red - Cool - Pirate Look
+Persian Coat - Ables - All - 640/160 - aqua/purple - Fancy - Persian Look
+Folk Tunic - Ables - All - 640/160 - brown/brown - Striking - Native Look
+Egyptian Outfit - Ables - All - 640/160 - yellow/white - Fresh - Egyptian Look
+Red Zap Suit - Ables - All - 640/160 - red/white - Cool - Red Hero Look
+Blue Zap Suit - Ables - All - 640/160 - blue/white - Cool - Blue Hero Look
+Green Zap Suit - Ables - All - 640/160 - green/white - Cool - Green Hero Look
+Pink Zap Suit - Ables - All - 640/160 - pink/white - Cool - Heroine Look
+Samurai Suit - Ables - All - 640/160 - black/black - Refined - Samurai Look
+Bathrobe* - GracieGrace - Summer - 5,800/1,450 - white/white - Fancy - Spa Look
+Moldy Shirt* - Jack - Halloween - none/0 - beige/brown - Strange
+Patched Shirt* - Jack - Halloween - none/0 - beige/gray - Refined
+Hero's Clothes* - Nook Points - All - none/0 - green/green - Cool - Link Look
+Varia Suit* - Nook Points - All - none/0 - yellow/orange - Cool - Samus Look

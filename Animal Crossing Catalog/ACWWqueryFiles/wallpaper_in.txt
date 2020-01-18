@@ -1,0 +1,63 @@
+x Exotic Wall - Grp B - 1,420/330 - Exotic Series
+x Lovely Wall - Grp A - 1,880/470 - Lovely Series
+x Classic Wall - Grp B - 2,100/525 - Classic Series
+x Ranch Wall - Grp A - 1,450/362 - Ranch Series
+x Cabana Wall - Grp C - 1,480/370 - Cabana Series
+x Blue Wall - Grp B - 1,260/315 - Blue Series
+x Modern Wall - Grp B - 1,450/362 - Modern Series
+x Regal Wall - Grp C - 2,240/560 - Regal Series
+x Green Wall - Grp A - 1,050/262 - Green Series
+Cabin Wall - Grp A - 1,200/300 - Cabin Series
+Kiddie Wall - Grp B - 1,500/375 - Kiddie Series
+x Robo-Wall - Grp B - 1,780/445 - Robo Series
+Snowman Wall* - Snowman - none/8,888 - Snowman Series
+Forest Wall* - Cornimer - none/420 - Mushroom Series
+Western Vista* - Saharah - none/1,500 - Western Theme
+x Lunar Horizon* - Saharah - none/1,900 - Space Theme
+Blue Tarp* - Saharah - none/1,400 - Construction Theme
+Ringside Seating* - Saharah - none/2,250 - Boxing Theme
+Backyard Fence - Grp B - 800/200 - Backyard Theme
+x Playroom Wall - Grp C - 1,320/330 - Nursery Theme
+x Sea View* - Pascal - none/1,000 - Pirate Theme
+x Lab Wall - Grp C - 1,460/365 - Mad Scientist Theme
+x Pastel Dot Wall - Grp C - 1,480/370
+x Parlor Wall - Grp C - 1,120/280
+x Mod Wall - Grp A - 1,200/300
+x Groovy Wall - Grp B - 1,280/320
+Mosaic Wall - Grp B - 2,100/525
+x Blue-Trim Wall - Grp B - 1,420/355
+x Plaster Wall - Grp C - 880/220
+x Chic Wall - Grp A - 1,960/490
+x Ornate Wall - Grp C - 1,580/370
+x Citrus Wall - Grp C - 1,120/280
+x Rose Wall - Grp B - 2,240/560
+Old Brick Wall - Grp B - 1,200/300
+Shoji Screen* - Saharah - none/1,875
+x Stone Wall - Grp A - 800/200
+Concrete Wall - Grp A - 800/200
+x Shanty Wall - Grp C - 800/200
+x Wood Paneling - Grp C - 1,320/330
+x Floral Wall - Grp A - 2,250/562
+Music Room Wall* - Saharah - none/1,600
+Manor Wall - Grp B - 1,050/262
+x Plaza Wall - Grp A - 1,960/490
+x Lattice Wall - Grp B - 1,780/445
+x Stately Wall - Grp C - 2,450/612
+x Imperial Wall - Grp A - 2,660/665
+x Arched Window - Grp C - 2,150/537
+x Bamboo Wall - Grp A - 1,150/287
+x Ivy Wall - Grp C - 1,250/312
+x Ancient Wall* - Saharah - none/2,300
+x Exquisite Wall - Grp C - 1,470/367
+Persian Wall - Grp B - 1,480/370
+x Industrial Wall* - Saharah - none/1,875
+x Library Wall - Grp C - 1,680/420
+x Fairy Tale Wall - Grp C - 2,400/600
+x Illusion Wall - Grp A - 1,360/340
+Meadow Vista* - Saharah - none/2,000
+x Tropical Vista* - Saharah - none/2,300
+x Desert Vista* - Saharah - none/2,250
+x Chainlink Fence - Grp A - 2,400/600
+Sky Wall - Grp B - 1,200/300
+Cityscape Wall - Grp A - 1,600/400
+x Common Wall - Grp A - 1,240/310

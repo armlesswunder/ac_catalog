@@ -1,0 +1,127 @@
+Mega Clankoid - none/828 - Green/Green
+x Clankoid - none/828 - Green/Green
+x Mini Clankoid - none/828 - Green/Green
+Tall Clankoid - none/828 - Green/Green
+x Squat Dingloid - none/828 - Brown/Brown
+Mega Dingloid - none/828 - Brown/Brown
+x Dingloid - none/828 - Brown/Brown
+Mini Dingloid - none/828 - Brown/Brown
+Wee Dingloid - none/828 - Brown/Brown
+Tall Dingloid - none/828 - Brown/Brown
+x Mega Percoloid - none/828 - Brown/Brown
+Tall Percoloid - none/828 - Brown/Brown
+x Mega Oombloid - none/828 - Brown/Brown
+x Oombloid - none/828 - Brown/Brown
+Mini Oombloid - none/828 - Brown/Brown
+Tall Oombloid - none/828 - Brown/Brown
+Rhythmoid - none/828 - Brown/Brown
+Mini Rhythmoid - none/828 - Brown/Brown
+Mega Puffoid - none/828 - Green/Green
+x Mini Puffoid - none/828 - Green/Green
+Tall Puffoid - none/828 - Green/Green
+Mega Lullaboid - none/828 - Gray/Gray
+Lullaboid - none/828 - Gray/Gray
+Mini Lullaboid - none/828 - Gray/Gray
+Tall Lullaboid - none/828 - Gray/Gray
+x Mega Sproid - none/828 - Yellow/Yellow
+x Sproid - none/828 - Yellow/Yellow
+x Mini Sproid - none/828 - Yellow/Yellow
+x Tall Sproid - none/828 - Yellow/Yellow
+x Mega Bowtoid - none/828 - Black/Black
+Bowtoid - none/828 - Black/Black
+Mini Bowtoid - none/828 - Black/Black
+x Tall Bowtoid - none/828 - Black/Black
+Mega Tootoid - none/828 - Pink/Pink
+Tootoid - none/828 - Pink/Pink
+Mini Tootoid - none/828 - Pink/Pink
+x Mega Plinkoid - none/828 - Blue/Gray
+Plinkoid - none/828 - Pink/Gray
+Mini Plinkoid - none/828 - Green/Gray
+Mega Dekkoid - none/828 - Orange/Orange
+Dekkoid - none/828 - Pink/Pink
+Mini Dekkoid - none/828 - Green/Green
+Mega Buzzoid - none/828 - Green/Brown
+Buzzoid - none/828 - Green/Brown
+x Mini Buzzoid - none/828 - Green/Brown
+Tall Buzzoid - none/828 - Green/Brown
+Mega Drilloid - none/828 - Red/Red
+x Drilloid - none/828 - Red/Red
+Mini Drilloid - none/828 - Red/Red
+Mega Echoid - none/828 - Blue/Gray
+x Mini Echoid - none/828 - Orange/Orange
+Tall Echoid - none/828 - Blue/Gray
+Mega Lamentoid - none/828 - Brown/Brown
+Lamentoid - none/828 - Brown/Brown
+Mini Lamentoid - none/828 - Brown/Brown
+Tall Lamentoid - none/828 - Brown/Brown
+Mega Strumboid - none/828 - Green/Brown
+Strumboid - none/828 - Green/Brown
+Mini Strumboid - none/828 - Green/Brown
+Tall Strumboid - none/828 - Green/Brown
+Mega Croakoid - none/828 - Gray/Gray
+Croakoid - none/828 - Green/Green
+x Mini Croakoid - none/828 - Orange/Orange
+x Tall Croakoid - none/828 - Blue/Gray
+Mega Fizzoid - none/828 - Red/Red
+x Mini Fizzoid - none/828 - Red/Red
+x Mega Squelchoid - none/828 - Green/Green
+Squelchoid - none/828 - Yellow/Green
+Mini Squelchoid - none/828 - Red/Red
+x Mega Howloid - none/828 - Red/Red
+Howloid - none/828 - Red/Red
+x Mini Howloid - none/828 - Blue/Gray
+Mega Nebuloid - none/828 - Blue/Blue
+Squat Nebuloid - none/828 - Green/Colorful
+Nebuloid - none/828 - Blue/Colorful
+Mini Nebuloid - none/828 - Blue/Gray
+x Tall Nebuloid - none/828 - Green/Colorful
+Slim Nebuloid - none/828 - Blue/Gray
+Mega Gongoid - none/828 - Brown/Brown
+Gongoid - none/828 - Brown/Brown
+Mini Gongoid - none/828 - Brown/Brown
+Tall Gongoid - none/828 - Brown/Brown
+Mega Poltergoid - none/828 - Gray/Brown
+Poltergoid - none/828 - Gray/Brown
+Mini Poltergoid - none/828 - Gray/Brown
+Tall Poltergoid - none/828 - Gray/Brown
+Metatoid - none/828 - Gray/Gray
+Mini Metatoid - none/828 - Gray/Gray
+Mega Bovoid - none/828 - Gray/Gray
+Tall Bovoid - none/828 - Gray/Gray
+Mega Oboid - none/828 - Gray/Black
+Oboid - none/828 - Gray/Black
+Tall Oboid - none/828 - Gray/Black
+x Mega Dinkoid - none/828 - Gray/Gray
+x Mini Dinkoid - none/828 - Gray/Gray
+Mega Harmonoid - none/828 - Red/Gray
+Harmonoid - none/828 - Red/Gray
+Mini Harmonoid - none/828 - Blue/Gray
+Tall Harmonoid - none/828 - Blue/Gray
+x Tall Droploid - none/828 - Blue/Gray
+Mega Sputnoid - none/828 - Green/Gray
+x Sputnoid - none/828 - Gray/Gray
+x Mini Sputnoid - none/828 - Gray/Gray
+Tall Sputnoid - none/828 - Gray/Gray
+x Mega Alloid - none/828 - Brown/Brown
+Mini Alloid - none/828 - Brown/Brown
+x Tall Alloid - none/828 - Brown/Brown
+Mega Timpanoid - none/828 - Red/Red
+Timpanoid - none/828 - Red/Red
+x Mini Timpanoid - none/828 - Red/Red
+x Tall Timpanoid - none/828 - Red/Red
+Gargloid - none/828 - Gray/Gray
+Mini Gargloid - none/828 - Pink/Gray
+Tall Gargloid - none/828 - Gray/Gray
+x Warbloid - none/828 - Pink/Pink
+Mini Warbloid - none/828 - Pink/Pink
+Tall Warbloid - none/828 - Pink/Pink
+Mega Freakoid - none/828 - Blue/Gray
+Mini Freakoid - none/828 - Blue/Gray
+Mega Quazoid - none/828 - Green/Green
+Quazoid - none/828 - Pink/Pink
+Mini Quazoid - none/828 - Orange/Orange
+Tall Quazoid - none/828 - Blue/Blue
+x Slim Quazoid - none/828 - Gray/Gray
+Mega Rustoid - none/828 - Brown/Brown
+x Rustoid - none/828 - Brown/Brown
+Mini Rustoid - none/828 - Brown/Brown

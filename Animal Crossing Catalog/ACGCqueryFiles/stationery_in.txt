@@ -1,0 +1,133 @@
+[Airmail Paper] Aameruna binsen - Grp A - 160/40 - can use
+
+[Sparkly Paper] Kirakirana binsen or Glitter Paper - Grp B - 160/40 - can use
+
+[Bamboo Paper] Banbuna binsen - Grp C - 160/40 - can use
+
+Kikenna binsen or Hazardous Paper - Grp A - 160/40 - can use
+
+[Essay Paper] Genkouyoushi or Japanese Stationery - Grp B - 160/40 - can use
+
+[Panda Paper] Panda no binsen - Grp C - 160/40 - can use
+
+[Ranch Paper] Kantorina binsen or Country Paper - Grp C - 160/40 - can use
+
+[Steel Paper] Teppan no binsen or Iron Plate Paper - Grp A - 160/40 - can use
+
+[Blossom Paper] Hana waku no binsen - Grp B - 160/40 - can use
+
+[Vine Paper] Tsuta no binsen or Ivy Paper - Grp C - 160/40 - can use
+
+[Cloudy Paper] Natsu no kumo no binsen - Grp A - 160/40 - can use
+
+[Petal Paper] Sakura chiru binsen or Cherry Blossom Paper - Grp B - 160/40
+                                                          - can use
+
+[Snowy Paper] Yuki furu binsen - Grp C - 160/40 - can use
+
+[Rainy Day Paper] Ame furu binsen - Grp A - 160/40 - can use
+
+[Watermelon Paper] Suika no binsen - Grp B - 160/40 - can use
+
+[Deep Sea Paper] Minamo no binsen or Water Surface Paper - Grp C - 160/40
+                                                         - can use
+
+[Starry Sky Paper] Yukiakari binsen or Snow Light Paper - Grp B - 160/40
+                                                        - can use
+
+[Daisy Paper] Sepiana binsen or Sepia Paper - Grp A - 160/40 - can use
+
+[Bluebell Paper] Asagao no binsen - Grp B - 160/40 - can use
+
+[Maple Leaf Paper] Momiji no binsen or Maple Paper - Grp C - 160/40 - can use
+
+[Woodcut Paper] Ajia no binsen or Asia Paper - Grp A - 160/40 - can use
+
+[Octopus Paper] Makimono no binsen or Scroll Paper - Grp B - 160/40 - can use
+
+[Festive Paper]* Kurisumasu no binsen or Christmas Paper - Jingle - none/0
+
+[Skyline Paper] Machinami no binsen - Grp A - 160/40 - can use
+
+[Museum Paper] Youshihi no binsen - Grp B - 160/40 - can use
+
+Omikuji binsen or Fortune Paper* - New Year's Day - none/0
+
+[Stageshow Paper] Suteji no binsen - Grp C - 160/40 - can use
+
+[Thick Paper] Atsugami no binsen or Cardboard Paper - Grp A - 160/40 - can use
+
+[Spooky Paper] Obake no binsen or Goblin Paper - Grp B - 160/40 - can use
+
+[Noodle Paper] Chuukana binsen or China Paper - Grp C - 160/40 - can use
+
+[Neat Paper] Seisona binsen - Grp B - 160/40 - can use
+
+[Horsetail Paper] Tsukushi no binsen - Grp C - 160/40 - can use
+
+[Felt Paper] Ferutona binsen - Grp A - 160/40 - can use
+
+[Parchment Paper] Ekizo chekku binsen - Grp A - 160/40 - can use
+
+[Cool Paper] Pinsutona binsen or ? Paper - Grp B - 160/40 - can use
+
+[Elegant Paper] Gojasuna binsen or Gorgeous Paper - Grp C - 160/40 - can use
+
+[Lacy Paper] Resuna binsen - Grp A - 160/40 - can use
+
+[Polka-Dot Paper] Mizutamana binsen - Grp C - 160/40 - can use
+
+[Dizzy Paper] Dijina binsen - Grp B - 160/40 - can use
+
+[Rainbow Paper] Reinbona binsen - Grp C - 160/40 - can use
+
+[Hot Neon Paper] Sutoroberina binsen or Strawberry Paper - Grp A - 160/40
+                                                         - can use
+
+[Cool Neon Paper] Bondaina binsen - Grp B - 160/40 - can use
+
+[Aloha Paper] Arohana binsen - Grp C - 160/40 - can use
+
+[Ribbon Paper] Ribonna binsen - Grp A - 160/40 - can use
+
+[Fantasy Paper] Fantajina binsen - Grp B - 160/40 - can use
+
+[Woodland Paper] Kinoko no binsen or Mushroom Paper - Grp C - 160/40 - can use
+
+[Gingko Paper] Ichou no binsen - Grp A - 160/40 - can use
+
+[Fireworks Paper] Hanabi no binsen - Grp B - 160/40 - can use
+
+[Winter Paper] Fuyu no mori no binsen - Grp C - 160/40 - can use
+
+[Gyroid Paper] Haniwa no binsen - Grp A - 160/40 - can use
+
+[Ivy Paper] Tsurukusa no binsen or Vine Paper - Grp B - 160/40 - can use
+
+[Wing Paper]* Akademi no binsen or Academy Paper - HRA - none/0
+
+[Dragon Paper] Naito no binsen or Night Paper - Grp A - 160/40 - can use
+
+[Tile Paper] Tairuna binsen - Grp B - 160/40 - can use
+
+[Misty Paper] Kasumi no binsen - Grp C - 160/40 - can use
+
+[Simple Paper] Yokuaru binsen - Grp A - 160/40 - can use
+
+[Honeybee Paper] Mitsubachi no binsen - Grp B - 160/40 - can use
+
+[Mystic Paper] Fushigina binsen or Wonder Paper - Grp C - 160/40 - can use
+
+[Sunset Paper] Sansettona binsen - Grp A - 160/40 - can use
+
+[Lattice Paper] Mekappoi binsen or Make-Up Paper - Grp B - 160/40 - can use
+
+[Dainty Paper] Puchi hana no binsen or Small Flower Paper - Grp C - 160/40
+                                                          - can use
+
+[Butterfly Paper] Tefutefu no binsen - Grp A - 160/40 - can use
+
+[New Year's Cards]* Shougatsu no binsen - New Year's Day - none/0
+
+[Inky Paper] Tako-chan no binsen - Grp C - 160/40 - can use
+eof

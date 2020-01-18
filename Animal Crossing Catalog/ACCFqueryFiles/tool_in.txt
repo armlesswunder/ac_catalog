@@ -1,0 +1,75 @@
+Gelato Umbrella - Ables - 160/40
+Bat Umbrella - Ables - 160/40
+Lacy Parasol - Ables - 160/40
+Leaf Umbrella - Ables - 160/40
+Paper Parasol - Ables - 160/40
+Ribbon Umbrella - Ables - 160/40
+Red Umbrella - Ables - 160/40
+Blue Umbrella - Ables - 160/40
+Yellow Umbrella - Ables - 160/40
+Green Umbrella - Ables - 160/40
+Candy Umbrella - Ables - 160/40
+Melon Umbrella - Ables - 160/40
+Mint Umbrella - Ables - 160/40
+Picnic Umbrella - Ables - 160/40
+Lemon Umbrella - Ables - 160/40
+Toad Parasol - Ables - 160/40
+Eggy Parasol - Ables - 160/40
+Blue Dot Parasol - Ables - 160/40
+Daisy Umbrella - Ables - 160/40
+Paw Umbrella - Ables - 160/40
+Petal Parasol* - GracieGrace - 3,200/800
+Busted Umbrella - Ables - 160/40
+Sunny Parasol - Ables - 160/40
+Beach Umbrella - Ables - 160/40
+Elegant Umbrella* - GracieGrace - 3,200/800
+Modern Umbrella* - GracieGrace - 3,200/800
+Leopard Umbrella - Ables - 160/40
+Zebra Umbrella - Ables - 160/40
+Forest Umbrella - Ables - 160/40
+Flame Umbrella - Ables - 160/40
+Camo Umbrella - Ables - 160/40
+Spider Umbrella - Ables - 160/40
+Gracie Umbrella* - GracieGrace - 3,200/800
+Peach's Parasol* - Nook Points - none/0
+Silver Shovel - Resetti - none/125 - can increase money from money rock
+Golden Shovel - Buried - none/125 - can create bell trees
+Silver Rod - Nook's - 500/125 - can catch fish easier
+Golden Rod - Tortimer - none/125 - can catch fish easier
+Silver Net - Nook's - 500/125 - can catch insects easier
+Golden Net - Tortimer - none/125 - can catch insects easier
+Silver Axe - Serena - none/100 - will not break
+Golden Axe - Serena - none/125 - faster, will not break
+Silver Can - Posy Farm - none/125 - can revive withered Red Turnips
+Golden Can - Pelly/Phyllis - none/125 - can create Gold Roses
+Silver Slingshot - Nook's - 500/125 - shoots two stones
+Golden Slingshot - Balloon - none/125 - shoots three stones
+Bubble Wand - Phineas - 0/125 - can use
+Party Popper - Tortimer - none/30 - can use
+Sparkler - Tortimer - none/30 - can use
+Roman Candle - Tortimer - none/30 - can use
+Red Balloon - Phineas - 0/125
+Orange Balloon - Phineas - 0/125
+Yellow Balloon - Phineas - 0/125
+Green Balloon - Phineas - 0/125
+Cyan Balloon - Phineas - 0/125
+Blue Balloon - Phineas - 0/125
+Indigo Balloon - Phineas - 0/125
+Pink Balloon - Phineas - 0/125
+Bunny R. Balloon - Phineas - 0/125
+Bunny O. Balloon - Phineas - 0/125
+Bunny Y. Balloon - Phineas - 0/125
+Bunny G. Balloon - Phineas - 0/125
+Bunny C. Balloon - Phineas - 0/125
+Bunny B. Balloon - Phineas - 0/125
+Bunny I. Balloon - Phineas - 0/125
+Bunny P. Balloon - Phineas - 0/125
+Red Pinwheel - Phineas - 0/125
+Orange Pinwheel - Phineas - 0/125
+Yellow Pinwheel - Phineas - 0/125
+Green Pinwheel - Phineas - 0/125
+Cyan Pinwheel - Phineas - 0/125
+Blue Pinwheel - Phineas - 0/125
+Indigo Pinwheel - Phineas - 0/125
+Pink Pinwheel - Phineas - 0/125
+eof

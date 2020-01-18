@@ -1,0 +1,26 @@
+[Tricera Skull] Torikera no atama - Farway Museum - lrg - none/5,500
+[Tricera Torso] Torikera no karada - Farway Museum - lrg - none/5,000
+[Tricera Tail] Torikera no shippo - Farway Museum - lrg - none/4,500
+[T-rex Skull] T rekkusu no atama - Farway Museum - lrg - none/6,000
+[T-rex Torso] T rekkusu no karada - Farway Museum - lrg - none/5,500
+[T-rex Tail] T rekkusu no shippo - Farway Museum - lrg - none/5,000
+[Apato Skull] Apato no atama - Farway Museum - lrg - none/5,000
+[Apato Torso] Apato no karada - Farway Museum - lrg - none/4,500
+[Apato Tail] Apato no shippo - Farway Museum - lrg - none/4,000
+[Stego Skull] Sutego no atama - Farway Museum - lrg - none/5,000
+[Stego Torso] Sutego no karada - Farway Museum - lrg - none/4,500
+[Stego Tail] Sutego no shippo - Farway Museum - lrg - none/4,000
+[Ptera Skull] Puteranodon no atama - Farway Museum - med - none/4,000
+[Ptera Left Wing] Puteranodon no sayoku - Farway Museum - med - none/4,500
+[Ptera Right Wing] Puteranodon no uyoku - Farway Museum - med - none/4,500
+[Plesio Skull] Suzukiryuu no atama - Farway Museum - lrg - none/4,000
+[Plesio Neck] Suzukiryuu no kubi - Farway Museum - lrg - none/4,500
+[Plesio Torso] Suzukiryuu no karada - Farway Museum - lrg - none/4,500
+[Mammoth Skull] Manmosu no atama - Farway Museum - lrg - none/3,000
+[Mammoth Torso] Manmosu no karada - Farway Museum - lrg - none/2,500
+[Amber] Kohaku - Farway Museum - sm - none/1,200
+[Dinosaur Track] Ashiato no kaseki - Farway Museum - sm - none/1,000
+[Ammonite] Anmonaito - Farway Museum - sm - none/1,100
+[Dinosaur Egg] Tamago no kaseki - Farway Museum - sm - none/1,400
+[Trilobite] Sanyouchuu - Farway Museum - sm - none/1,300
+eof

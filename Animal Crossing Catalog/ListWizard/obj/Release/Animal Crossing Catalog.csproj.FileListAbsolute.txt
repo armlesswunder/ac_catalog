@@ -1,0 +1,45 @@
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.AC_Catalog.resources
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\AC_Catalog.Properties.Resources.resources
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.SerenaQuestions.resources
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.csproj.GenerateResource.cache
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.exe.config
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.exe
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.pdb
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.exe
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.pdb
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.exe.manifest
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.application
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.TrustInfo.xml
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.exe.manifest
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.application
+C:\Users\000ab\Saved Games\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.csprojAssemblyReference.cache
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.exe.config
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.exe.manifest
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.application
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.exe
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\bin\Release\Animal Crossing Catalog.pdb
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.csprojAssemblyReference.cache
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.AC_Catalog.resources
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\AC_Catalog.Properties.Resources.resources
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\ListWizard.SerenaQuestions.resources
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.csproj.GenerateResource.cache
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.TrustInfo.xml
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.exe.manifest
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.application
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.exe
+C:\Users\000ab\Emulation\Desmume\ListWyyzzrd\ListWizard\ListWizard\obj\Release\Animal Crossing Catalog.pdb
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\bin\Release\Animal Crossing Catalog.exe.config
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\bin\Release\Animal Crossing Catalog.exe.manifest
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\bin\Release\Animal Crossing Catalog.application
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\bin\Release\Animal Crossing Catalog.exe
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\bin\Release\Animal Crossing Catalog.pdb
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.csprojAssemblyReference.cache
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\ListWizard.AC_Catalog.resources
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\AC_Catalog.Properties.Resources.resources
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\ListWizard.SerenaQuestions.resources
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.csproj.GenerateResource.cache
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.TrustInfo.xml
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.exe.manifest
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.application
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.exe
+C:\Users\000ab\Desktop\Animal Crossing Catalog\Animal Crossing Catalog\ListWizard\obj\Release\Animal Crossing Catalog.pdb

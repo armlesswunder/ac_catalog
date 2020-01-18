@@ -1,0 +1,130 @@
+x White Cap - shop - 160/40
+x Red Cap - shop - 160/40
+x Yellow Cap - shop - 160/40
+Light Blue Cap - shop - 160/40
+x Green Cap - shop - 160/40
+Star Cap - shop - 160/40
+1-Up Cap - shop - 160/40
+Purple Cap - shop - 160/40
+Blue Knit Hat - shop - 160/40
+x Green Knit Hat - shop - 160/40
+Orange Knit Hat - shop - 160/40
+x Pink Knit Hat - shop - 160/40
+x Purple Knit Hat - shop - 160/40
+Red Pom-Pom Hat - shop - 160/40
+Badge Hat - shop - 160/40
+x Straw Hat - shop - 160/40
+x Grandpa Hat - shop - 240/60
+x Paperboy Cap - shop - 280/70
+Beret - shop - 160/40
+x Dandy Hat - shop - 160/40
+Hunter's Cap - shop - 300/75
+Detective Hat - shop - 240/60
+Top Hat - shop - 400/100
+x Puffy Hat - shop - 240/60
+Bandana - shop - 80/20
+x Swimming Cap - shop - 80/20
+Wizard's Cap - shop - 80/20
+Big Bro's Hat - shop - 320/80
+x Li'l Bro's Hat - shop - 320/80
+x Bicycle Helmet - shop - 400/100
+Chef's Hat - shop - 160/40
+Combat Helmet - shop - 960/240
+Scholar's Hat - shop - 420/105
+Safety Helmet - shop - 300/75
+x Police Cap - shop - 480/120
+x Explorer's Hat - shop - 160/40
+Captain's Hat - shop - 360/90
+Sailor's Hat - shop - 300/75
+x Silk Hat - shop - 120/30
+x Outback Hat - shop - 160/40
+x Dutch Hat - shop - 320/80
+x Sombrero - shop - 240/60
+Tyrolean Hat - shop - 160/40
+x Viking Helmet - shop - 540/135
+Cavalier Hat - shop - 360/90
+Pirate's Hat - shop - 240/60
+Jester's Cap - shop - 360/90
+x Witch's Hat - shop - 160/40
+Red Ribbon - shop - 160/40
+x Blue Ribbon - shop - 160/40
+Yellow Ribbon - shop - 160/40
+x Heart Hairpin - shop - 160/40
+x Star Hairpin - shop - 160/40
+x Moon Hairpin - shop - 160/40
+Green Feather* - Donations - none/50
+Blue Feather* - Donations - none/60
+Yellow Feather* - Donations - none/70
+Red Feather* - Donations - none/80
+Purple Feather* - Donations - none/90
+White Feather* - Donations - none/100
+Rainbow Feather* - Donations - none/110
+Halo* - shop - 2,400/600
+Royal Crown* - shop - 1,200,000/300,000
+Crown* - shop - 1,000,000/250,000
+Pilot's Cap - shop - 720/180
+Fireman's Hat - shop - 960/240
+Baby's Hat - shop - 160/40
+White Veil - shop - 400/100
+x Turban* - Wendell - none/150
+x Warbonnet - shop - 1,000/250
+Kaffiyeh - shop - 160/40
+Cow Bone - shop - 160/40
+x Samurai Wig - shop - 1,200/300
+x Geisha Wig - shop - 1,600/400
+x Ninja Hood - shop - 240/60
+x Powdered Wig - shop - 160/40
+Afro Wig - shop - 160/40
+Regent Wig - shop - 160/40
+Mohawk Wig - shop - 160/40
+Pigtail - shop - 120/30
+x Bunny Hood - shop - 1,600/400
+Racing Helmet - shop - 1,200/300
+x Motocross Helmet - shop - 1,400/350
+Football Helmet - shop - 1,200/300
+Knight's Helmet - shop - 1,000/250
+Roman Helmet - shop - 1,200/300
+Diving Mask - shop - 2,200/550
+Space Helmet - shop - 2,400/600
+x Ski Mask - shop - 600/150
+x Wrestling Mask - shop - 900/225
+Dressing - shop - 120/30
+x King Tut Wig - shop - 12,000/3,000
+x Blue Frames - shop - 120/30
+Red Glasses - shop - 120/30
+x Yellow Glasses - shop - 120/30
+Mint Glasses - shop - 120/30
+Purple Glasses - shop - 120/30
+x Green Glasses - shop - 120/30
+Brown Glasses - shop - 120/30
+Pink Glasses - shop - 120/30
+x Thick Glasses - shop - 120/30
+Silver Frames - shop - 120/30
+Rimmed Glasses - shop - 120/30
+x Funky Glasses - shop - 120/30
+x Pilot Shades - shop - 2,400/600
+x Sporty Shades - shop - 160/40
+x Huge Shades - shop - 160/40
+x Triangle Shades - shop - 120/30
+Tiny Shades - shop - 120/30
+3-D Glasses - shop - 120/30
+Masquerade Mask - shop - 120/30
+Hero's Mask - shop - 1,200/300
+Goggles - shop - 280/70
+Snorkel Mask - shop - 320/80
+Eye Mask - shop - 160/40
+x HMD - shop - 1,800/450
+x Monocle - shop - 240/60
+x Doctor's Mirror - shop - 160/40
+x Eye Patch - shop - 120/30
+Post-Op Patch - shop - 120/30
+Gas Mask - shop - 240/60
+x Hockey Mask - shop - 200/50
+x Red Nose - shop - 80/20
+x Stache & Glasses - shop - 240/60
+Big Bro Mustache - shop - 600/150
+Curly Mustache - shop - 160/40
+x Mini-Mustache - shop - 160/40
+x King's Beard - shop - 8,000/2,000
+Mask - shop - 80/20
+x Pacifier - shop - 120/30

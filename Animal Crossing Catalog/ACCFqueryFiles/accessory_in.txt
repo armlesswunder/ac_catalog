@@ -1,0 +1,176 @@
+White Cap - Ables - 160/40 - white/white - Cool
+Red Cap - Ables - 160/40 - red/red - Cool
+Yellow Cap - Ables - 160/40 - yellow/yellow - Cool
+Light Blue Cap - Ables - 160/40 - aqua/aqua - Fresh
+Green Cap - Ables - 160/40 - green/green - Subtle
+Star Cap - Ables - 160/40 - pink/pink - Cute
+1-Up Cap - Ables - 160/40 - black/black - Funky
+Purple Cap - Ables - 160/40 - purple/purple - Gaudy
+Blue Cap - Ables - 640/160 - blue/blue - Fresh
+Blue Pom-Pom Hat - Ables - 160/40 - blue/blue - Subtle
+Green Knit Hat - Ables - 160/40 - green/green - Refined
+Orange Knit Hat - Ables - 160/40 - orange/orange - Funky
+Pink Knit Hat - Ables - 160/40 - pink/pink - Cute
+Purple Knit Hat - Ables - 160/40 - purple/white - Subtle
+Red Pom-Pom Hat - Ables - 160/40 - red/white - Gaudy
+Badge Hat - Ables - 160/40 - colorful/white - Fresh
+Straw Hat - Ables - 160/40 - brown/brown - Fresh
+Grandpa Hat - Ables - 240/60 - gray/gray - Refined
+Paperboy Cap - Ables - 280/70 - aqua/aqua - Subtle
+Beret - Ables - 160/40 - brown/brown - Refined
+Dandy Hat - Ables - 160/40 - aqua/white - Striking
+Hunter's Cap - Ables - 300/75 - red/white - Cute
+Detective Hat - Ables - 240/60 - beige/brown - Refined - Detective Look
+Top Hat - Ables - 400/100 - black/black - Fancy
+Puffy Hat - Ables - 240/60 - blue/blue - Fresh
+Gracie Hat* - GracieGrace - 8,000/2,000 - blue/colorful - Striking
+Elegant Hat* - GracieGrace - 6,400/1,600 - white/white - Fresh
+Bandana - Ables - 80/20 - red/red - Cool
+Tulip Hat - Ables - 640/160 - yellow/yellow - Funky
+Do-Rag - Ables - 640/160 - yellow/orange - Fresh
+Swimming Cap - Ables - 80/20 - yellow/yellow - Striking
+Wizard's Cap - Ables - 80/20 - green/green - Strange
+Newsprint Helmet - Tortimer (Japan) - 80/20 - gray/gray - Cute
+Festive Hat - Ables - 640/160 - red/white - Fancy
+Big Bro's Hat - Ables - 320/80 - red/red - Gaudy
+Li'l Bro's Hat - Ables - 320/80 - green/green - Gaudy
+Wario Hat* - Nook Points - none/0 - yellow/yellow - Striking
+Bicycle Helmet - Ables - 400/100 - red/red - Fresh - Cyclist Look
+Chef's Hat - Ables - 160/40 - white/white - Subtle - Chef Look
+Combat Helmet - Ables - 960/240 - green/colorful - Cool - Combat Look
+Scholar's Hat - Ables - 420/105 - brown/brown - Subtle - Graduate Look
+Safety Helmet - Ables - 300/75 - yellow/yellow - Refined - Laborer Look
+Police Cap - Ables - 480/120 - black/black - Cool - Police Look
+Explorer's Hat - Ables - 160/40 - gray/gray - Cool - Explorer Look
+Captain's Hat - Ables - 360/90 - white/white - Cool - Captain Look
+Sailor's Hat - Ables - 300/75 - blue/white - Cute - Sailor Look
+Silk Hat - Ables - 120/30 - red/green - Striking - Ornate Look
+Outback Hat - Ables - 160/40 - beige/beige - Cool - Western Look
+Dutch Hat - Ables - 320/80 - white/white - Cute - Nordic Look
+Sombrero - Ables - 240/60 - brown/brown - Refined - Reggae Look
+Tyrolean Hat - Ables - 160/40 - green/green - Subtle - Alpine Look
+Viking Helmet - Ables - 540/135 - gray/gray - Cool - Viking Look
+Cavalier Hat - Ables - 360/90 - black/black - Cool - Cavalier Look
+Pirate's Hat - Ables - 240/60 - black/black - Cool - Pirate Look
+Jester's Cap - Ables - 360/90 - yellow/purple - Striking - Jester Look
+Witch's Hat* - GracieGrace - 4,800/1,200 - black/black - Fancy - Witch Look
+Melon Hat - Ables - 640/160 - green/green - Fresh - Melon Look
+Strawberry Hat - Ables - 640/160 - red/pink - Cute - Strawberry Look
+Kiwi Hat - Ables - 640/160 - brown/brown - Funky - Kiwi Look
+Mandarin Hat - Ables - 640/160 - green/orange - Fresh - Tangerine Look
+Watermelon Hat - Ables - 640/160 - green/green - Funky - Watermelon Look
+Grape Hat - Ables - 640/160 - green/purple - Fancy - Grape Look
+Red Ribbon - Ables - 160/40 - red/red - Cute
+Blue Ribbon - Ables - 160/40 - blue/blue - Fresh
+Yellow Ribbon - Ables - 160/40 - yellow/yellow - Funky
+Heart Hairpin - Ables - 160/40 - pink/pink - Cute
+Star Hairpin - Ables - 160/40 - yellow/yellow - Fancy
+Moon Hairpin - Ables - 160/40 - yellow/yellow - Funky
+Green Feather - Savings - none or 200/50 - green/green - Fresh
+Blue Feather - Savings - none or 240/60 - blue/blue - Fresh
+Yellow Feather - Savings - none or 280/70 - yellow/yellow - Fresh
+Red Feather - Savings - none or 320/80 - red/red - Fresh
+Purple Feather - Savings - none or 360/90 - purple/purple - Fresh
+White Feather - Savings - none or 400/100 - white/white - Fresh
+Rainbow Feather - Savings - none or 440/110 - colorful/colorful - Fresh
+Halo - Ables - 2,400/600 - yellow/yellow - Striking
+Royal Crown* - Ables - 1,200,000/300,000 - yellow/red - Fresh - Regal Look
+Crown* - Ables - 1,000,000/250,000 - yellow/yellow - Fresh
+Black Knit Cap - Ables - 120/30 - pink/black - Cute
+Pilot's Cap - Ables - 720/180 - yellow/orange - Cool
+Fireman's Hat - Ables - 960/240 - black/black - Cool - Firefighter Look
+Baby's Hat - Ables - 160/40 - white/white - Cute
+Turban - Ables - 600/150 - white/white - Fancy - Persian Look
+Warbonnet - Ables - 1,000/250 - colorful/colorful - Cool - Native Look
+Kaffiyeh - Ables - 160/40 - white/white - Fresh
+Cow Bone - Ables - 160/40 - white/white - Striking - Native Look
+Samurai Wig - Ables - 1,200/300 - none/none - Subtle
+Geisha Wig - Ables - 1,600/400 - none/none - Gaudy - Zen Look
+Ninja Hood - Ables - 240/60 - blue/blue - Cool - Ninja Look
+Powdered Wig - Ables - 160/40 - gray/gray - Refined
+Afro Wig - Ables - 160/40 - none/none - Fresh
+Regent Wig - Ables - 160/40 - none/none - Fresh
+Mohawk Wig - Ables - 160/40 - none/none - Fresh
+Pigtail - Ables - 120/30 - none/none - Striking - Ornate Look
+Bun Wig - Ables - 480/120 - none/none - Cute
+Tiara Hair* - GracieGrace - 7,200/1,800 - none/none - Fancy
+Bridal Veil* - GracieGrace - 7,200/1,800 - white/white - Cute - Bridal Look
+Headband* - GracieGrace - 4,800/1,200 - white/white - Fancy - Spa Look
+Bunny Hood - Ables - 1,600/400 - white/white - Cute - Bunny Look
+Cat Cap - Ables - 120/30 - blue/blue - Cute - Cat Look
+Bear Cap - Ables - 120/30 - brown/brown - Funky - Bear Look
+Frog Cap - Ables - 120/30 - green/green - Strange - Frog Look
+Kappa Cap - Ables - 120/30 - green/green - Striking - Kapp'n Look
+Helmet - Ables - 2,000/500 - yellow/black - Refined - Samurai Look
+Hero's Cap* - Nook Points - none/0 - green/green - Cool - Link Look
+Racing Helmet - Ables - 1,200/300 - red/red - Cool - Racer Look
+Motocross Helmet - Ables - 1,400/350 - blue/blue - Cool - Racer Look
+Football Helmet - Ables - 1,200/300 - yellow/yellow - Fresh
+Knight's Helmet - Ables - 1,000/250 - gray/gray - Cool - Knight Look
+Roman Helmet - Ables - 1,200/300 - yellow/yellow - Cool - Warrior Look
+Diving Mask - Ables - 2,200/550 - yellow/yellow - Gaudy
+Space Helmet - Ables - 2,400/600 - aqua/aqua - Cool - Astronaut Look
+Ski Mask - Ables - 600/150 - black/black - Strange
+Wrestling Mask - Ables - 900/225 - red/red - Cool - Wrestler Look
+Dressing - Ables - 120/30 - white/white - Strange - Mummy Look
+Retro Helmet* - GracieGrace - 5,000/1,250 - green/green - Refined
+Red Zap Helmet - Ables - 120/30 - red/white - Cool - Red Hero Look
+Blue Zap Helmet - Ables - 120/30 - blue/white - Cool - Blue Hero Look
+Green Zap Helmet - Ables - 120/30 - green/white - Cool - Green Hero Look
+Pink Zap Helmet - Ables - 120/30 - pink/white - Cool - Heroine Look
+Red Ogre Mask* - Tortimer (Japan) - none/160 - red/red - Strange
+Blue Ogre Mask* - Tortimer (Japan) - none/160 - blue/blue - Strange
+Majora's Mask* - Nook Points - none/0 - colorful/colorful - Strange
+Samus Mask* - Nook Points - none/0 - orange/orange - Cool - Samus Look
+Midna's Mask* - Nook Points - none/0 - gray/gray - Striking
+Toad Hat* - Nook Points - none/0 - red/white - Striking
+Pumpkin Head* - Jack - none/0 - orange/orange - Fancy
+King Tut Mask - Ables - 12,000/3,000 - yellow/blue - Strange - Egyptian Look
+Blue Frames - Ables - 120/30 - blue/blue - Funky
+Red Glasses - Ables - 120/30 - red/red - Fancy
+Yellow Glasses - Ables - 120/30 - yellow/yellow - Striking
+Mint Glasses - Ables - 120/30 - aqua/aqua - Refined
+Purple Glasses - Ables - 120/30 - purple/purple - Gaudy
+Green Glasses - Ables - 120/30 - green/green - Subtle
+Brown Glasses - Ables - 120/30 - brown/brown - Fresh
+Pink Glasses - Ables - 120/30 - pink/pink - Cute
+Thick Glasses - Ables - 160/40 - black/black - Cool
+Silver Frames - Ables - 120/30 - gray/gray - Fancy
+Rimmed Glasses - Ables - 120/30 - aqua/black - Funky
+Funky Glasses - Ables - 120/30 - purple/purple - Strange
+Tortoise Specs* - GracieGrace - 5,200/1,300 - brown/brown - Fancy
+Gracie Glasses* - GracieGrace - 6,200/1,550 - blue/colorful - Striking
+Pilot Shades - Ables - 2,400/600 - black/black - Striking
+Sporty Shades - Ables - 160/40 - blue/blue - Refined
+Huge Shades - Ables - 160/40 - red/black - Gaudy
+Triangle Shades - Ables - 120/30 - black/black - Subtle
+Tiny Shades - Ables - 120/30 - black/black - Fresh
+Heart Shades* - GracieGrace - 4,800/1,200 - pink/black - Funky
+Star Shades* - GracieGrace - 4,800/1,200 - yellow/black - Funky
+3-D Glasses - Ables - 120/30 - red/blue - Cute
+Masquerade Mask* - GracieGrace - 4,800/1,200 - white/white - Cool
+                 - Masquerade Look
+Superhero Mask - Ables - 1,200/300 - black/black - Fancy
+Goggles - Ables - 280/70 - aqua/black - Funky
+Snorkel Mask - Ables - 320/80 - aqua/black - Subtle
+Eye Mask - Ables - 160/40 - green/green - Strange
+HMD - Ables - 1,800/450 - gray/gray - Striking
+Monocle - Ables - 240/60 - aqua/gray - Refined
+Doctor's Mirror - Ables - 160/40 - gray/gray - Subtle - Doctor Look
+Eye Patch - Ables - 120/30 - black/black - Cool
+Post-Op Patch - Ables - 120/30 - white/white - Fresh
+Gas Mask - Ables - 240/60 - gray/gray - Striking
+Hockey Mask - Ables - 200/50 - white/white - Cool
+Clown Mask - Ables - 640/160 - black/white - Striking
+Red Nose - Ables - 80/20 - red/red - Striking
+Stache & Glasses - Ables - 240/60 - red/black - Funky
+Big Bro Mustache - Ables - 600/150 - black/black - Strange
+Bad Bro Stache* - Nook Points - none/0 - black/black - Striking
+Curly Mustache - Ables - 160/40 - black/black - Striking
+King's Beard - Ables - 8,000/2,000 - white/white - Refined
+Doctor's Mask - Ables - 80/20 - white/white - Fresh
+Pacifier - Ables - 120/30 - pink/pink - Cute
+Beak - Ables - 640/160 - yellow/yellow - Strange
+Lemon Pack - Ables - 360/90 - yellow/yellow - Striking
+Cucumber Pack - Ables - 360/90 - green/green - Striking
+Bandage - Ables - 80/20 - brown/brown - Cool

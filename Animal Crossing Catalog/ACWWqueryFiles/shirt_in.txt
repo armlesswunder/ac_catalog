@@ -1,0 +1,256 @@
+x Work Uniform* - Tom Nook - All - none/0 - Refined
+x One-Ball Shirt - Grp C - All - 340/85 - Funky
+x Two-Ball Shirt - Grp A - All - 340/85 - Funky
+x Three-Ball Shirt - Grp B - All - 340/85 - Funky
+x Four-Ball Shirt - Grp C - All - 340/85 - Funky
+Five-Ball Shirt - Grp A - All - 340/85 - Funky
+x Six-Ball Shirt - Grp B - All - 340/85 - Funky
+x Seven-Ball Shirt - Grp C - All - 340/85 - Funky
+x Eight-Ball Shirt - Grp A - All - 340/85 - Funky
+Nine-Ball Shirt - Grp B - All - 340/85 - Funky
+x Paw Shirt - Grp C - All - 360/90 - Funky
+Daisy Shirt - Grp C - Spring - 380/95 - Cute
+x Tulip Shirt - Grp C - Spring - 280/70 - Cute
+x Cherry Shirt - Grp B - Fall - 360/90 - Cute
+x Skull Shirt - Grp C - All - 320/80 - Cool
+x U R Here Shirt - Grp C - All - 350/82 - Cool
+Lightning Shirt - Grp C - Summer - 380/95 - Striking
+MVP Shirt - Grp B - All - 370/92 - Cool
+BB Shirt - Grp A - All - 350/87 - Cool
+Frog Shirt - Grp B - Summer - 340/85 - Cute
+Bear Shirt - Grp A - All - 390/97 - Cute
+x Bunny Shirt - Grp C - All - 360/90 - Cute
+Elephant Shirt - Grp A - All - 260/65 - Cute
+x Spade Shirt - Grp C - All - 340/85 - Fresh
+Diamond Shirt - Grp A - All - 380/95 - Cool
+x Club Shirt - Grp C - All - 360/90 - Subtle
+Heart Shirt - Grp A - All - 360/90 - Cute
+x Big Star Shirt - Grp B - All - 400/100 - Funky
+Bright Shirt - Grp B - Spring - 320/80 - Gaudy
+x A Shirt - Grp A - All - 370/92 - Funky
+x No. 1 Shirt - Grp C - All - 250/62 - Cool
+x No. 2 Shirt - Grp A - All - 250/62 - Funky
+No. 3 Shirt - Grp B - All - 250/62 - Funky
+x No. 4 Shirt - Grp C - All - 250/62 - Cute
+x No. 5 Shirt - Grp A - All - 250/62 - Funky
+No. 23 Shirt - Grp B - All - 250/62 - Funky
+x No. 67 Shirt - Grp C - All - 250/62 - Funky
+Big Bro's Shirt - Grp B - Fall - 320/80 - Funky
+Li'l Bro's Shirt - Grp A - Summer - 320/80 - Refined
+Cloudy Shirt - Grp A - Spring - 320/80 - Fresh
+Fresh Shirt - Grp A - All - 380/95 - Fresh
+Dawn Shirt - Grp A - Summer - 380/95 - Subtle
+x Misty Shirt - Grp B - All - 380/95 - Refined
+Sunset Top - Grp B - All - 290/72 - Fresh
+Deep Blue Tee - Grp B - All - 380/95 - Fresh
+Peachy Shirt - Grp B - Spring - 390/97 - Fresh
+Rainbow Shirt - Grp A - Summer - 777/194 - Gaudy
+Snowcone Shirt - Grp A - Summer - 420/105 - Cute
+Orange Tie-Dye - Grp A - All - 380/95 - Fresh
+Purple Tie-Dye - Grp B - All - 380/95 - Fresh
+x Green Tie-Dye - Grp C - All - 380/95 - Fresh
+x Blue Tie-Dye - Grp B - Summer - 380/95 - Fresh
+x Red Tie-Dye - Grp B - All - 380/95 - Fresh
+x Bold Check Shirt - Grp B - All - 360/90 - Gaudy
+Cafe Shirt - Grp A - Winter - 420/105 - Cool
+x Checkered Shirt - Grp B - All - 390/97 - Cool
+x Blue Check Shirt - Grp B - All - 380/95 - Cute
+Red Check Shirt - Grp B - Spring - 330/82 - Cute
+Rugby Shirt - Grp A - All - 360/90 - Funky
+Green Bar Shirt - Grp B - Summer - 320/80 - Fresh
+Yellow Bar Shirt - Grp A - All - 320/80 - Subtle
+Grape Stripe Tee - Grp A - All - 320/80 - Fancy
+Beatnik Shirt - Grp A - Spring - 360/90 - Funky
+x Red Bar Shirt - Grp C - All - 360/90 - Fresh
+Blue Stripe Knit - Grp A - Summer - 340/85 - Fresh
+x Gelato Shirt - Grp C - All - 330/82 - Cute
+x Chain-gang Shirt - Grp C - All - 260/65 - Refined
+Yellow Tartan - Grp B - Spring - 430/107 - Subtle
+x Fall Plaid Shirt - Grp A - Fall - 370/92 - Refined
+x Blue Tartan - Grp A - Summer - 390/97 - Fresh
+Dapper Shirt - Grp C - Winter - 350/87 - Funky
+Natty Shirt - Grp C - Summer - 380/95 - Funky
+Blue Grid Shirt - Grp A - Summer - 340/85 - Fresh
+Red Grid Shirt - Grp B - All - 360/90 - Subtle
+Dazed Shirt - Grp C - Summer - 350/87 - Cute
+x Checkerboard Tee - Grp B - All - 340/85 - Cool
+x Toad Shirt - Grp C - Winter - 340/85 - Funky
+Dark Polka Shirt - Grp B - Winter - 350/87 - Fancy
+Lite Polka Shirt - Grp B - All - 380/95 - Funky
+Bubble Gum Shirt - Grp B - Fall - 380/95 - Cute
+Funky Dot Shirt - Grp B - All - 430/107 - Funky
+Gumdrop Shirt - Grp C - Spring - 390/97 - Fresh
+x Big Dot Shirt - Grp C - All - 340/85 - Funky
+Aqua Polka Shirt - Grp A - Fall - 360/90 - Fresh
+x Blue Pinstripe - Grp C - Fall - 380/95 - Refined
+Yellow Pinstripe - Grp B - Winter - 360/90 - Refined
+Orange Pinstripe* - Gracie - All - none/1,250 - Strange
+Vegetarian Shirt - Grp A - All - 280/70 - Subtle
+Racer Shirt - Grp A - All - 380/95 - Cool
+Vertigo Shirt - Grp A - All - 380/95 - Refined
+Barber Shirt* - Gracie - All - none/1,600 - Striking
+Jade Check Print - Grp A - All - 360/90 - Subtle
+Blue Check Print - Grp A - Fall - 360/90 - Subtle
+Mint Gingham Top - Grp C - All - 330/82 - Subtle
+Picnic Shirt - Grp A - Fall - 330/82 - Refined
+Candy Gingham - Grp C - Spring - 320/80 - Cute
+Lemon Gingham - Grp A - Spring - 340/85 - Funky
+Melon Gingham - Grp B - Spring - 340/85 - Fresh
+Bad Plaid Shirt - Grp B - All - 420/105 - Fancy
+Pink Tartan - Grp C - Spring - 420/105 - Cute
+x Waffle Shirt - Grp C - Fall - 430/107 - Refined
+x Gray Tartan - Grp C - All - 420/105 - Refined
+Chevron Shirt - Grp C - All - 320/80 - Subtle
+Icy Shirt - Grp C - Summer - 390/97 - Fresh
+Aurora Knit - Grp B - Winter - 380/95 - Fresh
+Winter Sweater - Grp C - Winter - 290/72 - Cute
+Folk Shirt - Grp A - Winter - 380/95 - Subtle
+x Argyle Knit - Grp C - Spring - 460/115 - Refined
+Uncommon Shirt - Grp B - Winter - 360/90 - Strange
+Comfy Sweater - Grp B - Winter - 360/90 - Refined
+Beige Knit - Grp A - Winter - 320/80 - Subtle
+Earthy Knit - Grp B - Winter - 390/97 - Refined
+Spring Shirt - Grp C - Spring - 320/80 - Cute
+Vogue Top - Grp B - Spring - 380/95 - Cute
+x Citrus Gingham - Grp C - Spring - 360/90 - Cute
+Floral Knit - Grp B - Spring - 420/105 - Fancy
+Dreamy Shirt - Grp A - Spring - 400/100 - Cute
+Flowery Shirt - Grp B - Summer - 400/100 - Funky
+Silk Bloom Shirt - Grp A - Spring - 480/120 - Cute
+x Pop Bloom Shirt - Grp A - All - 360/90 - Strange
+Blossom Shirt - Grp A - Spring - 370/92 - Cute
+Loud Bloom Shirt - Grp B - Summer - 360/90 - Gaudy
+Rose Shirt - Grp A - All - 480/120 - Gaudy
+Rose Sky Shirt - Grp B - All - 320/80 - Fancy
+x Lotus Shirt - Grp B - Summer - 400/100 - Fresh
+Chocomint Shirt - Grp C - Winter - 340/85 - Funky
+x Fern Shirt - Grp C - All - 300/75 - Fresh
+x Blue Retro Shirt - Grp C - All - 380/95 - Fresh
+x Orange Check Tee - Grp A - All - 280/70 - Funky
+x Leaf Shirt - Grp C - All - 260/65 - Refined
+Fall Leaf Shirt - Grp B - Fall - 280/70 - Refined
+Grass Shirt* - Gracie - All - none/1,450 - Fresh
+Snow Shirt* - Gracie - All - none/1,700 - Fresh
+x Lovely Shirt - Grp C - Spring - 400/100 - Cute
+x Bubble Shirt - Grp B - Summer - 410/102 - Fresh
+Chichi Print - Grp A - All - 180/45 - Refined
+Coral Shirt* - Gracie - All - none/1,550 - Strange
+Groovy Shirt* - Gracie - All - none/1,600 - Striking
+Cool Shirt* - Gracie - All - none/1,600 - Fancy
+x Swell Shirt - Grp B - All - 400/100 - Fancy
+Blue Diamond Top - Grp C - Winter - 370/92 - Fancy
+x Prism Shirt - Grp C - All - 370/92 - Gaudy
+Go-Go Shirt - Grp C - Fall - 360/90 - Fancy
+Flame Shirt - Grp A - All - 360/90 - Cool
+x Danger Shirt - Grp B - All - 340/85 - Striking
+Gracie's Top* - Gracie - All - none/1,550 - Striking
+x Future Shirt - Grp A - All - 390/97 - Striking
+Optical Shirt - Grp B - All - 430/107 - Strange
+Twinkle Shirt - Grp A - Summer - 480/120 - Gaudy
+Star Shirt - Grp A - All - 370/92 - Gaudy
+x Night Sky Tee - Grp A - All - 420/105 - Fancy
+Amethyst Shirt - Grp B - Fall - 360/90 - Strange
+x Nebula Shirt - Grp A - All - 390/97 - Strange
+x Dice Shirt - Grp A - All - 340/85 - Striking
+x Kiddie Shirt - Grp B - All - 340/85 - Funky
+x Airy Shirt - Grp C - All - 420/105 - Fancy
+x Polar Fleece - Grp C - All - 360/90 - Fancy
+x Crossing Shirt* - Gracie - All - none/1,550 - Strange
+Splendid Shirt* - Gracie - All - none/1,550 - Strange
+Jagged Shirt - Grp B - All - 360/90 - Gaudy
+Subdued Print - Gracie/Grp B - All/Fall - none or 320/80 - Refined
+Sharp Outfit - Grp A - Winter - 280/70 - Refined
+Jungle Camo - Grp A - All - 320/80 - Cool
+x Arctic Camo - Grp C - All - 320/80 - Cool
+Desert Camo - Grp B - All - 320/80 - Cool
+x Zebra Shirt* - Gracie - All - none/1,600 - Gaudy
+x Tiger Shirt* - Gracie - All - none/1,600 - Gaudy
+Cow Shirt* - Gracie - All - none/1,600 - Gaudy
+Leopard Shirt - Grp C - All - 320/80 - Gaudy
+Giraffe Shirt* - Gracie - All - none/1,550 - Gaudy
+Ladybug Shirt* - Gracie - All - none/1,350 - Striking
+Butterfly Shirt* - Gracie - All - none/1,800 - Striking
+Spiderweb Shirt - Grp B - Summer - 320/80 - Striking
+Caterpillar Tee* - Gracie - All - none/1,700 - Striking
+Fiendish Shirt* - Gracie - All - none/1,700 - Striking
+Citrus Shirt* - Gracie - All - none/1,600 - Fresh
+Kiwi Shirt* - Gracie - All - none/1,600 - Funky
+Watermelon Shirt* - Gracie - All - none/1,600 - Funky
+Strawberry Shirt* - Gracie - All - none/1,600 - Cute
+Grape Shirt* - Gracie - All - none/1,600 - Fancy
+Melon Shirt* - Gracie - All - none/1,600 - Fresh
+Pink Wave Shirt - Grp A - All - 420/105 - Gaudy
+Flan Shirt* - Gracie - All - none/1,300 - Strange
+Hot Dog Shirt* - Gracie - All - none/1,500 - Striking
+Sandwich Shirt* - Gracie - All - none/1,600 - Striking
+x Dragon Suit - Grp C - Summer - 340/85 - Cool
+x Asian Shirt - Grp B - All - 380/95 - Subtle
+Hot Spring Shirt - Grp B - Spring - 520/130 - Cute
+New Spring Shirt - Grp C - Spring - 520/130 - Cute
+Crewel Shirt - Grp C - Winter - 380/95 - Fancy
+x Tropical Shirt - Grp C - Summer - 370/92 - Fancy
+Ribbon Shirt - Grp A - Spring - 370/92 - Cute
+Bodice - Grp A - All - 400/100 - Fancy
+Laced Shirt - Grp C - Winter - 370/92 - Fancy
+x Circus Shirt - Grp C - All - 370/92 - Subtle
+Green Vest - Grp A - Summer - 380/95 - Subtle
+Yellow Bolero - Grp B - All - 430/107 - Cute
+x Noble Shirt - Grp C - All - 380/95 - Fancy
+x Turnip Top - Grp B - All - 350/87 - Cute
+x Yodel Shirt - Grp A - All - 350/87 - Cute
+Gaudy Sweater - Grp A - Spring - 330/82 - Gaudy
+Western Shirt - Grp C - Winter - 350/87 - Cool
+Red Riding Hoody - Grp A - Fall - 350/87 - Cute
+Royal Shirt - Grp A - All - 380/95 - Cool
+Witch Shirt - Grp B - All - 360/90 - Fancy
+x Firefighter Tee - Grp C - All - 320/80 - Cool
+Graduation Gown - Grp B - All - 320/80 - Subtle
+x Sky Shirt - Grp B - All - 360/90 - Subtle
+x Captain's Shirt - Grp C - All - 340/85 - Cool
+Burglar's Shirt - Grp A - All - 420/105 - Cool
+Jester Shirt - Grp A - Spring - 420/105 - Striking
+x Nurse's Uniform - Grp A - All - 300/75 - Subtle
+x Bone Shirt - Grp C - All - 280/70 - Striking
+x Zipper Shirt - Grp C - All - 320/80 - Cool
+Mummy Shirt - Grp A - All - 180/45 - Strange
+x Military Uniform - Grp C - All - 380/95 - Cool
+Sailor's Uniform - Grp A - All - 320/80 - Cute
+Reggae Shirt - Grp B - All - 240/60 - Gaudy
+x Camel Shirt - Grp C - All - 280/70 - Refined
+Molecule Tee - Grp B - All - 360/90 - Subtle
+Concierge Shirt - Grp A - Fall - 350/87 - Cool
+Kimono - Grp B - All - 520/130 - Gaudy
+x Tuxedo - Grp C - All - 380/95 - Cool
+x Explorer Shirt - Grp B - All - 400/100 - Cool
+Dutch Shirt - Grp C - All - 280/70 - Cute
+x Toga - Grp C - All - 280/70 - Striking
+Cake Shirt - Grp A - All - 600/150 - Cute
+x Waitress Shirt - Grp B - All - 320/80 - Cute
+x Princess Shirt - Grp C - All - 480/120 - Fancy
+Fairy Tale Shirt - Grp A - All - 320/80 - Cute
+Spanish Shirt - Grp B - All - 360/90 - Gaudy
+x Latin Uniform - Grp B - All - 320/80 - Funky
+Red Down Vest - Grp C - Winter - 380/95 - Cool
+One-Way Tee - Grp A - All - 420/105 - Cool
+x Beaded Shirt - Grp C - All - 420/105 - Fancy
+Nile Shirt - Grp A - All - 400/100 - Striking
+x Wrap Shirt - Grp B - All - 320/80 - Cool
+Wrestler Shirt - Grp C - All - 280/70 - Cool
+Security Shirt - Grp A - All - 420/105 - Cool
+x Poncho - Grp B - All - 320/80 - Refined
+x Fluffy Shirt - Grp C - All - 400/100 - Cute
+x Chinese Shirt - Grp B - All - 320/80 - Subtle
+x Pep Squad Shirt - Grp C - All - 280/70 - Funky
+Racing Shirt - Grp B - All - 460/115 - Cool
+Orange Jumpsuit - Grp A - All - 200/50 - Refined
+Tin Shirt* - Gracie - All - none/1,600 - Refined
+Scale Armor Suit - Grp A - All - 480/120 - Cool
+x Armor Suit - Grp B - All - 400/100 - Cool
+Gold Armor Suit - Grp C - All - 540/135 - Cool
+Red Warmup Suit - Grp B - Winter - 260/65 - Funky
+x Baseball Shirt - Grp B - All - 320/80 - Funky
+Leather Jerkin - Grp A - Winter - 380/95 - Fancy
+Frock Coat - Grp C - Summer - 290/72 - Fancy
+x Space Suit - Grp B - All - 360/90 - Cool
+Caveman Tunic - Grp C - All - 380/95 - Strange
+x Moldy Shirt* - Gracie - All - none/12 - Strange

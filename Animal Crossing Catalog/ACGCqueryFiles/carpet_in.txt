@@ -1,0 +1,164 @@
+[Plush Carpet] Akai juutan or Red Carpet - Grp A - 2,160/540
+
+[Classic Carpet] Shikkuna juutan or Chic Carpet - Grp B - 2,300/575 - [Classic
+                                                  Series] Shikku shirizu or
+                                                  Chic Series
+
+[Checkered Tile] Aka kuro tairu no yuka or Red Black Tile - Grp C - 1,680/420
+
+[Old Flooring] Furui furoringu - Grp A - 800/200
+
+[Red Tile] Hanikamu tairu no yuka or Honeycomb Tile - Grp B - 1,680/420
+
+[Birch Flooring] Shiraki no furoringu or Plain Wood Flooring - Grp C - 800/200
+
+[Classroom Floor]* Kyoushitsu no yuka - [Saharah] Rolland - none/1,500
+                                      - [Classroom Theme] Kyoushitsu tema
+
+[Lovely Carpet] Raburi juutan - Grp A - 1,980/495 - [Lovely Series] Raburi
+                                shirizu
+
+[Exotic Rug] Ajiana ragu or Asia Rug - Grp B - 1,820/455 - [Exotic Series] Ajia
+                                       shirizu or Asia Series
+
+[Mossy Carpet]* Koke niwa no yuka or Mossy Garden Floor - [Saharah] Rolland
+                                                        - [Mossy Garden Theme]
+                                                          Koke niwa tema
+
+[18 Mat Tatami] 18 joujikidatami - Grp A - 1,150/287
+
+[8 Mat Tatami] 8 joujikidatami - Grp C - 800/200
+
+[Citrus Carpet] Furutsu juutan or Fruit Carpet - Grp C - 1,330/332
+
+[Cabin Rug] Rogu hausu no yuka or Cabin Floor - Grp A - 1,540/385 - [Cabin
+                                                Series] Rogu shirizu or Log
+                                                Series
+
+[Closed Road]* Hibiwareto douro or Cracked Road - [Saharah] Rolland
+                                                - none/1,625 - [Construction
+                                                  Theme] Koujigenba tema
+
+[Lunar Surface]* Getsumen no yuka - [Saharah] Rolland - none/2,000 - [Space
+                                    Theme] Uchuu tema
+
+[Sand Garden]* Karesansui no yuka - [Saharah] Rolland - none/1,750 - [Rock
+                                    Garden Theme] Karesansui tema
+
+[Spooky Carpet]* Harouin juutan or Halloween Carpet - [Jack] Pumpking - [Spooky
+                                                      Series] Harouin shirizu
+                                                      or Halloween Series
+
+Ofuroba tairu no yuka or Bathroom Tile* - [Saharah] Rolland - none/1,700
+                                        - Sentou tema or Public Bath Theme
+ 
+[Green Rug] Midori no juutan - Grp A - 1,540/385 - [Green Series] Midori
+                               shirizu
+
+[Blue Flooring] Aoi yuka - Grp B - 1,580/395 - [Blue Series] Aoiro shirizu
+
+[Regal Carpet] Roiyaruna yuka or Royal Carpet - Grp C - 2,850/712 - [Regal
+                                                Series] Roiyaru shirizu or
+                                                Royal Series
+
+[Ranch Flooring] Kantorina yuka or Country Carpet - Grp A - 1,750/437 - [Ranch
+                                                    Series] Kantori shirizu or
+                                                    Country Series
+
+[Modern Tile] Monokuro tairu no yuka or Monochrome Tile - Grp B - 1,540/385
+                                                        - [Modern Series]
+                                                          Monokuro shirizu or
+                                                          Monochrome Series
+
+[Cabana Flooring] Rizotona yuka or Resort Carpet - Grp C - 1,680/420 - [Cabana
+                                             Series] Rizoto shirizu or Resort
+                                             Series
+
+[Snowman Carpet]* Yukidaruma juutan - Snowman - none/8,888 - [Snowman Series]
+                                      Yukidaruma shirizu
+
+Furui itama no yuka or Old Board Floor - Grp C - 880/220 - Wafuu tema or
+                                         Japanese-style Theme
+
+[Music Room Floor]* Ongakushitsu no yuka - [Saharah] Rolland - none/1,800
+
+[Plaza Tile] Yoropianna yuka or European Floor - Grp A - 2,180/545
+
+[Kitchen Tile] Sawayaka tairu no yuka or Fresh Tile - Grp B - 1,890/472
+
+[Ornate Rug] Kusabana no juutan or Grass Blades Carpet - Grp C - 2,100/525
+
+[Tatami Floor] Itamatsuki no tatami - Grp A - 1,340/335
+
+[Bamboo Flooring] Banbuna yuka - Grp A - 1,360/340
+
+[Kitchen Flooring] Kicchin no yuka - Grp A - 1,230/307
+
+[Charcoal Tile] Arai tairu no yuka or Rough Tile - Grp B - 800/200
+
+[Stone Tile] Dairiseki no yuka or Marble Floor - Grp C - 2,750/687
+
+[Imperial Tile] Ouchouna yuka or Dynasty Floor - Grp A - 2,980/745
+
+[Opulent Rug] Susuketa juutan or Soot Column Carpet - Grp B - 1,230/307
+
+[Slate Flooring] Randamuna shikiishi or Random Stone Paving - Grp C - 1,380/345
+
+[Ceramic Tile] Kiiroi pi tairu or Yellow Tile - Grp A - 1,390/347
+
+[Fancy Carpet] Koutana juutan or Ballad Carpet - Grp B - 2,980/745
+
+[Cowhide Rug] Gyuugawa no shikimono - Grp C - 1,540/385
+
+[Steel Flooring] Teppan no yuka or Iron Plate Floor - Grp A - 1,480/370
+
+[Office Flooring]* Ofisu no yuka - [Saharah] Rolland - none/1,700
+
+[Ancient Tile]* Ejiputona yuka or Egypt Floor - [Saharah] Rolland - none/2,400
+
+[Exquisite Rug] Orientaruna ragu or Oriental Rug - Grp C - 1,960/490
+
+[Sandlot]* Akichi no yuka or Vacant Land Floor - [Saharah] Rolland - none/1,700
+
+[Jingle Carpet]* Kurisumasu juutan or Christmas Carpet - Jingle - none/12,240
+                                                       - [Jingle Series]
+                                                         Kurisumasu shirizu or
+                                                         Christmas Series
+
+[Daisy Meadow]* Sougen no yuka or Meadow Floor - [Saharah] Rolland - none/1,800
+
+[Sidewalk]* Hodou no yuka or Pavement Floor - [Saharah] Rolland - none/1,950
+
+[Mosaic Tile] Mozaiku tairu no yuka - Grp B - 2,300/575
+
+[Parquet Floor] Yosegizaiku no yuka - Grp C - 2,350/587
+
+[Basement Floor]* Chikashitsu no yuka - [Saharah] Rolland - none/2,125
+
+[Chessboard Rug]* Shoubu no yuka or Win/Lose Floor - [Saharah] Rolland
+                                                   - none/2,075 - [Chess Theme]
+                                                     Chesu tema
+
+[Kiddie Carpet] Karafuruna yuka or Colorful Floor - Grp B - 1,630/407 - [Kiddie
+                                                    Series] Karafuru shirizu or
+                                                    Colorful Series
+
+[Shanty Mat] Mushiro - Grp C - 720/180
+
+[Concrete Floor]* Konkurito no yuka - [Saharah] Rolland - none/1,800
+
+[Saharah's Desert]* Sabaku no yuka or Desert Floor - [Saharah] Rolland
+                                                   - none/1,800
+
+[Tartan Rug] Shosai no juutan or Printed Carpet - Grp C - 1,820/455
+
+[Palace Tile] Kyuuden no yuka - Grp A - 3,200/800
+
+[Tropical Floor]* Minami no shimana yuka - [Saharah] Rolland - none/2,050
+
+[Playroom Rug] Omochana yuka or Toy Floor - Grp C - 1,360/340
+
+[Kitschy Tile] Kicchuna yuka - Grp B - 1,280/320
+
+[Diner Tile] Midori no pi tairu or Green Tile - Grp B - 1,300/325
+eof

@@ -1,0 +1,550 @@
+
+[Flame Shirt] Faia no fuku or Fire Shirt - Grp A - All - 360/90
+
+[Paw Shirt] Ashiato no fuku or Footprint Shirt - Grp C - All - 360/90
+
+[Wavy Pink Shirt] Aka reiya no fuku or Red Layer Shirt - Grp B - 360/90
+
+[Future Shirt] Fuchana fuku - Grp A - All - 390/97
+
+[Bold Check Shirt] Medatsu chekka no fuku or  - Grp B - All - 360/90
+
+[Mint Gingham Top] Minto gingamuna fuku - Grp C - All - 330/82
+
+[Bad Plaid Shirt] Hadena tatan no fuku or Showy Tartan - Grp B - All - 420/105
+
+[Speedway Shirt] Shinpuru rainna fuku or Simple Line Shirt - Grp C - Summer
+                                                           - 290/72
+
+[Folk Shirt] Neitibu nitto or Native Knit - Grp A - Winter - 380/95
+
+[Daisy Shirt] Furawana fuku or Flower Shirt - Grp C - Spring - 380/95
+
+[Wavy Tan Shirt] Sepia reiyana fuku or Sepia Layer Shirt - Grp C - Fall
+                                                         - 360/90
+
+[Optical Shirt] Oputikaruna fuku - Grp B - All - 430/107
+
+[Rugby Shirt] Medatsu boda no fuku or Bold Stripe Shirt - Grp A - All - 360/90
+
+[Sherbet Gingham] Beri gingamuna fuku or Berry Gingham - Grp A - Fall - 330/82
+
+[Yellow Tartan] Kiiro tatan no fuku - Grp B - Spring - 430/107
+
+[Gelato Shirt] Ichigo bodana fuku or Strawberry Stripe Shirt - Grp C - All
+                                                             - 330/82
+
+[Work Uniform]* Sagyougi - [Tom Nook] Tanukichi - All - none/0
+
+[Patched Shirt]* Boroi fuku or Ragged Shirt - [Jack] Pumpking - Halloween
+                                            - none/0
+
+[Red Aloha Shirt]* Aka no aroha - Island - All - none/0
+
+[Blue Aloha Shirt]* Ao no aroha - Island - All - none/0
+
+[Dark Polka Shirt] Kuro maburu no fuku or Black Marble Shirt - Grp B - Winter
+                                                             - 350/87
+
+[Lite Polka Shirt] Shiro maburu no fuku or White Marble Shirt - Grp B - All
+                                                              - 380/95
+
+[Lovely Shirt] Raburina fuku - Grp C - Spring - 400/100
+
+[Citrus Shirt]* Natsumikan no fuku - [Gracie] Grace - All - none/1,600
+
+[Kiwi Shirt]* Kiui no fuku - [Gracie] Grace - All - none/1,600
+
+[Watermelon Shirt]* Suika no fuku - [Gracie] Grace - All - none/1,600
+
+[Strawberry Shirt]* Ichigo no fuku - [Gracie] Grace - All - none/1,600
+
+[Grape Shirt]* Budou no fuku - [Gracie] Grace - All - none/1,600
+
+[Melon Shirt]* Meron no fuku - [Gracie] Grace - All - none/1,600
+
+[Jingle Shirt]* Kurisumasuna koto or Christmas Coat - Jingle - Christmas Eve
+                                                    - none/0
+
+[Blossom Shirt] Pinku hanagara no fuku or Pink Flower Shirt - Grp A - Spring
+                                                            - 370/92
+
+[Icy Shirt] Suzushigena nitto or ? Knit - Grp C - Summer - 390/97
+
+[Crewel Shirt] Enbosuna fuku or Embossed Shirt - Grp C - Winter - 380/95
+
+[Tropical Shirt] Porineshianna fuku or Polynesian Shirt - Grp C - Summer
+                                                        - 370/92
+
+[Ribbon Shirt] Ribon no fuku - Grp A - Spring - 370/92
+
+[Fall Plaid Shirt] Aki no tatan no fuku or Fall Tartan - Grp A - Fall - 370/92
+
+[Fiendish Shirt]* Akai netto no fuku or Red Net Shirt - [Gracie] Grace - All
+                                                      - none/1,700
+
+[Chevron Shirt] Midori no nitto or Green Knit - Grp C - All - 320/80
+
+[Ladybug Shirt]* Tentoumushi no fuku - [Gracie] Grace - All - none/1,350
+
+[Botanical Shirt] Aranbesukuna fuku or Arabesque Shirt - Grp B - Fall - 420/105
+
+[Anju's Shirt] Anju no fuku - Grp A - Fall - 460/115
+
+[Kaffe's Shirt] Kafei no fuku - Grp A - Winter - 460/115
+
+[Lavender Robe]* Murasaki no yukata - [Gracie] Grace - All - none/1,450
+
+[Blue Grid Shirt] Mizuiro koushi no fuku or Light Blue Grid Shirt - Grp A
+                                                                  - Summer
+                                                                  - 340/85
+
+[Butterfly Shirt]* Ageha no fuku - [Gracie] Grace - All - none/1,800
+
+[Blue Tartan] Shian tatan no fuku or Cyan Tartan - Grp A - Summer - 390/97
+
+[Gracie's Top]* Guresu no fuku - [Gracie] Grace - All - none/1,550
+
+[Orange Tie-Dye] Orenji soda no fuku or Orange Soda Shirt - Grp A - All
+                                                          - 380/95
+
+[Purple Tie-Dye] Gurepu soda no fuku or Grape Soda Shirt - Grp B - All - 380/95
+
+[Green Tie-Dye] Meron soda no fuku or Melon Soda Shirt - Grp C - All - 380/95
+
+[Blue Tie-Dye] Buru hawaina fuku or Blue Hawaii Shirt - Grp B - Summer - 380/95
+
+[Red Tie-Dye] Ichigo soda no fuku or Strawberry Soda Shirt - Grp B - All
+                                                           - 380/95
+
+[One-Ball Shirt] 1 ban dama no fuku - Grp C - All - 340/85
+
+[Two-Ball Shirt] 2 ban dama no fuku - Grp A - All - 340/85
+
+[Three-Ball Shirt] 3 ban dama no fuku - Grp B - All - 340/85
+
+[Four-Ball Shirt] 4 ban dama no fuku - Grp C - All - 340/85
+
+[Five-Ball Shirt] 5 ban dama no fuku - Grp A - All - 340/85
+
+[Six-Ball Shirt] 6 ban dama no fuku - Grp B - All - 340/85
+
+[Seven-Ball Shirt] 7 ban dama no fuku - Grp C - All - 340/85
+
+[Eight-Ball Shirt] 8 ban dama no fuku - Grp A - All - 340/85
+
+[Nine-Ball Shirt] 9 ban dama no fuku - Grp B - All - 340/85
+
+[Arctic Camo] Kanrei meisai fuku - Grp C - All - 320/80
+
+[Jungle Camo] Mesai fuku - Grp A - All - 320/80
+
+[Desert Camo] Dezato mesai fuku - Grp B - All - 320/80
+
+[Rally Shirt] Rarina fuku - Grp C - All - 380/95
+
+[Racer Shirt] Ikashita rain no fuku - Grp A - All - 380/95
+
+[Racer 6 Shirt] Zekken 6 no fuku - Grp B - All - 380/95
+
+Tomato jusu no fuku or Tomato Juice Shirt - Grp C - All - 340/85
+
+[Spiderweb Shirt] Supaidana fuku - Grp B - Summer - 320/80
+
+[Zipper Shirt] Jippa no fuku - Grp C - All - 320/80
+
+[Bubble Shirt] Baburuna fuku - Grp B - Summer - 410/102
+
+[Yellow Bolero] Kiiroi borero - Grp B - All - 430/107
+
+[Nebula Shirt] Nebyurana fuku - Grp A - All - 390/97
+
+[Neo-Classic Knit] Shinpuruna nitto or Simple Knit - Grp B - Winter - 380/95
+
+[Noble Shirt] Kakucha utakai fuku or Poet Shirt - Grp C - All - 380/95
+
+[Turnip Top] Midori no kadigan or Green Cardigan - Grp B - All - 350/87
+
+[Oft-Seen Print] Nankayokumiru fuku - Grp B - Spring - 320/80
+
+[Ski Sweater] Jiminimatomatta fuku - Grp A - Fall - 320/80
+
+[Circus Shirt] Orenji no korusetto or Orange Corset - Grp C - All - 370/92
+
+[Patchwork Top] Kara tairuna fuku or Color Tile Shirt - Grp B - Fall - 340/85
+
+[Mod Top] Hippina fuku or Hippie Shirt - Grp C - All - 340/85
+
+[Hippie Shirt] Kawaikumatometa fuku - Grp C - Summer - 360/90
+
+[Rickrack Shirt] Hadenimatometa fuku - Grp C - Fall - 360/90
+
+[Diner Uniform] Ueitoresuna fuku or Waitress Shirt - Grp B - Spring - 290/72
+
+[Shirt Circuit]* Kiban no fuku or Board Shirt - [Gracie] Grace - All
+                                              - none/1,280
+
+[U R Here Shirt] Yajirushi no fuku or Arrow Shirt - Grp C - All - 350/87
+
+[Yodel Shirt] Norudikkuna doresu or Nordic Dress - Grp A - All - 350/87
+
+[Pulse Shirt]* Parusuna fuku - [Gracie] Grace - All - none/1,500
+
+[Prism Shirt] Sutendo gurasuna fuku or Stained Glass Shirt - Grp C - All
+                                                           - 370/92
+
+[Star Shirt] Sutana fuku - Grp A - All - 370/92
+
+[Straw Shirt] Karekusa no fuku - Grp A - Fall - 360/90
+
+[Noodle Shirt] Ramenna fuku - Grp B - Fall - 380/95
+
+[Dice Shirt] Saikoro no fuku - Grp A - All - 340/85
+
+[Kiddie Shirt] Burokku no fuku or Block Shirt - Grp B - All - 340/85
+
+[Frog Shirt] Kaeru no fuku - Grp B - Summer - 340/85
+
+[Moody Blue Shirt] Sugoi rashii fuku or Terrible Shirt - Grp C - Spring
+                                                       - 123/30
+
+[Cloudy Shirt] Sora no fuku - Grp A - Spring - 320/80
+
+Mitakotoaru seta or Three Arc Shirt - Grp B - All - 480/120
+
+[Skull Shirt] Dokuro no fuku - Grp C - All - 320/80
+
+[Desert Shirt] Aka shiro no nitto or Red White Knit - Grp A - Winter - 390/97
+
+[Aurora Knit] Reinbona nitto or Rainbow Knit - Grp B - Winter - 380/95
+
+[Winter Sweater] Yukiguni nitto or Snow Country Knit - Grp C - Winter - 290/72
+
+[Go-Go Shirt] Rekutanguruna fuku or Rectangle Shirt - Grp C - Fall - 360/90
+
+[Jade Check Print] Midori chekku no fuku - Grp A - All - 360/90
+
+[Blue Check Print] Buru chekku no fuku - Grp A - Fall - 360/90
+
+[Red Grid Shirt] Akiiro koushi no fuku - Grp B - All - 360/90
+
+[Flicker Shirt] Furikkana fuku - Grp C - All - 360/90
+
+[Floral Knit] Shiroi hana no fuku or White Flower Shirt - Grp B - Spring
+                                                        - 420/105
+
+[Rose Shirt] Bara no fuku - Grp A - All - 480/120
+
+[Sunset Top] Sansetto no fuku - Grp B - All - 290/72
+
+[Chain-gang Shirt] Purizunna fuku or Prison Shirt - Grp C - All - 260/65
+
+[Spring Shirt] Hanagara no nitto or Flower Shirt - Grp C - Spring - 320/80
+
+[Bear Shirt] Kuma no fuku - Grp A - All - 390/97
+
+[MVP Shirt] MVP T shatsu - Grp B - All - 370/92
+
+[Silk Bloom Shirt] Hanagara no yuuzen or Flower Bloom Shirt - Grp A - Spring
+                                                            - 480/120
+
+[Pop Bloom Shirt] Poppuna hana no fuku or Pop Flower Shirt - Grp A - All
+                                                           - 360/90
+
+[Loud Bloom Shirt] Hadena hana no fuku or Showy Flower Shirt - Grp B - Summer
+                                                             - 360/90
+
+[Hot Spring Shirt] Pinku chainana fuku or Pink China Shirt - Grp B - Spring
+                                                           - 520/130
+
+[New Spring Shirt] Buru chainana fuku or Blue China Shirt - Grp C - Spring
+                                                          - 520/130
+
+[Deep Blue Tee] Guran buruna fuku - Grp B - All - 380/95
+
+[Snowcone Shirt] Koori ichigo no fuku or Strawberry Ice Shirt - Grp A - Summer
+                                                              - 420/105
+
+[Ugly Shirt] Ujikintoki no fuku - Grp B - Summer - 420/105
+
+[Sharp Outfit] Igeta moyou no fuku or Well Lining Shirt - Grp A - Winter
+                                                        - 290/72
+
+[Painter's Smock] Shiborizomena fuku or Tie-Dye Shirt - Grp B - Fall - 360/90
+
+[Spade Shirt] Supedo no fuku - Grp C - All - 340/85
+
+[Blossoming Shirt] Ume no fuku or Plum Shirt - Grp A - Spring - 390/97
+
+[Peachy Shirt] Pichina fuku - Grp B - Spring - 390/97
+
+[Static Shirt] Kasurina fuku or Splash Shirt - Grp C - Fall - 360/90
+
+[Rainbow Shirt] Reinbona fuku - Grp A - Summer - 777/194
+
+[Groovy Shirt]* Saikuderikkuna fuku or Psychedelic Shirt - [Gracie] Grace - All
+                                                         - none/1,600
+
+[Loud Line Shirt] Hadena boda no fuku or Showy Stripe Shirt - Grp B - Summer
+                                                            - 370/92
+
+[Dazed Shirt] Yume iro koushina fuku - Grp C - Summer - 350/87
+
+[Red Bar Shirt] Aka shiro ragashatsu or Red White Shirt - Grp C - All - 360/90
+
+[Blue Stripe Knit] Marin boda no fuku or Marine Stripe Shirt - Grp A - Summer
+                                                             - 340/85
+
+[Earthy Knit] Tsuchiiro no nitto - Grp B - Winter - 390/97
+
+[Spunky Knit] Kawaii nitto or Pretty Knit - Grp C - Winter - 360/90
+
+[Deer Shirt] Shika gara no nitto or Pattern Knit - Grp A - Winter - 380/95
+
+[Blue Check Shirt] Ao chekku no fuku - Grp B - All - 380/95
+
+[Light Line Shirt] Awai boda no fuku - Grp C - Summer - 380/95
+
+[Blue Pinstripe] Shibui tatejima no fuku or Tasteful Pinstripe - Grp C - Fall
+                                                               - 380/95
+
+[Diamond Shirt] Daiya no fuku - Grp A - All - 380/95
+
+[Lime Line Shirt] Shibui boda no fuku or Tasteful Stripe Shirt - Grp C - Fall
+                                                               - 380/95
+
+[Big Bro's Shirt] Oniisan no fuku - Grp B - Fall - 320/80
+
+[Green Bar Shirt] Midori boda no fuku - Grp B - Summer - 320/80
+
+[Yellow Bar Shirt] Kiiro boda no fuku - Grp A - All - 320/80
+
+[Monkey Shirt] Saru gara no nitto or Monkey Knit - Grp B - Winter - 380/95
+
+[Polar Fleece] Meruhenna doresu or Fairy Tale Dress - Grp C - All - 360/90
+
+[Ancient Knit] Patan no nitto or Pattern Knit - Grp C - Winter - 390/97
+
+[Fish Knit] Sakana gara no nitto - Grp A - Summer - 380/95
+
+[Vertigo Shirt] Yagara no fuku or Arrow Shaft Shirt - Grp A - All - 370/92
+
+[Misty Shirt] Kasumi no fuku - Grp B - All - 380/95
+
+[Stormy Shirt] Izumo no fuku - Grp C - All - 380/95
+
+[Red Scale Shirt] Aka uroko no fuku - Grp B - Fall - 370/92
+
+[Blue Scale Shirt] Ao uroko no fuku - Grp C - Fall - 370/92
+
+[Heart Shirt] Hato no fuku - Grp A - All - 360/90
+
+[Yellow Pinstripe] Jimina tatejima no fuku - Grp B - Winter - 360/90
+
+[Club Shirt] Kurabu no fuku - Grp C - All - 360/90
+
+[Li'l Bro's Shirt] Otouto-san no fuku - Grp A - Summer - 320/80
+
+[Argyle Knit] Toraddona nitto or Trad Knit - Grp C - Spring - 460/115
+
+[Caveman Tunic] Genshijinna fuku - Grp C - All - 380/95
+
+[Cafe Shirt] Aka chekkana fuku or Red Checker Shirt - Grp A - Winter - 420/105
+
+[Tiki shirt] Kodaibunmeina fuku or Ancient Civilization Shirt - Grp A - All
+                                                              - 400/100
+
+[A Shirt] Esu no fuku - Grp A - All - 370/92
+
+[Checkered Shirt] Chekka no fuku - Grp B - All - 390/97
+
+[No. 1 Shirt] No. 1 no fuku - Grp C - All - 250/62
+
+[No. 2 Shirt] No. 2 no fuku - Grp A - All - 250/62
+
+[No. 3 Shirt] No. 3 no fuku - Grp B - All - 250/62
+
+[No. 4 Shirt] No. 4 no fuku - Grp C - All - 250/62
+
+[No. 5 Shirt] No. 5 no fuku - Grp A - All - 250/62
+
+[No. 23 Shirt] No. 23 no fuku - Grp B - All - 250/62
+
+[No. 67 Shirt] No. 67 no fuku - Grp C - All - 250/62
+
+[BB Shirt] BB no fuku - Grp A - All - 350/87
+
+[Beatnik Shirt] Kuro aka ragashatsu or Black Red Shirt - Grp A - Spring
+                                                       - 360/90
+
+[Moldy Shirt] Kabita fuku - Grp B - Summer - 50/12
+
+W no fuku or W Shirt - Grp B - All - 350/87
+
+[Big Star Shirt] Ichibanboshi no fuku or First Star Shirt - Grp B - All
+                                                          - 400/100
+
+[Orange Pinstripe]* Hiru no fuku or Hill Shirt - [Gracie] Grace - All
+                                               - none/1,250
+
+[Twinkle Shirt] Touinkuruna fuku - Grp A - Summer - 480/120
+
+[Funky Dot Shirt] Papuru dotto no fuku or Purple Dot Shirt - Grp B - All
+                                                           - 430/107
+
+[Crossing Shirt]* Shinmetorina fuku or Symmetry Shirt - [Gracie] Grace - All
+                                                      - none/1,550
+
+[Splendid Shirt]* Sutorenjina fuku or Strange Shirt - [Gracie] Grace - All
+                                                    - none/1,550
+
+[Jagged Shirt] Shagina fuku or Shaggy Shirt - Grp B - All - 360/90
+
+[Denim Shirt] Boda and denimu - Grp C - Summer - 390/97
+
+Ai rabu GC no fuku or I Love GC Shirt - Grp A - All - 380/95
+
+[Gumdrop Shirt] Haru no mizutama no fuku or Spring Polkadot Shirt - Grp C
+                                                                  - Spring
+                                                                  - 390/97
+
+[Barber Shirt] Babana fuku - Grp B - All - 380/95
+
+[Concierge Shirt] Hoteru man no fuku or Hotel Man Shirt - Grp A - Fall - 350/87
+
+[Fresh Shirt] Sawayakana fuku - Grp A - All - 380/95
+
+[Far-Out Shirt] Aya himo no fuku or Reason String Shirt - Grp B - Fall - 380/95
+
+[Dawn Shirt] Shinonome no fuku - Grp A - Summer - 380/95
+
+[Striking Outfit] Isamashii fuku or Brave Shirt - Grp C - Winter - 460/115
+
+[Red Check Shirt] Aka chekku no fuku - Grp B - Spring - 330/82
+
+[Berry Gingham] Ichigo gingamuna fuku or Strawberry Gingham - Grp C - Spring
+                                                            - 330/82
+
+[Lemon Gingham] Remon chekku no fuku or Lemon Check Shirt - Grp A - Spring
+                                                          - 340/85
+
+[Dragon Suit] Doragon sutsu - Grp C - Summer - 340/85
+
+[G Logo Shirt] G kyubuna fuku - Grp A - Summer - 128/32
+
+[Tin Shirt]* Buriki no fuku - [Gracie] Grace - All - none/1,600
+
+[Jester Shirt] Piero no fuku or Clown Shirt - Grp A - Spring - 420/105
+
+[Pink Tartan] Pinku tatan no fuku - Grp C - Spring - 420/105
+
+[Waffle Shirt] Shibui tatan no fuku or Tasteful Tartan - Grp C - Fall - 430/107
+
+[Gray Tartan] Gure tatan no fuku - Grp C - All - 420/105
+
+[Windsock Shirt] Koinobori no fuku - Grp C - Summer - 320/80
+
+[Trendy Top] Seigaiha no fuku - Grp A - Fall - 360/90
+
+[Green Ring Shirt] Midori no en no fuku - Grp A - All - 180/45
+
+[White Ring Shirt] Shiroi en no fuku - Grp B - All - 180/45
+
+[Snappy Print] Hishi moyou no fuku or Sebum Shirt - Grp C - All - 320/80
+
+[Chichi Print] Karakusa moyou no fuku or Arabesque Shirt - Grp A - All - 180/45
+
+[Wave Print] Nami moyou no fuku - Grp A - Summer - 380/95
+
+[Checkerboard Tee] Gyanburana fuku - Grp B - All - 340/85
+
+[Subdued Print] Tanbogi or Dawn/Dusk Shirt - Grp B - Fall - 320/80
+
+[Airy Shirt] Kumiobi no fuku - Grp C - All - 420/105
+
+[Coral Shirt]* Maburu moyou no fuku or Marble Shirt - [Gracie] Grace - All
+                                                    - none/1,550
+
+[Leather Jerkin] Boa tsuki koto - Grp A - Winter - 390/97
+
+[Zebra Shirt]* Zeburana fuku - [Gracie] Grace - All - none/1,600
+
+[Tiger Shirt]* Torajima no fuku - [Gracie] Grace - All - none/1,600
+
+[Cow Shirt]* Horusutainna fuku or Holstein Shirt - [Gracie] Grace - All
+                                                 - none/1,600
+
+[Leopard Shirt]* Hyougara no fuku - [Gracie] Grace - All - none/1,600
+
+[Danger Shirt] Denjarasuna fuku - Grp B - All - 340/85
+
+[Big Dot Shirt] Kiiro mizutama no fuku or Yellow Polkadot Shirt - Grp C - All
+                                                                - 340/85
+
+[Puzzling Shirt] Pazuruna fuku - Grp A - All - 320/80
+
+[Exotic Shirt] Mannaka ajiana fuku or Middle Asia Shirt - Grp C - Winter
+                                                        - 380/95
+
+[Houndstooth Knit] Chidorigoushi no fuku - Grp A - Winter - 370/92
+
+[Uncommon Shirt] Ikameshii nitto or Severe Knit - Grp B - Winter - 360/90
+
+[Dapper Shirt] Kiiro tsuido no fuku or Yellow Tweed Shirt - Grp C - Winter
+                                                          - 350/87
+
+[Gaudy Sweater] Ajiana reifuku or Asia Ceremonial Dress - Grp A - Spring
+                                                        - 330/82
+
+[Cozy Sweater] Ajiana haregi or Asia Sunday Shirt - Grp A - Winter - 350/87
+
+[Comfy Sweater] Kogecha no nitto or Black Tea Knit - Grp B - Winter - 360/90
+
+[Classic Top] Kurashikkuna doresu or Classic Dress - Grp C - Fall - 350/87
+
+[Vogue Top] Hanagara no wan pisu or Flower One-Piece - Grp B - Spring - 380/95
+
+[Laced Shirt] Murasaki no korusetto or Purple Corset - Grp C - Winter - 370/92
+
+[Natty Shirt] Pinku tsuido no fuku or Pink Tweed Shirt - Grp C - Summer
+                                                       - 380/95
+
+[Citrus Gingham] Kiiroi wan pisu or Yellow One-Piece - Grp C - Spring - 360/90
+
+[Cool Shirt]* Nubona fuku or Nouveau Shirt - [Gracie] Grace - All - none/1,600
+
+[Dreamy Shirt] Yume no hanagara no fuku or Dream Flower Shirt - Grp A - Spring
+                                                              - 390/97
+
+[Flowery Shirt] Hanagara no aroha or Flower Aloha Shirt - Grp B - Summer
+                                                        - 400/100
+
+[Caterpillar Tee]* Aomushi no fuku - [Gracie] Grace - All - none/1,700
+
+[Shortcake Shirt] Mirufiyuna fuku - Grp B - Winter - 330/82
+
+[Whirly Shirt] Tomoe no fuku or Comma Shirt - Grp B - Summer - 350/87
+
+[Thunder Shirt] Kaminari moyou no fuku - Grp A - Fall - 320/87
+
+[Giraffe Shirt]* Kirin no fuku - [Gracie] Grace - All - none/1,550
+
+[Swell Shirt]* Buraun tairuna fuku or Brown Tile Shirt - [Gracie] Grace - All
+                                                       - none/1,500
+
+[Toad Shirt] Kinoko moyou no fuku or Mushroom Shirt - Grp C - Winter - 340/85
+
+[Grass Shirt]* Kusa no fuku - Gracie - All - none/1,450
+
+[Mosaic Shirt] Kara mozaikuna fuku or Color Mosaic Shirt - Grp C - Summer
+                                                         - 350/87
+
+[Fetching Outfit] Hana no shishuu no fuku or Flower Embroidery Shirt - Grp B
+                                                                     - Spring
+                                                                     - 420/105
+
+[Snow Shirt]* Yuki no fuku - [Gracie] Grace - All - none/1,700
+
+[Melon Gingham] Wakaba gingamu no fuku or New Leaf Gingham - Grp B - Spring
+                                                           - 330/82
+eof

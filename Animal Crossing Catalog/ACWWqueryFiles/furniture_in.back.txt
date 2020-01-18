@@ -1,0 +1,1477 @@
+x Exotic Bed - Crazy Redd - lrg - 5,080 or 2,540/635 - Gray/Brown
+
+x Exotic Bureau - Grp A - sm - 2,400/600 - Brown/Brown - Old School/Chic
+
+x Exotic Wardrobe - Grp C - sm - 2,180/545 - Brown/Brown - Old School/Chic
+
+Exotic Bench - Grp A - med - 1,900/475 - Brown/Brown - Old School/Chic - chair
+
+x Exotic Chair - Grp A - sm - 1,400/350 - White/Brown - Old School/Chic - chair
+
+Exotic Table - Crazy Redd - med - 4,600 or 2,300/575 - Brown/Brown
+
+Exotic End Table - Grp B - sm - 1,600/400 - Brown/Brown - Old School/Chic
+
+x Exotic Lamp - Grp B - sm - 1,800/450 - Yellow/White - Old School/Chic
+
+Exotic Screen - Grp C - med - 2,250/562 - Brown/Brown - Old School/Chic
+
+Exotic Chest - Spotlight - med - 1,800/450 - Brown/Brown - Old School/Chic
+
+x Ranch Bed - Grp C - med - 2,300/575 - White/Brown - Old School/Chic - bed
+
+x Ranch Dresser - Crazy Redd - med - 5,440 or 2,720/680 - Brown/Brown
+
+Ranch Wardrobe - Grp A - sm - 3,050/762 - Brown/Brown - Old School/Chic
+
+Ranch Couch - Grp C - med - 2,400/600 - Green/Brown - Old School/Chic - chair
+
+Ranch Armchair - Grp A - sm - 2,000/500 - Green/Brown - Old School/Chic - chair
+
+Ranch Chair - Crazy Redd - sm - 2,800 or 1,400/350 - Brown/Brown
+
+x Ranch Table - Grp B - lrg - 1,700/425 - Brown/Brown - Old School/Chic - table
+
+x Ranch Tea Table - Grp B - med - 1,800/450 - Green/Brown - Old School/Chic
+
+Ranch Bookcase - Grp C - sm - 2,000/500 - Brown/Brown - Old School/Chic
+
+Ranch Hutch - Spotlight - sm - 2,560/640 - Brown/Brown - Old School/Chic
+
+Classic Bed - Grp B - lrg - 2,520/630 - White/Brown - Old School/Chic - bed
+
+Classic Vanity - Crazy Redd - med - 5,120 or 2,560/640 - Brown/Brown 
+
+x Classic Wardrobe - Crazy Redd - sm - 5,120 or 2,560/640 - Brown/Brown
+
+x Classic Chair - Grp C - sm - 1,800/450 - Brown/Brown - Old School/Chic - chair
+
+x Classic Sofa - Grp C - med - 2,240/560 - Yellow/Yellow - Old School/Chic
+
+Classic Table - Grp A - sm - 1,600/400 - White/Brown - Old School/Chic - table
+
+Classic Bookcase - Spotlight - med - 2,560/640 - Brown/Brown - Old School/Chic
+
+x Classic Buffet - Grp B - med - 3,360/840 - Brown/Brown - Old School/Chic
+
+x Classic Desk - Grp A - sm - 2,200/550 - Brown/Brown - Old School/Chic
+
+x Classic Clock - Grp C - sm - 2,180/545 - Brown/Brown - Old School/Chic - clock
+
+x Regal Bed - Crazy Redd - lrg - 6,240 or 3,120/780 - White/White
+
+Regal Dresser - Grp C - med - 3,520/880 - White/White - Old School/Chic
+
+Regal Armoire - Grp B - sm - 3,820/980 - White/White - Old School/Chic
+
+Regal Chair - Crazy Redd - sm - 4,200 or 2,100/525 - White/White
+
+Regal Sofa - Grp A - med - 3,100/775 - White/White - Old School/Chic - chair
+
+x Regal Table - Grp A - med - 2,540/635 - White/White - Old School/Chic - table
+
+x Regal Lamp - Grp A - sm - 2,400/600 - Yellow/White - Old School/Chic - lamp
+
+Regal Clock - Spotlight - sm - 3,360/840 - White/White - Old School/Chic
+
+x Regal Bookcase - Grp C - med - 3,120/780 - White/White - Old School/Chic
+
+Regal Vanity - Grp B - sm - 3,200/800 - White/White - Old School/Chic
+
+Blue Bed - Crazy Redd - med - 4,200 or 2,100/525 - Yellow/Blue - Modern/Chic
+
+x Blue Bureau - Grp B - med - 2,160/540 - Blue/Blue - Modern/Chic - storage
+
+x Blue Wardrobe - Grp A - sm - 1,920/480 - Blue/Blue - Modern/Chic - storage
+
+x Blue Chair - Grp C - sm - 1,200/300 - Blue/Blue - Modern/Chic - chair
+
+x Blue Bench - Grp A - med - 1,900/475 - Blue/Blue - Modern/Chic - chair
+
+Blue Table - Crazy Redd - lrg - 3,600 or 1,800/450 - Yellow/Blue - Modern/Chic
+
+x Blue Bookcase - Grp B - med - 1,900/475 - Blue/Blue - Modern/Chic
+
+x Blue Cabinet - Grp C - sm - 2,400/600 - Blue/Blue - Modern/Chic - storage
+
+x Blue Clock - Grp C - sm - 1,600/400 - Blue/Blue - Modern/Chic - clock
+
+Blue Dresser - Spotlight - sm - 2,100/525 - Blue/Blue - Modern/Chic - lamp
+
+x Cabana Bed - Crazy Redd - lrg - 4,400 or 2,200/550 - White/Brown
+
+Cabana Dresser - Grp A - med - 2,400/600 - Brown/Brown - Old School/Chic
+
+x Cabana Wardrobe - Grp B - sm - 2,240/560 - Brown/Brown - Old School/Chic
+
+Cabana Chair - Crazy Redd - sm - 3,200 or 1,600/400 - Brown/Brown
+
+Cabana Armchair - Spotlight - sm - 1,800/450 - White/Brown - Old School/Chic
+
+Cabana Table - Grp C - med - 1,800/450 - Brown/Brown - Old School/Chic - table
+
+Cabana Lamp - Grp B - sm - 1,700/425 - Brown/Brown - Old School/Chic - lamp
+
+x Cabana Bookcase - Grp B - med - 2,400/600 - Brown/Brown - Old School/Chic
+
+Cabana Vanity - Grp A - sm - 1,800/450 - Brown/Brown - Old School/Chic
+
+x Cabana Screen - Grp C - med - 2,000/500 - Brown/Brown - Old School/Chic
+
+x Green Bed - Grp B - med - 2,160/540 - Green/Orange - Modern/Chic - bed
+
+Green Dresser - Crazy Redd - med - 4,640 or 2,320/580 - Green/Orange
+
+Green Wardrobe - Crazy Redd - sm - 4,600 or 2,300/575 - Green/Green
+
+x Green Chair - Grp A - sm - 1,200/300 - Green/Green - Modern/Chic - chair
+
+Green Bench - Grp A - med - 1,800/450 - Green/Green - Modern/Chic - chair
+
+Green Table - Grp C - lrg - 1,700/425 - Green/Green - Modern/Chic - table
+
+Green Desk - Grp C - sm - 2,000/500 - Green/Green - Modern/Chic
+
+x Green Lamp - Grp C - sm - 1,800/450 - Green/Orange - Modern/Chic - lamp
+
+x Green Counter - Grp B - med - 2,400/600 - Green/Green - Modern/Chic
+
+x Green Pantry - Spotlight - sm - 2,290/572 - Green/Green - Modern/Chic
+
+Cabin Bed - Grp A - med - 2,400/600 - Colorful/Brown - Old School/Chic - bed
+
+Cabin Dresser - Crazy Redd - sm - 4,320 or 2,160/540 - Brown/Brown
+ 
+x Cabin Wardrobe - Grp C - sm - 2,480/620 - Brown/Brown - Old School/Chic
+
+x Cabin Chair - Crazy Redd - sm - 3,400 or 1,700/425 - Brown/Brown
+
+x Cabin Armchair - Grp B - sm - 2,280/570 - White/Brown - Old School/Chic - chair
+
+Cabin Couch - Grp C - med - 2,480/620 - White/Brown - Old School/Chic - chair
+
+Cabin Table - Grp B - lrg - 2,100/525 - Colorful/Brown - Old School/Chic
+
+Cabin Low Table - Grp A - med - 2,100/525 - Colorful/Brown - Old School/Chic
+
+Cabin Bookcase - Spotlight - med - 2,300/575 - Colorful/Brown - Old School/Chic
+
+Cabin Clock - Grp C - sm - 2,000/500 - Brown/Brown - Old School/Chic - clock
+
+Modern Bed - Grp C - lrg - 2,320/580 - Black/White - Modern/Chic - bed
+
+Modern Dresser - Grp A - sm - 2,520/630 - Black/White - Modern/Chic - storage
+
+x Modern Wardrobe - Crazy Redd - sm - 5,120 or 2,560/640 - Black/White
+
+x Modern Chair - Grp B - sm - 1,500/375 - Black/White - Modern/Chic - chair
+
+Modern Sofa - Grp C - med - 2,620/680 - Black/White - Modern/Chic - chair
+
+x Modern End Table - Crazy Redd - sm - 3,800 or 1,900/475 - Black/White
+
+x Modern Desk - Grp B - med - 2,480/620 - Black/White - Modern/Chic - table
+
+x Modern Table - Grp A - med - 1,800/450 - Black/White - Modern/Chic - table
+
+Modern Cabinet - Spotlight - med - 2,580/645 - Black/White - Modern/Chic
+
+x Modern Lamp - Grp B - sm - 1,400/350 - Black/White - Modern/Chic
+
+Kiddie Series:
+
+Kiddie Bed - Crazy Redd - med - 4,200 or 2,100/525 - Colorful/Colorful
+           - Modern/Lovely - bed
+
+x Kiddie Dresser - Grp C - med - 2,150/537 - Colorful/Colorful - Modern/Lovely
+               - storage
+
+Kiddie Wardrobe - Grp C - sm - 2,180/545 - Colorful/Colorful - Modern/Lovely
+                - storage
+
+Kiddie Couch - Grp B - med - 2,200/550 - Colorful/Colorful - Modern/Lovely
+             - chair
+
+Kiddie Chair - Grp B - sm - 1,400/350 - Colorful/Colorful - Modern/Lovely
+             - chair
+
+Kiddie Table - Grp A - lrg - 2,200/550 - Colorful/Colorful - Modern/Lovely
+             - table
+
+x Kiddie Bureau - Grp B - sm - 2,200/550 - Colorful/Colorful - Modern/Lovely
+              - storage
+
+Kiddie Bookcase - Grp A - sm - 1,800/450 - Colorful/Colorful - Modern/Lovely
+
+Kiddie Clock - Crazy Redd - sm - 2,960 or 1,480/370 - Colorful/Colorful
+             - Modern/Lovely - clock
+
+Kiddie Stereo - Spotlight - med - 1,900/475 - Colorful/Colorful - Modern/Lovely
+              - can play music
+
+
+Lovely Series:
+
+Lovely Bed - Grp A - lrg - 2,000/500 - Pink/Pink - Modern/Lovely - bed
+
+x Lovely Dresser - Grp C - med - 2,160/540 - Pink/Pink - Modern/Lovely - storage
+
+Lovely Armoire - Crazy Redd - sm - 4,480 or 2,240/560 - Pink/Pink
+               - Modern/Lovely - storage
+
+x Lovely Chair - Grp B - sm - 1,600/400 - Pink/Pink - Modern/Lovely - chair
+
+Lovely Loveseat - Grp A - med - 2,000/500 - Pink/Pink - Modern/Lovely - chair
+
+Lovely End Table - Crazy Redd - sm - 3,600 or 1,800/450 - Pink/White
+                 - Modern/Lovely - table
+
+x Lovely Table - Grp C - med - 1,800/450 - Pink/White - Modern/Lovely - table
+
+x Lovely Vanity - Grp B - sm - 2,200/550 - Pink/Pink - Modern/Lovely
+
+Lovely Kitchen - Spotlight - med - 2,280/570 - Pink/Pink - Modern/Lovely
+
+x Lovely Lamp - Grp B - sm - 1,600/400 - Pink/Pink - Modern/Lovely - lamp
+
+
+Robo Series:
+
+Robo-Bed - Grp C - med - 2,000/500 - Blue/Gray - Modern/Lovely - bed
+
+x Robo-Dresser - Grp B - med - 2,560/640 - Gray/Gray - Modern/Lovely - storage
+
+Robo-Closet - Crazy Redd - sm - 4,800 or 2,400/600 - Gray/Gray - Modern/Lovely
+            - storage
+
+Robo-Sofa - Grp B - med - 2,000/500 - Blue/Gray - Modern/Lovely - chair
+
+x Robo-Chair - Grp A - sm - 1,600/400 - Gray/Gray - Modern/Lovely - chair
+
+Robo-Table - Grp A - lrg - 2,200/550 - Gray/Gray - Modern/Lovely - table
+
+Robo-Stereo - Spotlight - sm - 2,200/550 - Blue/Gray - Modern/Lovely
+            - plays music
+
+x Robo-TV - Grp B - med - 2,360/590 - Gray/Gray - Modern/Lovely - can use
+
+Robo-Clock - Grp C - sm - 1,400/350 - Gray/Black - Modern/Lovely - clock
+
+Robo-Lamp - Crazy Redd - sm - 3,600 or 1,800/450 - Green/Gray - Modern/Lovely
+          - lamp
+
+
+Snowman Series:
+
+Snowman Bed* - Snowman - med - none/8,888 - White/White - Old School/Chic - bed
+
+Snowman Dresser* - Snowman - med - none/8,888 - White/White - Old School/Chic
+                 - storage
+
+Snowman Wardrobe* - Snowman - sm - none/8,888 - White/White - Old School/Chic
+                  - storage
+
+Snowman Chair* - Snowman - sm - none/8,888 - White/White - Old School/Chic
+               - chair
+
+Snowman Sofa* - Snowman - med - none/8,888 - White/White - Old School/Chic
+              - chair
+
+Snowman Table* - Snowman - lrg - none/8,888 - White/White - Old School/Chic
+               - table
+
+Snowman Fridge* - Snowman - sm - none/8,888 - White/White - Old School/Chic
+                - storage
+
+Snowman TV* - Snowman - med - none/8,888 - Yellow/White - Old School/Chic
+            - can use
+
+Snowman Clock* - Snowman - sm - none/8,888 - White/White - Old School/Chic
+               - clock
+
+Snowman Lamp* - Snowman - sm - none/8,888 - White/White - Old School/Chic
+              - lamp
+
+
+Mushroom Series:
+
+Mushroom Bed* - Cornimer - med - none/2,450 - Red/Red - none/Lovely - bed
+
+Mushroom Dresser* - Cornimer - med - none/2,450 - Brown/Brown - none/Lovely
+                  - storage
+
+Mushroom Closet* - Cornimer - sm - none/2,450 - Brown/Brown - none/Lovely
+                 - storage
+
+Mushroom Chair* - Cornimer - sm - none/2,450 - White/White - none/Lovely
+                - chair
+
+Mushroom Stool* - Cornimer - sm - none/2,450 - Brown/Brown - none/Lovely
+                - chair
+
+Mushroom Table* - Cornimer - lrg - none/2,450 - Red/White - none/Lovely - table
+
+Mushroom End Table* - Cornimer - sm - none/2,450 - White/Brown - none/Lovely
+                    - table
+
+Mushroom Lamp* - Cornimer - sm - none/2,450 - White/White - none/Lovely - lamp
+
+Mushroom Stand* - Cornimer - med - none/2,450 - Red/Brown - none/Lovely - lamp
+
+Mushroom TV* - Cornimer - med - none/2,450 - Red/White - none/Lovely - can use
+
+
+Western Theme:
+
+Cow Skull - Grp A - sm - 1,020/255 - Gray/White - Old School/Chic
+          - can put on table
+
+x Desert Cactus - Grp B - sm - 890/222 - Green/Green - Old School/Chic
+
+x Western Fence - Grp A - sm - 880/220 - Brown/Brown - Old School/Chic
+
+Saddle Fence - Crazy Redd - sm - 4,320 or 2,180/545 - Brown/Brown
+             - Old School/Chic
+
+Storefront - Grp C - med - 3,680/920 - Brown/Brown - Old School/Chic
+
+Covered Wagon - Spotlight - med - 3,800/950 - White/Brown - Old School/Chic
+
+Watering Trough - Grp B - med - 1,100/275 - Brown/Brown - Old School/Chic
+
+Tumbleweed - Grp C - sm - 520/130 - Gray/Gray - Old School/Chic
+
+Well - Crazy Redd - sm - 5,400 or 2,700/675 - Brown/Brown - Old School/Chic
+
+x Wagon Wheel - Grp B - sm - 1,230/307 - Brown/Brown - Old School/Chic
+
+
+Space Theme:
+
+Asteroid - Grp A - sm - 1,800/450 - Gray/Brown - Modern/Lovely - spins
+
+Moon - Spotlight - lrg - 32,000/8,000 - Gray/Gray - Modern/Lovely - rotates
+
+x Lunar Lander - Grp B - lrg - 3,200/800 - Yellow/Gray - Modern/Lovely
+
+Rocket - Crazy Redd - med - 4,800 or 2,400/600 - Red/White - Modern/Lovely
+
+x Lunar Rover - Grp A - med - 2,560/640 - Gray/Gray - Modern/Lovely
+
+x Satellite - Grp C - med - 2,600/650 - Gray/Gray - Modern/Lovely - top spins
+
+Space Shuttle - Crazy Redd - med - 5,560 or 2,780/695 - White/White
+              - Modern/Lovely
+
+Spaceman Sam - Grp C - sm - 2,800/700 - White/White - Modern/Lovely
+
+x Space Station - Grp B - lrg - 2,800/700 - Gray/Gray - Modern/Lovely
+
+Flying Saucer - Grp C - lrg - 2,400/600 - Yellow/Gray - Modern/Lovely - spins
+
+
+Construction Theme:
+
+Detour Arrow - Grp A - sm - 600/150 - Red/Red - Modern/Chic
+
+Handcart - Grp A - sm - 800/200 - Red/Red - Old School/Chic
+
+Iron Frame - Grp C - med - 1,200/400 - Red/Red - Modern/Chic
+
+x Manhole Cover - Grp B - sm - 1,000/250 - Gray/Gray - Old School/Chic
+              - can walk on
+
+x Orange Cone - Grp C - sm - 600/150 - Red/Red - Modern/Chic
+
+Traffic Cone - Grp A - sm - 800/200 - Red/Red - Modern/Chic
+
+Saw Horse - Crazy Redd - sm - 2,400 or 1,200/400 - Red/White - Modern/Chic
+
+Wet Roadway Sign - Grp B - sm - 850/212 - Orange/Orange - Modern/Chic
+
+Steam Roller - Crazy Redd - med - 9,000 or 4,500/1,125 - Yellow/Black
+             - Modern/Chic
+
+Jackhammer - Grp C - sm - 1,880/470 - Red/Gray - Modern/Chic
+
+x Striped Cone - Grp B - sm - 800/200 - Yellow/Black - Modern/Chic
+
+Cement Mixer - Spotlight - sm - 1,600/400 - Yellow/Yellow - Modern/Chic
+
+
+Oil Drum Set:
+
+x Brown Drum - Grp A - sm - 800/200 - Brown/Brown - Old School/Chic - can use
+
+x Green Drum - Grp B - sm - 800/200 - Green/Green - Old School/Chic - can use
+
+Red Drum - Grp C - sm - 800/200 - Red/Red - Old School/Chic - can use
+
+x Haz-Mat Barrel - Grp C - sm - 830/208 - Red/Red - Old School/Chic - can use
+
+x Oil Drum - Grp A - sm - 840/210 - Yellow/Yellow - Old School/Chic - can use
+
+
+Boxing Theme:
+
+Boxing Barricade - Grp C - sm - 1,050/262 - Blue/Gray - Modern/Chic
+
+Red Corner - Crazy Redd - lrg - 13,600 or 6,800/1,700 - Red/White - Modern/Chic
+           - bed
+
+Blue Corner - Spotlight - lrg - 6,800/1,700 - Blue/White - Modern/Chic - bed
+
+x Neutral Corner - Grp A - lrg - 5,500/1,375 - White/White - Modern/Chic - bed
+
+Judge's Bell - Crazy Redd - sm - 3,580 or 1,790/447 - Yellow/Brown
+             -  Modern/Chic - can use, can put on table
+
+Boxing Mat - Grp C - med - 1,180/295 - Blue/Blue - Modern/Chic - can walk on
+
+Ringside Table - Grp A - med - 1,320/330 - Brown/Brown - Modern/Chic - table
+
+x Weight Bench - Grp C - med - 3,590/897 - Black/Black - Modern/Chic - bed
+
+x Sandbag - Grp B - sm - 3,190/797 - Red/Red - Modern/Chic - can use
+
+x Speed Bag - Grp A - sm - 2,990/747 - Blue/Gray - Modern/Chic - can use
+
+
+Backyard Theme:
+
+Birdhouse - Grp B - sm - 1,620/405 - Brown/Brown - Old School/Chic
+
+x Mr. Flamingo - Grp B - sm - 1,530/382 - Pink/Pink - Old School/Chic
+
+x Mrs. Flamingo - Grp A - sm - 1,530/382 - Pink/Pink - Old School/Chic
+
+Garden Gnome - Spotlight - sm - 3,380/845 - Red/Colorful - Old School/Chic
+
+Bug Zapper - Grp A - sm - 1,200/300 - Blue/Blue - Modern/Chic
+
+x Hammock - Grp C - med - 1,320/330 - White/Brown - Old School/Lovely - bed
+
+x Bird Bath - Grp A - sm - 1,450/362 - Green/Green - Old School/Chic
+
+x Picnic Table - Grp C - lrg - 1,390/347 - Yellow/Yellow - Old School/Lovely
+
+x Bird Feeder - Grp C - sm - 1,260/315 - White/White - Old School/Chic
+
+Lawn Chair - Grp A - sm - 1,180/295 - Blue/White - Old School/Lovely - chair
+
+Lawn Mower - Crazy Redd - sm - 5,520 or 2,760/690 - Red/Red - Modern/Chic
+           - can use
+
+Barbecue - Grp B - sm - 1,760/440 - Red/Red - Modern/Lovely - makes sounds
+
+x Backyard Pool - Crazy Redd - lrg - 1,980 or 990/247 - Blue/Blue - Modern/Lovely
+              - ducky moves
+
+x Sprinkler - Grp C - sm - 1,640/410 - Yellow/Yellow - Modern/Chic - can use
+
+x Tiki Torch - Grp B - sm - 870/217 - Red/Brown - Old School/Lovely - fire burns
+
+
+Nursery Theme:
+
+Elephant Slide - Grp C - med - 1,200/300 - Yellow/Blue - Modern/Lovely
+
+x Stroller - Grp B - sm - 1,960/440 - Blue/White - Modern/Lovely
+
+x Cradle - Grp A - sm - 3,800/950 - Pink/Pink - Modern/Lovely - can use
+
+Baby Bed - Crazy Redd - sm - 5,800 or 2,900/725 - Colorful/White
+         - Modern/Lovely
+
+x Clackercart - Grp B - sm - 1,380/345 - Colorful/Brown - Old School/Lovely
+            - can use (push)
+
+Merry-Go-Round - Crazy Redd - sm - 1,280 or 640/160 - Colorful/Colorful
+               - Modern/Lovely - can use
+
+x Rocking Horse - Grp A - sm - 600/150 - Brown/Brown - Old School/Lovely
+
+Train Set - Grp C - lrg - 1,600/400 - Green/Green - Modern/Lovely - can use
+
+x Wobbelina - Grp B - sm - 700/175 - Pink/Pink - Old School/Lovely
+          - can use, can put on table
+
+Dolly - Spotlight - sm - 6,800/1,700 - Red/Red - Old School/Lovely
+      - can put on table
+
+
+Mad Scientist Theme:
+
+Lab Bench - Grp A - med - 4,800/1,200 - Gray/Gray - Old School/Chic - bed
+
+x Lab Chair - Grp B - sm - 2,200/550 - Gray/Gray - Old School/Chic - chair
+
+x Medicine Chest - Crazy Redd - med - 4,560 or 2,280/570 - Colorful/Gray
+               - Old School/Chic
+
+x Florence Flask - Grp C - sm - 1,600/400 - Colorful/Gray - Old School/Chic
+               - can put on table
+
+Amazing Machine - Crazy Redd - med - 3,600/900 - Black/Black - Old School/Chic
+                - can use
+
+Unknown Machine - Spotlight - sm - 4,800/1,200 - Black/Black - Old School/Chic
+                - can use
+
+x Complex Machine - Grp A - lrg - 3,840/960 - Gray/Black - Old School/Chic -
+                  table
+
+
+Pirate Theme:
+
+Helm - Pascal - sm - none or 1,120/280 - Brown/Brown - Old School/Lovely
+
+Barrel - Pascal - sm - none or 800/200 - Brown/Brown - Old School/Chic
+
+Keg - Pascal - sm - none or 800/200 - Brown/Brown - Old School/Chic
+
+Ship Cannon - Pascal - lrg - none or 1,820/455 - Green/Brown
+            - Old School/Lovely
+
+Anchor - Pascal - lrg - none or 1,900/475 - Black/Brown - Old School/Lovely
+
+Ship Compass - Pascal - sm - none or 1,600/400 - Gray/Brown - Old School/Lovely
+
+
+Black Chess Set:
+
+x Black Pawn - Grp B - sm - 1,100/275 - Black/Black - Modern/Lovely
+
+Black Bishop - Grp A - sm - 2,800/700 - Black/Black - Modern/Lovely
+
+x Black King - Spotlight - sm - 8,000/2,000 - Black/Black - Modern/Lovely
+
+Black Knight - Crazy Redd - sm - 5,600 or 2,800/700 - Black/Black
+             - Modern/Lovely
+
+Black Queen - Spotlight - sm - 8,000/2,000 - Black/Black - Modern/Lovely
+
+x Black Rook - Crazy Redd - sm - 5,600 or 2,800/700 - Black/Black - Modern/Lovely
+
+
+White Chess Set:
+
+White Pawn - Grp A - sm - 1,100/275 - White/White - Modern/Lovely
+
+x White Bishop - Grp C - sm - 2,800/700 - White/White - Modern/Lovely
+
+White King - Spotlight - sm - 8,000/2,000 - White/White - Modern/Lovely
+
+White Knight - Crazy Redd - sm - 5,600 or 2,800/700 - White/White
+             - Modern/Lovely
+
+White Queen - Spotlight - sm - 8,000/2,000 - White/White - Modern/Lovely
+
+White Rook - Crazy Redd - sm - 5,600 or 2,800/700 - White/White - Modern/Lovely
+
+
+Classroom Set:
+
+Hamster Cage - Spotlight - sm - 2,290/572 - White/Brown - Modern/Lovely
+             - hamster runs
+
+Mop - Grp A - sm - 900/225 - Gray/Brown - Old School/Lovely
+
+x Skeleton - Spotlight - sm - 3,360/840 - White/White - Modern/Lovely
+
+Anatomical Model - Grp C - sm - 3,360/840 - Colorful/Colorful - Modern/Lovely
+
+Clear Model - Crazy Redd - sm - 6,720 or 3,360/840 - Red/Blue - Modern/Lovely
+
+
+Hospital Set:
+
+x Vision Tester - Grp A - sm - 2,280/570 - White/White - Old School/Lovely
+              - can use
+
+Trunk Measure - Grp B - sm - 1,680/420 - Brown/Brown - Old School/Lovely
+
+x Stadiometer - Grp C - sm - 1,680/420 - Brown/Brown - Old School/Lovely
+
+Scale - Grp B - sm - 1,200/300 - Gray/Gray - Old School/Lovely
+
+Hospital Bed - Crazy Redd - med - 7,200 or 3,600/900 - Green/White
+             - Modern/Chic - bed
+
+
+Study Set:
+
+Writing Desk - Grp C - med - 1,900/475 - Brown/Brown - Old School/Lovely
+
+x Writing Chair - Grp B - sm - 1,000/250 - Brown/Brown - Old School/Lovely
+              - chair
+
+Globe - Grp A - sm - 1,200/300 - Blue/Brown - Modern/Lovely - can use,
+        can put on table
+
+
+Office Set:
+
+x Office Desk - Grp C - med - 1,600/400 - Gray/Gray - Old School/Chic - table
+
+x Office Chair - Grp A - sm - 1,100/275 - Gray/Gray - Old School/Chic - chair
+
+x Office Locker - Grp B - sm - 1,200/300 - Gray/Gray - Old School/Chic - storage
+
+
+Cafe Set:
+
+x Coffee Maker - Grp A - sm - 800/200 - White/White - Modern/Chic
+             - can put on table
+
+x Checkout Counter - Grp B - sm - 3,480/870 - Brown/Brown - Old School/Chic
+                 - table
+
+x Cash Register - Grp C - sm - 6,480/1,620 - Yellow/Brown - Old School/Chic
+              - can use, can put on table
+
+Jukebox - Spotlight - sm - 3,200/800 - Yellow/Colorful - Old School/Chic
+        - plays music
+
+x Siphon - Grp A - sm - 1,780/445 - White/Brown - Modern/Chic - can put on table
+
+
+Dharma Set:
+
+x Giant Dharma - Grp A - sm - 1,600/400 - Red/Red - Old School/Chic - can use,
+               can put on table
+
+x Dharma - Grp B - sm - 1,200/300 - Red/Red - Old School/Chic - can use,
+         can put on table
+
+x Mini-Dharma - Grp C - sm - 800/200 - Red/Red - Old School/Chic - can use,
+              can put on table
+
+
+Teddy Bear Set:
+
+Papa Bear - Katie/Kaitlin - lrg - none or 2,200/550 - Brown/Brown
+          - Old School/Lovely
+
+x Mama Bear - Grp B - sm - 1,600/400 - Yellow/Yellow - Old School/Lovely
+          - can put on table
+
+x Baby Bear - Grp C - sm - 800/200 - Orange/Orange - Old School/Lovely
+          - can put on table
+
+
+Panda Bear Set:
+
+Papa Panda - Katie/Kaitlin - lrg - none or 480/120 - Pink/White - Modern/Lovely
+
+Mama Panda - Crazy Redd - sm - 960 or 480/120 - Black/White - Modern/Lovely
+           - can put on table
+
+Baby Panda - Spotlight - sm - 480/120 - Green/White - Modern/Lovely
+           - can put on table
+
+
+Cactus Set:
+
+Tall Cactus - Grp B - sm - 1,700/425 - Green/Brown - Old School/Chic
+
+Cactus - Grp A - sm - 1,700/425 - Green/Brown - Old School/Chic
+
+x Round Cactus - Grp C - sm - 1,700/425 - Green/Brown - Old School/Chic
+
+
+Golf Set:
+
+x Blue Golf Bag - Grp C - sm - 1,600/400 - Blue/White - Modern/Chic
+
+White Golf Bag - Grp B - sm - 1,600/400 - Red/White - Modern/Chic
+
+Green Golf Bag - Grp A - sm - 1,600/400 - Green/Green - Modern/Chic
+
+
+Red Furniture Set:
+
+Red Armchair - Grp A - sm - 1,800/450 - Red/Red - Modern/Chic - chair
+
+Red Sofa - Grp C - med - 2,050/512 - Red/Red - Modern/Chic - chair
+
+
+Totem Pole Set:
+
+Bear Pole - Grp C - sm - 1,400/350 - Colorful/Brown - Old School/Lovely
+          - can use
+
+Eagle Pole - Grp A - sm - 1,400/350 - Colorful/Brown - Old School/Lovely
+           - can use
+
+Frog Woman Pole - Crazy Redd - sm - 2,800 or 1,400/350 - Colorful/Brown
+                - Old School/Lovely - can use
+
+x Raven Pole - Grp B - sm - 1,400/350 - Colorful/Brown - Old School/Lovely
+           - can use
+
+
+Lava Lamp Set:
+
+Blue Lava Lamp - Grp A - sm - 1,800/450 - Blue/Blue - Modern/Chic - can use
+
+x Purple Lava Lamp - Grp B - sm - 1,800/450 - Pink/Pink - Modern/Lovely - can use
+
+Green Lava Lamp - Grp C - sm - 1,800/450 - Green/Green - Modern/Lovely
+                - can use
+
+
+Japanese Set (also includes the Screen):
+
+Samurai Suit - Spotlight - med - 4,500/1,125 - Yellow/Black - Old School/Lovely
+             - Lucky
+
+Black Katana - Crazy Redd - med - 24,000 or 12,000/3,000 - Black/Black
+             - Old School/Chic
+
+x White Katana - Crazy Redd - med - 73,600 or 36,800/9,200 - White/White
+             - Old School/Chic - can use
+
+Ninja Sword - Spotlight - sm - 9,600/2,400 - Brown/Brown - Old School/Lovely
+            - can use
+
+x Sword - Grp A - sm - 1,400/325 - Yellow/Black - Old School/Chic
+
+x Bow - Grp B - sm - 1,400/325 - Yellow/Gray - Old School/Lovely
+
+x Tea Table - Grp A - sm - 1,000/250 - Brown/Brown - Old School/Chic - table
+
+x Hearth - Grp B - lrg - 1,600/400 - Brown/Brown - Old School/Chic - fire burns
+
+
+Mossy Garden Set:
+
+Deer Scare - Crazy Redd - sm - 3,600 or 1,800/450 - Green/Green
+           - Old School/Chic - seesaws
+
+x Tall Lantern - Grp B - sm - 1,980/495 - Gray/Gray - Old School/Chic
+
+
+Nintendo Set:
+
+Master Sword - Spotlight - sm - 2,800/700 - Blue/Gray - Old School/Lovely
+             - Lucky - can use
+
+Arwing - Spotlight - lrg - 7,200/1,800 - Blue/Gray - Modern/Lovely - Lucky 
+       - can use
+
+Triforce - Crazy Redd - sm - 20,000 or 10,000/2,500 - Yellow/Yellow
+         - Old School/Lovely - Lucky - can use, can put on table
+
+Metroid* - Gulliver - sm - none/3,000 - Blue/Gray - Modern/Lovely - can use
+         - can put on table
+
+
+Vase Set:
+
+x Tea Vase - Grp B - sm - 2,400/600 - Yellow/Yellow - Old School/Chic
+         - can put on table
+
+Red Vase - Saharah - sm - none or 2,450/612 - Red/White - Old School/Chic
+         - can put on table
+
+Blue Vase - Grp A - sm - 2,500/625 - Blue/Blue - Old School/Chic
+          - can put on table
+
+
+Welcome Kitty Set:
+
+x Lucky Cat - Grp A - sm - 1,700/425 - Yellow/White - Old School/Chic - Lucky
+          - can put on table
+
+Lefty Lucky Cat - Crazy Redd - sm - 3,400 or 1,700/425 - Yellow/White
+                - Old School/Chic - Lucky - can put on table
+
+x Lucky Black Cat - Crazy Redd - sm - 3,400 or 1,700/425 - Black/Black
+                - Old School/Chic - Lucky - can put on table
+
+Lucky Gold Cat - Spotlight - sm - 12,400 or 6,200/1,550 - Yellow/Yellow
+               - Old School/Chic
+
+
+Citrus Set:
+
+Grapefruit Table - Grp C - sm - 1,500/375 - Green/Orange - Modern/Lovely
+                 - table
+
+x Lemon Table - Grp B - sm - 1,500/375 - Yellow/Green - Modern/Lovely - table
+
+x Orange Chair - Grp A - sm - 1,300/325 - Orange/Orange - Modern/Lovely - chair
+
+Lime Chair - Grp C - sm - 1,300/325 - Green/Green - Modern/Lovely - chair
+
+
+Pear Set:
+
+Pear Wardrobe - Grp B - sm - 1,400/350 - Green/White - Modern/Lovely - storage
+
+Pear Dresser - Grp A - sm - 1,600/400 - Green/White - Modern/Lovely - storage
+
+
+Watermelon Set:
+
+Watermelon Chair - Grp A - sm - 1,300/325 - Green/Red - Modern/Lovely - chair
+
+x Melon Chair - Grp B - sm - 1,300/325 - Yellow/Green - Modern/Lovely - chair
+
+Watermelon Table - Grp C - lrg - 1,800/450 - Green/Red - Modern/Lovely - table
+
+
+Apple Set:
+
+Apple TV - Katie/Kaitlin - sm - none or 1,600/400 - Red/Red - Modern/Lovely -
+           can use
+
+x Apple Clock - Grp C - sm - 1,200/300 - Yellow/Red - Modern/Lovely - tells time
+
+
+Froggy Set:
+
+Lily-Pad Table - Katie/Kaitlin - sm - none or 1,600/400 - Green/Green
+               - Modern/Lovely - table
+
+x Froggy Chair - Grp B - sm - 1,200/300 - Green/Green - Modern/Lovely - chair
+
+
+Pine Set:
+
+Pine Chair - Grp A - sm - 1,800/450 - White/White - Old School/Chic - chair
+
+x Pine Table - Grp C - lrg - 2,280/570 - White/White - Old School/Chic - table
+
+
+Tulip Set:
+
+Tulip Chair - Grp B - sm - 1,400/350 - Green/Red - Modern/Lovely - chair
+
+Tulip Table - Grp A - sm - 1,900/475 - Green/Red - Modern/Lovely - table
+
+
+Iris Set:
+
+Iris Chair - Grp A - sm - 1,400/350 - Green/White - Modern/Lovely - chair
+
+x Iris Table - Grp C - sm - 1,900/475 - Green/White - Modern/Lovely - table
+
+
+Daffodil Set:
+
+Daffodil Chair - Grp C - sm - 1,400/350 - Yellow/Green - Modern/Lovely - chair
+
+x Daffodil Table - Grp B - sm - 1,900/475 - Yellow/Green - Modern/Lovely - table
+
+
+Drum Set:
+
+Conga Drum - Grp A - sm - 1,600/400 - White/Brown - Old School/Chic - can use
+
+x Djimbe Drum - Grp C - sm - 1,900/475 - White/Brown - Old School/Chic - can use
+
+Timpano Drum - Crazy Redd - sm - 4,200 or 2,100/525 - Gray/White
+             - Old School/Chic - can use
+
+
+String Set:
+
+x Violin - Grp A - sm - 2,200/550 - Brown/Brown - Old School/Chic - can use
+
+x Cello - Grp B - sm - 1,800/450 - Brown/Brown - Old School/Chic - can use
+
+Bass - Grp C - sm - 2,400/600 - Brown/Brown - Old School/Chic - can use
+
+
+Guitar Set:
+
+Folk Guitar - Grp A - sm - 1,600/400 - Brown/Brown - Old School/Chic - can use
+
+Country Guitar - Wendell - sm - none or 1,700/425 - Brown/Brown
+               - Old School/Chic - can use
+
+Rock Guitar - Grp C - sm - 1,800/450 - Green/White - Modern/Lovely - can use
+
+Metal Guitar - Grp C - sm - 1,900/475 - Red/Red - Modern/Lovely - can use
+
+
+Other Furniture:
+
+x Ukulele - Grp C - sm - 1,600/400 - Brown/Brown - Old School/Chic - can use
+
+x Ebony Piano - Grp C - lrg - 3,800/950 - Black/Black - Old School/Chic - can use
+
+x Ivory Piano - Spotlight - lrg - 3,500/875 - White/White - Old School/Chic
+            - Lucky - can use
+
+Japanese Drum - Grp C - sm - 1,300/275 - Brown/Brown - Old School/Chic
+              - can use
+
+x Vibraphone - Grp A - med - 1,900/475 - Black/Brown - Modern/Chic - can use
+
+Biwa Lute - Grp B - sm - 1,800/450 - Brown/Brown - Old School/Chic - can use
+
+x Harp - Grp C - sm - 1,700/425 - Orange/Brown - Old School/Chic - can use
+
+x Metronome - Grp B - sm - 1,000/250 - Red/Red - Old School/Lovely - can use
+
+Trash Can - Grp A - sm - 1,400/350 - Blue/Gray - Old School/Chic
+
+x Garbage Pail - Grp B - sm - 1,100/275 - Blue/Blue - Modern/Chic
+
+Garbage Can - Grp C - sm - 500/125 - Gray/Gray - Modern/Chic
+
+Trash Bin - Grp C - sm - 400/100 - Red/White - Modern/Chic - can use
+
+x Pantheon Post - Crazy Redd - sm - 7,200 or 3,600/900 - Gray/Gray
+              - Old School/Chic
+
+Ionian Post - Grp A - sm - 3,600/900 - Gray/Gray - Old School/Chic
+
+x Corinthian Post - Grp B - sm - 3,600/900 - Gray/Gray - Old School/Chic
+
+Broken Post - Grp C - sm - 1,800/450 - Gray/Gray - Old School/Chic
+
+x Pyramid - Grp C - lrg - 3,800/950 - Yellow/Brown - Old School/Lovely
+
+Sphinx - Grp A - med - 3,200/800 - Yellow/Brown - Old School/Lovely
+
+Mummy's Casket - Spotlight - sm - 4,400/1,100 - Yellow/Colorful
+               - Old School/Lovely - storage
+
+Spaceman - Crazy Redd - sm - 2,880 or 1,440/360 - Gray/Gray - Old School/Lovely
+
+x Tennis Table - Grp B - med - 1,800/450 - Green/Green - Modern/Lovely
+
+Bowling Pins - Grp B - sm - 1,200/300 - White/White - Modern/Lovely - can use
+
+Basketball Hoop - Crazy Redd - lrg - 4,240 or 2,120/530 - Gray/White
+                - Modern/Lovely
+
+Ball Return - Grp A - med - 6,200/1,550 - Colorful/White - Modern/Lovely
+            - can use
+
+x Billiard Table - Grp C - med - 1,800/450 - Green/Brown - Modern/Chic
+
+Mahjong Table - Grp C - sm - 4,200/1,050 - Green/Brown - Modern/Chic
+
+Dart Board - Grp A - sm - 1,520/380 - Black/Black - Modern/Chic
+
+Pinball Machine - Grp B - sm - 1,960/490 - Colorful/Black - Modern/Lovely
+                - can use
+
+x Arcade Machine - Grp B - sm - 4,400/1,100 - Colorful/White - Modern/Lovely
+               - displays game
+
+Tabletop Game - Crazy Redd - sm - 4,960 or 2,480/620 - Black/Black
+              - Old School/Lovely - table, displays game
+
+x Stool - Grp B - sm - 1,360/340 - Red/Red - Old School/Lovely - chair
+
+Moai Statue* - Gulliver - sm - none/1,900 - Gray/Gray - Old School/Lovely
+
+Tribal Mask* - Gulliver - sm - none/1,100 - Brown/Brown - Old School/Lovely
+
+Arc de Triomphe* - Gulliver - sm - none/2,300 - Gray/Gray - Modern/Chic
+
+Merlion* - Gulliver - sm - none/2,300 - White/White - Modern/Chic - can use
+
+x Pagoda* - Gulliver - sm - none/1,280 - Red/Gray - Old School/Lovely
+
+Plate Armor* - Gulliver - sm - none/1,850 - Gray/Gray - Old School/Chic
+
+x Mermaid Statue* - Gulliver - sm - none/1,900 - Gray/Gray - Old School/Chic
+
+Mouth of Truth* - Gulliver - med - none/1,900 - Gray/Gray - Old School/Chic
+                - can use
+
+Manekin Pis* - Gulliver - sm - none/1,300 - Gray/Gray - Old School/Lovely
+             - can use
+
+Tower of Pisa* - Gulliver - sm - none/2,300 - Gray/Gray - Old School/Chic
+
+Compass* - Gulliver - sm - none/320 - Gray/Gray - Modern/Lovely
+         - needle points north, can put on table
+
+Matryoshka* - Gulliver - med - none/980 - Colorful/Colorful - Old School/Lovely
+            - can use
+
+Backpack - Grp A - sm - 1,980/495 - Blue/Brown - Modern/Lovely
+
+Mountain Bike - Grp C - med - 3,380/845 - Yellow/Gray - Modern/Lovely
+
+x Propane Stove - Grp B - sm - 1,470/367 - Gray/Gray - Modern/Chic
+
+x Cooler - Grp A - sm - 1,300/325 - Blue/White - Modern/Chic
+
+Kayak - Grp C - med - 3,460/865 - Yellow/Yellow - Modern/Chic
+
+x Lantern - Grp A - sm - 1,180/295 - Red/White - Old School/Lovely
+        - lamp, can put on table
+
+Sleeping Bag - Spotlight - med - 1,960/490 - Green/Green - Modern/Chic
+
+Campfire - Grp B - sm - 1,360/340 - Red/Brown - Old School/Chic - fire burns
+
+Bonfire - Grp A - lrg - 2,240/560 - Red/Brown - Old School/Lovely - fire burns
+
+
+Pine Bonsai Set:
+
+x Ponderosa Bonsai - Grp C - sm - 1,800/450 - Green/Brown - Old School/Chic
+                 - can put on table
+
+x Pine Bonsai - Grp A - sm - 1,800/450 - Green/Blue - Old School/Chic
+            - can put on table
+
+x Mugho Bonsai - Grp B - sm - 1,800/450 - Green/Black - Old School/Chic
+             - can put on table
+
+
+Bonsai Set:
+
+Plum Bonsai - Spotlight - sm - 1,900/475 - Red/Brown - Old School/Chic
+            - can put on table
+
+x Holly Bonsai - Grp B - sm - 1,600/400 - Green/White - Old School/Chic
+             - can put on table
+
+Azalea Bonsai - Grp B - sm - 1,500/375 - Green/Blue - Old School/Chic
+              - can put on table
+
+x Maple Bonsai - Grp C - sm - 1,700/425 - Red/Brown - Old School/Chic
+             - can put on table
+
+Hawthorn Bonsai - Grp C - sm - 1,800/450 - Green/Brown - Old School/Chic
+                - can put on table
+
+Quince Bonsai - Grp A - sm - 1,600/400 - Red/Blue - Old School/Chic
+              - can put on table
+
+x Jasmine Bonsai - Grp A - sm - 1,700/425 - Yellow/Brown - Old School/Chic
+               - can put on table
+
+
+House Plant Set:
+
+Pothos - Crazy Redd - sm - 2,600 or 1,300/325 - Green/Brown - none/Chic
+
+x Coconut Palm - Grp B - sm - 1,200/400 - Green/Brown - none/Chic
+
+x Pachira - Grp C - sm - 1,200/400 - Green/Brown - none/Chic
+
+Caladium - Grp A - sm - 1,300/425 - Green/Brown - none/Chic
+
+x Croton - Grp C - sm - 1,300/425 - White/Brown - none/Chic
+
+x Dracaena - Spotlight - sm - 2,000/500 - Green/Brown - none/Chic - Lucky
+
+Lady Palm - Grp A - sm - 1,200/300 - Green/Brown - none/Chic
+
+x Aloe - Grp B - sm - 1,200/300 - Green/Brown - none/Chic
+
+Rubber Tree - Grp A - sm - 1,300/325 - Green/Brown - none/Chic
+
+Snake Plant - Crazy Redd - sm - 2,400 or 1,200/300 - Green/Brown - none/Chic
+
+Fan Palm - Grp C - sm - 1,300/325 - Green/Brown - none/Chic
+
+x Corn Plant - Grp C - sm - 1,300/325 - Green/Brown - none/Chic
+
+x Bromeliaceae - Grp B - sm - 1,300/325 - Green/Red - none/Chic
+
+x Weeping Fig - Grp C - sm - 1,200/300 - Green/Brown - none/Chic
+
+
+Other Furniture:
+
+x TV with a VCR - Grp B - sm - 2,000/500 - Gray/Black - Modern/Lovely - can use
+
+Wide-Screen TV - Crazy Redd - med - 4,400 or 2,200/550 - Gray/Black
+               - Modern/Chic - can use
+
+x Retro TV - Grp B - sm - 1,600/400 - Gray/Brown - Old School/Chic - can use
+
+x Kitchen Sink - Grp C - med - 2,400/600 - White/White - Modern/Chic - can use
+
+x Kitchen Corner - Grp A - sm - 1,800/450 - White/White - Modern/Chic
+
+x Deluxe Range - Grp B - sm - 3,200/800 - Black/White - Modern/Chic - can use
+
+x Range - Grp C - sm - 1,800/450 - White/Brown - Modern/Chic
+
+x Stove - Grp B - sm - 1,980/495 - Red/White - Modern/Chic
+
+Tea Set - Grp A - sm - 300/75 - Yellow/Green - Modern/Chic - can put on table
+
+Refrigerator - Grp A - sm - 1,200/300 - White/White - Modern/Chic - storage
+
+x Retro Fridge - Grp B - sm - 2,300/575 - Green/Green - Old School/Chic - storage
+
+x Microwave - Grp C - sm - 2,300/575 - White/White - Modern/Chic - can use,
+            can put on table
+
+Toaster - Grp A - sm - 720/180 - White/White - Old School/Chic - can use,
+          can put on table
+
+Sink - Grp C - med - 1,960/490 - Brown/Brown - Old School/Chic
+
+Mixer - Grp A - sm - 1,000/250 - Black/White - Modern/Chic - can use,
+        can put on table
+
+Clothesline Pole - Grp B - med - 960/240 - Green/Blue - Modern/Chic - clothes
+                   sway
+
+Doghouse - Grp C - sm - 1,200/300 - Red/Brown - Modern/Lovely - can use
+
+Beach Chair - Grp A - med - 1,850/462 - White/White - Modern/Lovely - bed
+
+x Wave Breaker - Grp B - lrg - 1,760/440 - Gray/Gray - Old School/Chic
+
+Surfboard - Grp C - sm - 1,400/350 - Blue/Blue - Modern/Chic
+
+Diver Dan - Grp A - sm - 3,200/800 - Yellow/Colorful - Modern/Lovely
+
+Beach Table - Grp B - sm - 1,600/400 - Blue/White - Modern/Lovely
+
+Treasure Chest - Spotlight - sm - 8,600/2,150 - Yellow/Green
+               - Old School/Lovely - Lucky - can use
+
+x Life Ring - Grp A - sm - 1,250/312 - Red/White - Modern/Lovely
+
+x Snowboard - Grp B - sm - 1,400/350 - Red/Red - Modern/Lovely
+
+x Sleigh - Grp C - sm - 1,200/300 - Red/Brown - Old School/Lovely - chair
+
+Snowman* - Snowman - sm - none/3,000 - White/White - Old School/Lovely
+
+x Sunflower - Grp B - sm - 980/245 - Yellow/Green - Modern/Lovely
+          - can put on table
+
+Daffodil - Grp C - sm - 680/170 - Red/White - Modern/Chic - can put on table
+
+Gerbera - Grp A - sm - 780/195 - Red/Blue - Old School/Chic - can put on table
+
+x Toilet - Grp C - sm - 1,800/450 - White/White - Modern/Chic - chair
+
+Super Toilet - Crazy Redd - sm - 3,960 or 1,980/495 - Pink/Pink - Modern/Chic
+             - chair
+
+x Men's Toilet - Grp B - sm - 1,600/400 - Blue/Blue - Modern/Lovely - can use
+
+Pink Box - Grp A - sm - 980/245 - Pink/Pink - Modern/Lovely
+
+Blue Box - Grp B - sm - 980/245 - Blue/Blue - Modern/Lovely
+
+Beige Box - Grp C - sm - 980/245 - Brown/Brown - Modern/Lovely
+
+Safe - Crazy Redd - sm - none or 758/189 - Black/Black - Old School/Chic
+     - storage
+
+Piggy Bank* - Savings - sm - none/1,120 - Pink/Pink - Old School/Lovely
+            - Lucky - can put on table
+
+Deluxe Washer - Spotlight - sm - 5,200/1,300 - Orange/Orange - Modern/Chic
+              - can use
+
+x Automatic Washer - Grp B - sm - 4,800/1,200 - White/White - Modern/Chic
+                 - can use
+
+Washer/Dryer - Grp A - sm - 1,800/450 - Green/Green - Modern/Chic - Lucky
+             - can use
+
+Potbelly Stove - Grp B - sm - 2,000/500 - Gray/Gray - Old School/Chic
+
+Space Heater - Grp A - sm - 1,700/425 - Gray/Gray - Modern/Chic - fire burns
+
+x Fireplace - Grp C - med - 2,200/550 - Brown/Brown - Old School/Chic
+          - table, can use
+
+Radiator - Grp A - sm - 2,380/595 - White/White - Modern/Chic
+
+x CD Player - Grp B - sm - 1,600/400 - Blue/Gray - Modern/Lovely - plays music,
+            can put on table
+
+Gold Stereo - Grp B - med - 2,640/660 - Yellow/Black - Modern/Chic
+            - plays music
+
+Hi-Fi Stereo - Spotlight - med - 5,400/1,350 - Yellow/Black - Modern/Chic
+             - plays music
+
+Turntable - Crazy Redd - sm - 5,160 or 2,580/645 - Brown/Brown
+          - Old School/Chic - plays music
+
+Dice Stereo - Crazy Redd - med - 4,300 or 2,150/535 - White/White
+            - Modern/Lovely - plays music
+
+x White Boom Box - Grp B - sm - 1,500/375 - White/White - none/Lovely
+               - plays music, can put on table
+
+Red Boom Box - Grp C - sm - 1,500/375 - Red/Red - none/Lovely - plays music,
+               can put on table
+
+x Phonograph - Grp A - sm - 1,840/460 - Yellow/Brown - Old School/Chic
+           - plays music, can put on table
+
+Reel-to-Reel - Grp C - sm - 2,000/500 - Gray/Gray - Old School/Chic
+             - plays music, can put on table
+
+Retro Stereo - Grp A - med - 5,500/1,375 - Black/Black - Old School/Chic
+             - plays music
+
+High-End Stereo - Crazy Redd - med - 5,500 or 2,750/687 - Gray/Black
+                - Modern/Chic - plays music
+
+x Tape Deck - Grp A - sm - 700/175 - Gray/Gray - Old School/Chic - plays music,
+            can put on table
+
+Red Clock - Grp C - sm - 1,300/325 - Red/White - Modern/Lovely - clock,
+            can put on table
+
+x Kitschy Clock - Grp A - sm - 1,800/450 - Colorful/Colorful - Modern/Chic
+              - clock
+
+Antique Clock - Grp A - sm - 2,350/587 - Brown/Brown - Old School/Chic
+              - clock
+
+Cube Clock - Grp B - sm - 1,100/275 - White/White - Modern/Chic - clock,
+             can put on table
+
+x Odd Clock - Grp C - sm - 1,800/450 - Yellow/Yellow - Old School/Chic - clock,
+            can put on table
+
+x Glow Clock - Grp B - sm - 1,500/375 - Yellow/Green - Modern/Chic - clock,
+             can put on table
+
+Owl Clock - Grp A - sm - 1,300/325 - Brown/Brown - Old School/Lovely - clock
+
+x Alarm Clock - Grp B - sm - 1,000/250 - Yellow/Yellow - Modern/Lovely - clock,
+              can put on table
+
+Jade Econo-Chair - Grp C - sm - 800/200 - Green/Green - Modern/Chic - chair
+
+Ruby Econo-Chair - Grp A - sm - 800/200 - Orange/Orange - Modern/Chic - chair
+
+x Gold Econo-Chair - Grp B - sm - 800/200 - Yellow/Yellow - Modern/Chic - chair
+
+Rocking Chair - Grp A - sm - 1,400/350 - Brown/Brown - Old School/Chic - chair
+
+x Gas Pump - Grp C - sm - 1,280/320 - Red/Red - Old School/Chic - can use
+
+x Extinguisher - Grp B - sm - 1,300/325 - Red/Red - Modern/Lovely
+
+x Fire Hydrant - Grp B - sm - 960/240 - Red/Red - Modern/Chic
+
+Raccoon Figurine - Crazy Redd - sm - 4,000 or 2,000/500 - White/Brown
+                 - Old School/Lovely - Lucky
+
+x Barber's Pole - Grp C - sm - 1,600/400 - Colorful/Colorful - Old School/Chic
+              - spins
+
+Candy Machine - Grp A - sm - 980/245 - Red/Colorful - Modern/Lovely - can use
+
+Big Festive Tree - Limited - lrg - 2,480/620 - Green/Colorful - Modern/Lovely
+                 - Lucky
+
+Festive Tree - Limited - sm - 1,300/325 - Green/Colorful - Modern/Lovely
+             - Lucky
+
+Scarecrow - Grp C - sm - 420/105 - White/Brown - Old School/Lovely
+
+Birdcage - Grp B - sm - 1,700/425 - Brown/Brown - Old School/Chic - bird chirps
+
+Chocolates* - Gulliver - sm - none/680 - Brown/Brown - Modern/Lovely
+            - can put on table, can walk on
+
+x Nintendo Bench - Grp A - med - 120/30 - Blue/Blue - Old School/Chic - chair
+
+x Outdoor Bath - Grp C - lrg - 4,900/1,225 - Gray/Gray - Old School/Chic
+             - can use
+
+
+Part of Japanese Set:
+
+x Screen - Grp B - med - 1,650/412 - Yellow/Yellow - Old School/Chic
+
+
+Other Furniture:
+
+Computer - Grp A - sm - 1,720/430 - White/Brown - Modern/Chic - can use
+
+Pineapple Bed - Grp A - med - 1,990/497 - Yellow/Yellow - Modern/Lovely - bed
+
+x Glass-Top Table - Grp B - med - 2,200/550 - Brown/Brown - Old School/Chic
+                - table
+
+x Cream Sofa - Grp B - med - 2,000/500 - White/White - Modern/Chic - chair
+
+Storage Case - Grp B - sm - 980/245 - Black/White - Modern/Chic - storage
+
+Clothes Closet - Grp C - sm - 1,340/335 - Yellow/Yellow - Modern/Lovely
+               - storage
+
+Claw-foot Tub - Grp A - med - 1,280/320 - White/White - Old School/Chic
+
+x Shower - Grp B - sm - 880/220 - White/White - Old School/Chic - can use
+
+x Box of Tissues* - Savings - sm - none/320 - White/White - Modern/Chic
+                - can put on table
+
+Massage Chair - Saharah - sm - none or 2,400/600 - Brown/Brown
+              - Old School/Chic - chair
+
+Vacuum Cleaner - Grp A - sm - 1,200/300 - Red/White - Modern/Chic
+
+Bottled Ship - Grp C - sm - 3,360/840 - Gray/Brown - Old School/Lovely
+             - can put on table
+
+Water Bird - Grp B - sm - 1,400/350 - Colorful/Colorful - Modern/Lovely
+           - seesaws
+
+x Executive Toy - Grp A - sm - 1,100/275 - Red/Gray - Modern/Lovely
+              - balls swing, can put on table
+
+Telescope - Grp C - sm - 5,800/1,450 - Black/White - Modern/Lovely
+
+Mochi Pestle - Grp C - sm - 1,400/350 - Brown/Brown - Old School/Lovely
+
+Lovely Phone - Katie/Kaitlin - sm - none or 10,400/2,600 - Pink/Pink
+             - Modern/Lovely - Lucky - can use
+
+x Sewing Machine - Grp A - med - 1,350/337 - Gray/Brown - Old School/Chic
+               - can use
+
+x Cardboard Box - Grp B - sm - 100/25 - Brown/Brown - Old School/Chic - table
+
+x Wooden Box - Grp C - sm - 200/50 - Brown/Brown - Old School/Chic - table
+
+x Miniature Car - Grp C - sm - 10,000/2,500 - Red/Red - Modern/Lovely
+              - can put on table
+
+x Fan - Grp C - sm - 1,200/300 - Green/Green - Modern/Chic - can use
+
+x Birthday Cake* - Birthday - sm - none/0 - Colorful/White - Modern/Lovely
+               - Lucky - can use, can put on table
+
+x Jack-in-the-Box - Grp A - sm - 4,124/1,031 - Blue/Colorful - Modern/Lovely
+                - Lucky - can use
+
+Throne* - Spotlight - sm - 800,000/200,000 - Yellow/Red - Old School/Chic
+        - chair
+
+x Table Lamp - Grp B - sm - 640/160 - Green/White - Modern/Chic - lamp,
+             can put on table
+
+Desk Light - Grp A - 1,280/320 - Black/Black - none/none - lamp,
+             can put on table
+
+x Candle - Grp C - 1,280/320 - Yellow/White - none/none - lamp, can put on table
+
+x Mini-Lamp - Grp B - 1,280/320 - White/White - none/none - lamp,
+            can put on table
+
+Festive Flag - Limited - sm - 680/170 - Colorful/Colorful - Old School/Lovely
+             - can put on table
+
+Festive Candle - Limited - sm - 1,600/400 - Colorful/Colorful
+               - Old School/Lovely - lamp, can put on table
+
+Music Box* - Katie/Kaitlin - sm - none/1,050 - Yellow/Red - Old School/Lovely
+           - Lucky - can use, can put on table
+
+Portrait* - Katie/Kaitlin - sm - none/50 - Yellow/Brown - Modern/Lovely - Lucky
+
+One-Story Model* - HRA - sm - none/450 - Green/Red - Modern/Lovely
+
+Two-Story Model* - HRA - sm - none/450 - Green/Red - Modern/Lovely
+
+Mansion Model* - HRA - sm - none/450 - Green/Red - Modern/Lovely
+
+x Nook's Cranny* - Points - sm - none/450 - Green/Brown - Modern/Lovely
+
+Nook 'n' Go* - Points - sm - none/450 - Blue/White - Modern/Lovely
+
+Nookway* - Points - sm - none/450 - Green/White - Modern/Lovely
+
+Nookington's* - Points - sm - none/450 - White/White - Modern/Lovely
+
+Museum Model* - Blathers - med - none/450 - Green/White - Modern/Lovely
+
+Town Hall Model* - Savings - med - none/450 - Brown/Brown - Modern/Lovely
+
+Fish Trophy* - Tortimer - sm - none/800 - Yellow/Yellow - Modern/Chic
+             - can put on table
+
+Bug Trophy* - Tortimer - sm - none/800 - Yellow/Yellow - Modern/Chic
+            - can put on table
+
+Flower Trophy* - Tortimer - sm - none/800 - Yellow/Yellow -Modern/Chic
+               - can put table
+
+x Basic Red Bed - Grp B - med - 200/50 - Red/Brown - none/none - bed
+
+x Basic Blue Bed - Grp C - med - 200/50 - Blue/Brown - none/none - bed
+
+x Basic Yellow Bed - Grp A - med - 200/50 - Yellow/Brown - none/none - bed
+
+x Basic Green Bed - Grp B - med - 200/50 - Green/Brown - none/none - bed
+
+Dainty Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown
+                - Old School/Chic
+
+Solemn Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown
+                - Old School/Chic
+
+Quaint Painting - Crazy Redd - sm - 3,920 or 1,960/490 - White/Brown
+                - Old School/Chic
+
+x Basic Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Blue/Brown
+               - Old School/Chic
+
+x Famous Painting - Spotlight - sm - 1,960/490 - Brown/Brown - Old School/Chic
+
+Perfect Painting - Crazy Redd - sm - 3,920 or 1,960/490 - White/Brown
+                 - Old School/Chic
+
+Amazing Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown
+                 - Old School/Chic
+
+Nice Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Red/Brown
+              - Old School/Chic
+
+Moving Painting - Crazy Redd - sm - 3,920 or 1,960/490 - White/Brown
+                - Old School/Chic
+
+Common Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Yellow/Brown
+                - Old School/Chic
+
+Flowery Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Yellow/Brown
+                 - Old School/Chic
+
+Warm Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown
+              - Old School/Chic
+
+Rare Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Yellow/Brown
+              - Old School/Chic
+
+Fine Painting - Spotlight - sm - 1,960/490 - Colorful/Brown - Old School/Chic
+
+Scary Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Gray/Brown
+               - Old School/Chic
+
+Lovely Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Orange/Brown
+                - Old School/Chic
+
+Strange Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown
+                 - Old School/Chic
+
+Worthy Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Black/Brown
+                - Old School/Chic
+
+Calm Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Colorful/Brown
+            - Old School/Chic
+
+Opulent Painting - Crazy Redd - sm - 3,920 or 1,960/490 - Colorful/Brown
+                 - Old School/Chic

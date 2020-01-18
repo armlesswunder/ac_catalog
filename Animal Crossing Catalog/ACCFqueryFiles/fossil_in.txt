@@ -1,0 +1,59 @@
+Amber - sm - none/1,200 - orange/brown
+Ammonite - sm - none/1,100 - gray/brown
+Coprolite - sm - none/1,100 - gray/brown
+Dinosaur Egg - sm - none/1,400 - gray/brown
+Fern Fossil - sm - none/1,000 - gray/brown
+Dinosaur Track - sm - none/1,000 - gray/brown
+Archaeopteryx - sm - none/1,300 - brown/brown
+Peking Man - sm - none/1,100 - gray/brown
+Shark Tooth - sm - none/1,000 - gray/brown
+Trilobite - sm - none/1,300 - gray/brown
+T. rex Skull - lrg - none/6,000 - brown/brown
+T. rex Torso - lrg - none/5,500 - brown/brown
+T. rex Tail - lrg - none/5,000 - brown/brown
+Tricera Skull - lrg - none/5,500 - brown/brown
+Tricera Torso - lrg - none/5,000 - brown/brown
+Tricera Tail - lrg - none/4,500 - brown/brown
+Mammoth Skull - lrg - none/3,000 - brown/brown
+Mammoth Torso - lrg - none/2,500 - brown/brown
+Ankylo Skull - lrg - none/3,500 - brown/brown
+Ankylo Torso - lrg - none/3,000 - brown/brown
+Ankylo Tail - lrg - none/2,500 - brown/brown
+Apato Skull - lrg - none/5,000 - brown/brown
+Apato Torso - lrg - none/4,500 - brown/brown
+Apato Tail - lrg - none/4,000 - brown/brown
+Dimetrodon Skull - lrg - none/5,500 - brown/brown
+Dimetrodon Torso - lrg - none/5,000 - brown/brown
+Dimetrodon Tail - lrg - none/4,500 - brown/brown
+Iguanodon Skull - lrg - none/4,000 - brown/brown
+Iguanodon Torso - lrg - none/3,500 - brown/brown
+Iguanodon Tail - lrg - none/3,000 - brown/brown
+Sabertooth Skull - lrg - none/2,500 - brown/brown
+Sabertooth Torso - lrg - none/2,000 - brown/brown
+Pachy Skull - lrg - none/4,000 - brown/brown
+Pachy Torso - lrg - none/3,500 - brown/brown
+Pachy Tail - lrg - none/3,000 - brown/brown
+Parasaur Skull - lrg - none/3,500 - brown/brown
+Parasaur Torso - lrg - none/3,000 - brown/brown
+Parasaur Tail - lrg - none/2,500 - brown/brown
+Seismo Skull - lrg - none/5,000 - brown/brown
+Seismo Chest - lrg - none/4,500 - brown/brown
+Seismo Hip - lrg - none/4,000 - brown/brown
+Seismo Tail - lrg - none/4,500 - brown/brown
+Plesio Skull - lrg - none/4,500 - brown/brown
+Plesio Neck - lrg - none/4,500 - brown/brown
+Plesio Torso - lrg - none/4,500 - brown/brown
+Stego Skull - lrg - none/5,000 - brown/brown
+Stego Torso - lrg - none/4,500 - brown/brown
+Stego Tail - lrg - none/4,000 - brown/brown
+Ptera Skull - med - none/4,000 - brown/brown
+Ptera Left Wing - med - none/4,500 - brown/brown
+Ptera Right Wing - med - none/4,500 - brown/brown
+Icthyo Skull - lrg - none/2,500 - brown/brown
+Icthyo Torso - lrg - none/2,000 - brown/brown
+Raptor Skull - lrg - none/3,000 - brown/brown
+Raptor Torso - lrg - none/2,500 - brown/brown
+Styraco Skull - lrg - none/3,500 - brown/brown
+Styraco Torso - lrg - none/3,000 - brown/brown
+Styraco Tail - lrg - none/2,500 - brown/brown
+eof
