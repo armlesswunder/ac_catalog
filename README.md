@@ -24,9 +24,9 @@ The image resources are used by the application to change the style of the appli
 I have saved all of the files I used to construct the databases. There are also some c# programs mixed in there that were used to generate the query files. Those programs aren't that great, but I figured someone may be interested in seeing how I generated my queries. They are designed to work with Liquefy's catalogs that he has posted but you will need to modify them quite a bit if you want to use them. You may notice that there are some ACWW files there too. I pretty much abandoned that part of the database for the time being as I did not like the way I had generated those query files (they were used in my prototype and since then, I have adopted a better database scheme).
 
 # Bugs
-report bugs to: abw4v.dev@gmail.com
+report bugs to: abw4v.dev@gmail.com\n
 I am not a perfect programmer, so please report bugs to me! I will add a thank you to this file if you lead me to fixing a bug. 
 
 # Acknowledgements
-Nintendo for making great games
+Nintendo for making great games\n
 Liquefy for his great guides that I used to make my database queries
