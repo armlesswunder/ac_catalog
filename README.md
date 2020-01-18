@@ -1,3 +1,5 @@
+not ready for general use
+
 # General Use
 
 ## What is Animal Crossing Catalog?
