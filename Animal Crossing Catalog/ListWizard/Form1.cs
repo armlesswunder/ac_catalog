@@ -8,7 +8,7 @@ namespace ListWizard
     public partial class AC_Catalog : Form
     {
         //name of database file ("catalog".mdf)
-        const string catalogName = "catalog";
+        const string catalogName = "catalogv1";
         string connectionString;
         string basePath;
 
@@ -30,14 +30,12 @@ namespace ListWizard
         {
             InitializeComponent();
             basePath = System.IO.Path.GetDirectoryName(System.Windows.Forms.Application.ExecutablePath);
-            
-            //due to errors with sql server studio, you may have to make the choice to specify where you database resides here.
-            //simply change the attachDbFilename to the filepath of the database you wish to use
-            //dynamic db path
-            connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=" + basePath + "\\" + catalogName + ".mdf;Integrated Security=True;Connect Timeout=30";
-            
+
+            //dynamic db path - grabs your db from local folder
+            connectionString = "Data Source = (LocalDB)\\MSSQLLocalDB;AttachDbFilename=" + basePath + "\\"+ catalogName + ".mdf;" + "Integrated Security=True;Connect Timeout=30;User Instance=False";
+
             //hard code db path
-            //connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\000ab\\Emulation\\Dolphin-x64\\ListWyyzzrd\\catalog.mdf;Integrated Security=True;Connect Timeout=30";
+            //connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\catalog.mdf;Integrated Security=True;Connect Timeout=30";
 
             setImages();
             loadSettings();
@@ -62,7 +60,7 @@ namespace ListWizard
             accBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\hat_ic.png");
             statBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\paper_ic.png");
             songBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\song_ic.png");
-            umbrellaBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\umb_ic.png");
+            umbrellaBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\tool_ic.png");
             paintingBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\painting_ic.png");
             fishBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\fish_ic.png");
             insectBtn.BackgroundImage = System.Drawing.Image.FromFile(basePath + "\\image_resources\\insect_ic.png");
