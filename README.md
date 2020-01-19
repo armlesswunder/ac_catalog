@@ -7,12 +7,12 @@ Animal Crossing Catalog is a Windows Form application that is designed to help A
 Currently Animal Crossing for Gamecube and Wii are fully functional. There will probably be support for the other main franchise games in the future.
 
 ## How to install
-Unzip the 'Animal Crossing Catalog.zip' file and run the application in the immediate folder with the provided files present and without changing any file names. The application will run only if the 'catalogv1.mdf' file and the 'image resources' folder are present in the same directory as the 'Animal Crossing Catalog.exe'. If you wish, create a shortcut to the 'Animal Crossing Catalog.exe' so that it can be located wherever is convenient for you to access it.
+Unzip the 'Animal Crossing Catalog.zip' file and run the application in the immediate folder with the provided files present and without changing any file names. The application will run only if the 'catalogv1.mdf' file and the 'image resources' folder are present in the same directory as the 'Animal Crossing Catalog.exe'. You can place the unzipped folder anywhere you wish, as long as you have read/write privileges in that folder hierarchy. If you wish, create a shortcut to the 'Animal Crossing Catalog.exe' so that it can be located wherever is convenient for you to access it.
 
 # Technical Use
 
 ## The database
-The core of this application is the database. The application relies on the catalog.mdf database file to load and update data (whether the item is acquired or not) for the user. This database is composed of many tables which are named like '<game_type>\_<item_type>' where game_type is for which game (acgc or accf for now) and item_type is what kind of item the user wants to query/modify (furniture, clothes, bugs...).
+The core of this application is the database. The application relies on the catalogv1.mdf database file to load and update data (whether the item is acquired or not) for the user. This database is composed of many tables which are named like '<game_type>\_<item_type>' where game_type is for which game (acgc or accf for now) and item_type is what kind of item the user wants to query/modify (furniture, clothes, bugs...).
   
 ## The application
 The application is designed to interact with the database and present the user with the results. The DataGridView component is used to display data from the sql queries. The application filters the database based on several filters the user will input (name of item, where it’s from, etc...). The application is designed with the idea that users can use it quickly since it is meant to replace the .txt file approach of keeping track of what the user acquired.
